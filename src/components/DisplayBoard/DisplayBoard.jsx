@@ -2,6 +2,7 @@ import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "../../zhongguose.json"
 import "./DisplayBoard.css"
+import config from "../../config.json"
 
 class DisplayBoard extends React.Component {
 
@@ -25,22 +26,30 @@ class DisplayBoard extends React.Component {
 
     render() {
         return (
-            <div id="displayBoard" className="container-fluid">
-                {
-                    this.state.color["name_en"] && this.state.color["name_en"]
-                }
-                <br />
-                {
-                    this.state.color["name_zh"] && this.state.color["name_zh"]
-                }
-                <br />
-                {
-                    this.state.color.hex && this.state.color.hex
-                }
-                <br />
-                {
-                    this.state.color.label && this.state.color.label
-                }
+            <div id="displayBoard" className="d-flex align-items-center">
+
+                <div id="displayBoard-subbox" className="container pb-5">
+                    {
+                        this.state.color["name_en"] && <h1 id="name_en" style={{ textTransform: "uppercase" }}>{this.state.color["name_en"]}</h1>
+                    }
+                    <br />
+                    <blockquote id="displayBoard-subbox-info">
+                        {
+                            this.state.color["name_zh"] && <p id="name_zh">- {this.state.color["name_zh"]}</p>
+                        }
+                        {
+                            this.state.color["rgb"] && <p id="rgb">- {
+                                "(" + this.state.color.rgb.red + ", " + this.state.color.rgb.green + ", " + this.state.color.rgb.blue + ")"
+                            }</p>
+                        }
+                        {
+                            this.state.color.hex && <p id="hex">- {this.state.color.hex}</p>
+                        }
+                        {
+                            this.state.color.label && <cite id="label">- <a href={config.urls.zhongguose}>{this.state.color.label}</a></cite>
+                        }
+                    </blockquote>
+                </div>
             </div>
         )
     }

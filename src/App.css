@@ -3,3 +3,7 @@
     color: var(--bs-light);
     transition: background-color 2s ease;
 }
+
+#ChartView-box {
+    overflow: scroll;
+}

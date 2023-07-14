@@ -1,0 +1,24 @@
+#displayBoard {
+    min-height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#displayBoard a {
+    color: var(--bs-light);
+}
+
+#displayBoard-subbox {
+    width: max-content;
+}
+
+#displayBoard-subbox-info {
+    width: max-content;
+    text-align: justify;
+    letter-spacing: auto;
+}
+
+@media screen and (min-width: 768px) {
+    #displayBoard {
+        position: fixed;
+    }
+}

@@ -29,10 +29,10 @@ class App extends React.Component {
         return (
             <div id="App" className="container-fluid" style={{ backgroundColor: "#" + this.state.color.hex }}>
                 <div className="row">
-                    <div className="container-fluid col-12 col-md-5">
+                    <div className="d-flex container-fluid col-12 col-md-5 justify-content-center">
                         <DisplayBoard />
                     </div>
-                    <div className="container-fluid col-12 col-md-7">
+                    <div id="ChartView-box" className="container-fluid col-12 col-md-7">
                         <ChartView />
                     </div>
                 </div>
