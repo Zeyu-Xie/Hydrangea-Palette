@@ -8,9 +8,7 @@
             "blue": 35
         },
         "hex": "5C2223",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mudanfenhong",
@@ -21,9 +19,7 @@
             "blue": 164
         },
         "hex": "EEA2A4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lizi",
@@ -34,9 +30,7 @@
             "blue": 27
         },
         "hex": "5A191B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangyehong",
@@ -47,9 +41,7 @@
             "blue": 130
         },
         "hex": "F07C82",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "putaojiangzi",
@@ -60,9 +52,7 @@
             "blue": 22
         },
         "hex": "5A1216",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhong",
@@ -73,9 +63,7 @@
             "blue": 101
         },
         "hex": "ED5A65",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuhong",
@@ -86,9 +74,7 @@
             "blue": 81
         },
         "hex": "C04851",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chahuahong",
@@ -99,9 +85,7 @@
             "blue": 77
         },
         "hex": "EE3F4D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gaolianghong",
@@ -112,9 +96,7 @@
             "blue": 56
         },
         "hex": "C02C38",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "manjianghong",
@@ -125,9 +107,7 @@
             "blue": 90
         },
         "hex": "A7535A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shubihong",
@@ -138,9 +118,7 @@
             "blue": 184
         },
         "hex": "E3B4B8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hehuanhong",
@@ -151,9 +129,7 @@
             "blue": 168
         },
         "hex": "F0A1A8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chunmeihong",
@@ -164,9 +140,7 @@
             "blue": 156
         },
         "hex": "F1939C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiancaihong",
@@ -177,9 +151,7 @@
             "blue": 41
         },
         "hex": "A61B29",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhong",
@@ -190,9 +162,7 @@
             "blue": 84
         },
         "hex": "894E54",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meihong",
@@ -203,9 +173,7 @@
             "blue": 101
         },
         "hex": "C45A65",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "eguanhong",
@@ -216,9 +184,7 @@
             "blue": 45
         },
         "hex": "D11A2D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fengyehong",
@@ -229,9 +195,7 @@
             "blue": 48
         },
         "hex": "C21F30",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tangchangpuhong",
@@ -242,9 +206,7 @@
             "blue": 49
         },
         "hex": "DE1C31",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zaohong",
@@ -255,9 +217,7 @@
             "blue": 35
         },
         "hex": "7C1823",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhuganzi",
@@ -268,9 +228,7 @@
             "blue": 36
         },
         "hex": "541E24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "putaozi",
@@ -281,9 +239,7 @@
             "blue": 36
         },
         "hex": "4C1F24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "anziyuanhong",
@@ -294,9 +250,7 @@
             "blue": 43
         },
         "hex": "82202B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhong",
@@ -307,9 +261,7 @@
             "blue": 31
         },
         "hex": "82111F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caomolihong",
@@ -320,9 +272,7 @@
             "blue": 93
         },
         "hex": "EF475D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiangzi",
@@ -333,9 +283,7 @@
             "blue": 24
         },
         "hex": "4D1018",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanchahong",
@@ -346,9 +294,7 @@
             "blue": 106
         },
         "hex": "ED556A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xinhui",
@@ -359,9 +305,7 @@
             "blue": 116
         },
         "hex": "7A7374",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haitanghong",
@@ -372,9 +316,7 @@
             "blue": 82
         },
         "hex": "F03752",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jifenhong",
@@ -385,9 +327,7 @@
             "blue": 213
         },
         "hex": "E6D2D5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shiruihong",
@@ -398,9 +338,7 @@
             "blue": 207
         },
         "hex": "F0C9CF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danshuhong",
@@ -411,9 +349,7 @@
             "blue": 70
         },
         "hex": "EE2746",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lizi",
@@ -424,9 +360,7 @@
             "blue": 22
         },
         "hex": "2B1216",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shizhuhong",
@@ -437,9 +371,7 @@
             "blue": 99
         },
         "hex": "EE4863",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danqianhong",
@@ -450,9 +382,7 @@
             "blue": 142
         },
         "hex": "E77C8E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinyuzi",
@@ -463,9 +393,7 @@
             "blue": 22
         },
         "hex": "500A16",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanlidouhong",
@@ -476,9 +404,7 @@
             "blue": 136
         },
         "hex": "C27C88",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shubeihui",
@@ -489,9 +415,7 @@
             "blue": 92
         },
         "hex": "73575C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danruixianghong",
@@ -502,9 +426,7 @@
             "blue": 102
         },
         "hex": "EE4866",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganzhezi",
@@ -515,9 +437,7 @@
             "blue": 36
         },
         "hex": "621624",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuejihong",
@@ -528,9 +448,7 @@
             "blue": 119
         },
         "hex": "CE5777",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianjingyuhong",
@@ -541,9 +459,7 @@
             "blue": 58
         },
         "hex": "CC163A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shuihong",
@@ -554,9 +470,7 @@
             "blue": 205
         },
         "hex": "F1C4CD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianghong",
@@ -567,9 +481,7 @@
             "blue": 195
         },
         "hex": "EEB8C3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luhui",
@@ -580,9 +492,7 @@
             "blue": 114
         },
         "hex": "856D72",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qiepizi",
@@ -593,9 +503,7 @@
             "blue": 19
         },
         "hex": "2D0C13",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "cangyinghui",
@@ -606,9 +514,7 @@
             "blue": 43
         },
         "hex": "36282B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinkuihong",
@@ -619,9 +525,7 @@
             "blue": 83
         },
         "hex": "BF3553",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fentuanhuahong",
@@ -632,9 +536,7 @@
             "blue": 173
         },
         "hex": "EC9BAD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shizhuzi",
@@ -645,9 +547,7 @@
             "blue": 28
         },
         "hex": "63071C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luanshizi",
@@ -658,9 +558,7 @@
             "blue": 28
         },
         "hex": "30161C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinghong",
@@ -671,9 +569,7 @@
             "blue": 183
         },
         "hex": "EEA6B7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhilanzi",
@@ -684,9 +580,7 @@
             "blue": 211
         },
         "hex": "E9CCD3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shaoyaogenghong",
@@ -697,9 +591,7 @@
             "blue": 179
         },
         "hex": "EBA0B3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "muyunhui",
@@ -710,9 +602,7 @@
             "blue": 62
         },
         "hex": "4F383E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiangdouhong",
@@ -723,9 +613,7 @@
             "blue": 178
         },
         "hex": "ED9DB2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "baochunhong",
@@ -736,9 +624,7 @@
             "blue": 164
         },
         "hex": "EC8AA4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danjianghong",
@@ -749,9 +635,7 @@
             "blue": 150
         },
         "hex": "EC7696",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fengxianhuahong",
@@ -762,9 +646,7 @@
             "blue": 147
         },
         "hex": "EA7293",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiaguanghong",
@@ -775,9 +657,7 @@
             "blue": 160
         },
         "hex": "EF82A0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xidanhong",
@@ -788,9 +668,7 @@
             "blue": 100
         },
         "hex": "EC2C64",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiazhutaohong",
@@ -801,9 +679,7 @@
             "blue": 126
         },
         "hex": "EB507E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "songyemudanhong",
@@ -814,9 +690,7 @@
             "blue": 112
         },
         "hex": "EB3C70",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lianbanhong",
@@ -827,9 +701,7 @@
             "blue": 127
         },
         "hex": "EA517F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "baijihong",
@@ -840,9 +712,7 @@
             "blue": 151
         },
         "hex": "DE7897",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinhonghui",
@@ -853,9 +723,7 @@
             "blue": 161
         },
         "hex": "B598A1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wenpohong",
@@ -866,9 +734,7 @@
             "blue": 106
         },
         "hex": "ED2F6A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "cujiangcaohong",
@@ -879,9 +745,7 @@
             "blue": 139
         },
         "hex": "C5708B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huoezi",
@@ -892,9 +756,7 @@
             "blue": 30
         },
         "hex": "33141E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yaoguanzi",
@@ -905,9 +767,7 @@
             "blue": 52
         },
         "hex": "621D34",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pinhong",
@@ -918,9 +778,7 @@
             "blue": 115
         },
         "hex": "EF3473",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "moshizi",
@@ -931,9 +789,7 @@
             "blue": 41
         },
         "hex": "382129",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mozi",
@@ -944,9 +800,7 @@
             "blue": 27
         },
         "hex": "310F1B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tanzi",
@@ -957,9 +811,7 @@
             "blue": 36
         },
         "hex": "381924",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chuhehong",
@@ -970,9 +822,7 @@
             "blue": 150
         },
         "hex": "E16C96",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caitouzi",
@@ -983,9 +833,7 @@
             "blue": 72
         },
         "hex": "951C48",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "putaojiuhong",
@@ -996,9 +844,7 @@
             "blue": 46
         },
         "hex": "62102E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danqingzi",
@@ -1009,9 +855,7 @@
             "blue": 209
         },
         "hex": "E0C8D1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bogenhong",
@@ -1022,9 +866,7 @@
             "blue": 116
         },
         "hex": "D13C74",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haixiangzi",
@@ -1035,9 +877,7 @@
             "blue": 47
         },
         "hex": "4B1E2F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tuyanhong",
@@ -1048,9 +888,7 @@
             "blue": 138
         },
         "hex": "EC4E8A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "nenlinghong",
@@ -1061,9 +899,7 @@
             "blue": 124
         },
         "hex": "DE3F7C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yangcongzi",
@@ -1074,9 +910,7 @@
             "blue": 107
         },
         "hex": "A8456B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "diaozhonghuahong",
@@ -1087,9 +921,7 @@
             "blue": 138
         },
         "hex": "CE5E8A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganzi",
@@ -1100,9 +932,7 @@
             "blue": 41
         },
         "hex": "461629",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zijinghong",
@@ -1113,9 +943,7 @@
             "blue": 121
         },
         "hex": "EE2C79",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "biandouhuahong",
@@ -1126,9 +954,7 @@
             "blue": 139
         },
         "hex": "EF498B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mabiancaozi",
@@ -1139,9 +965,7 @@
             "blue": 231
         },
         "hex": "EDE3E7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "canghuahong",
@@ -1152,9 +976,7 @@
             "blue": 122
         },
         "hex": "EC2D7A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "banjiuhui",
@@ -1165,9 +987,7 @@
             "blue": 54
         },
         "hex": "482936",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gutongzi",
@@ -1178,9 +998,7 @@
             "blue": 37
         },
         "hex": "440E25",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danzihong",
@@ -1191,9 +1009,7 @@
             "blue": 140
         },
         "hex": "D2568C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dingxiangdanzi",
@@ -1204,9 +1020,7 @@
             "blue": 223
         },
         "hex": "E9D7DF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meiguihong",
@@ -1217,9 +1031,7 @@
             "blue": 125
         },
         "hex": "D2357D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gudinghui",
@@ -1230,9 +1042,7 @@
             "blue": 47
         },
         "hex": "36292F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lingmenghong",
@@ -1243,9 +1053,7 @@
             "blue": 163
         },
         "hex": "D276A3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yingcaozi",
@@ -1256,9 +1064,7 @@
             "blue": 152
         },
         "hex": "C06F98",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "longxuhong",
@@ -1269,9 +1075,7 @@
             "blue": 149
         },
         "hex": "CC5595",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dianqishihong",
@@ -1282,9 +1086,7 @@
             "blue": 145
         },
         "hex": "C35691",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meiguizi",
@@ -1295,9 +1097,7 @@
             "blue": 123
         },
         "hex": "BA2F7B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiancaizi",
@@ -1308,9 +1108,7 @@
             "blue": 100
         },
         "hex": "9B1E64",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zihui",
@@ -1321,9 +1119,7 @@
             "blue": 81
         },
         "hex": "5D3F51",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "longjingyuzi",
@@ -1334,9 +1130,7 @@
             "blue": 64
         },
         "hex": "4E2A40",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qinghakezi",
@@ -1347,9 +1141,7 @@
             "blue": 168
         },
         "hex": "BC84A8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luolanzi",
@@ -1360,9 +1152,7 @@
             "blue": 175
         },
         "hex": "C08EAF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "biqizi",
@@ -1373,9 +1163,7 @@
             "blue": 53
         },
         "hex": "411C35",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "doukouzi",
@@ -1386,9 +1174,7 @@
             "blue": 152
         },
         "hex": "AD6598",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "biandouzi",
@@ -1399,9 +1185,7 @@
             "blue": 143
         },
         "hex": "A35C8F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianniuzi",
@@ -1412,9 +1196,7 @@
             "blue": 82
         },
         "hex": "681752",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zizi",
@@ -1425,9 +1207,7 @@
             "blue": 118
         },
         "hex": "894276",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gejinzi",
@@ -1438,9 +1218,7 @@
             "blue": 101
         },
         "hex": "7E2065",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qinglian",
@@ -1451,9 +1229,7 @@
             "blue": 113
         },
         "hex": "8B2671",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiehuazi",
@@ -1464,9 +1240,7 @@
             "blue": 128
         },
         "hex": "983680",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fengxinzi",
@@ -1477,9 +1251,7 @@
             "blue": 196
         },
         "hex": "C8ADC4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shenqianniuzi",
@@ -1490,9 +1262,7 @@
             "blue": 26
         },
         "hex": "1C0D1A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "weizi",
@@ -1503,9 +1273,7 @@
             "blue": 113
         },
         "hex": "7E1671",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wumeizi",
@@ -1516,9 +1284,7 @@
             "blue": 29
         },
         "hex": "1E131D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiegengzi",
@@ -1529,9 +1295,7 @@
             "blue": 133
         },
         "hex": "813C85",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danqianniuzi",
@@ -1542,9 +1306,7 @@
             "blue": 211
         },
         "hex": "D1C2D3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianfengzi",
@@ -1555,9 +1317,7 @@
             "blue": 65
         },
         "hex": "3E3841",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xunzi",
@@ -1568,9 +1328,7 @@
             "blue": 148
         },
         "hex": "815C94",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinzi",
@@ -1581,9 +1339,7 @@
             "blue": 158
         },
         "hex": "806D9E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianshibai",
@@ -1594,9 +1350,7 @@
             "blue": 228
         },
         "hex": "E2E1E4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "longkuizi",
@@ -1607,9 +1361,7 @@
             "blue": 59
         },
         "hex": "322F3B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tengluozi",
@@ -1620,9 +1372,7 @@
             "blue": 163
         },
         "hex": "8076A3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shayuhui",
@@ -1633,9 +1383,7 @@
             "blue": 60
         },
         "hex": "35333C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "anlongdanzi",
@@ -1646,9 +1394,7 @@
             "blue": 46
         },
         "hex": "22202E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "anlanzi",
@@ -1659,9 +1405,7 @@
             "blue": 36
         },
         "hex": "131124",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yeputaozi",
@@ -1672,9 +1416,7 @@
             "blue": 75
         },
         "hex": "302F4B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yejuzi",
@@ -1685,9 +1427,7 @@
             "blue": 136
         },
         "hex": "525288",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shuiniuhui",
@@ -1698,9 +1438,7 @@
             "blue": 53
         },
         "hex": "2F2F35",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuanshanzi",
@@ -1711,9 +1449,7 @@
             "blue": 214
         },
         "hex": "CCCCD6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luodianzi",
@@ -1724,9 +1460,7 @@
             "blue": 155
         },
         "hex": "74759B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jingshizi",
@@ -1737,9 +1471,7 @@
             "blue": 64
         },
         "hex": "1F2040",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mantianxingzi",
@@ -1750,9 +1482,7 @@
             "blue": 124
         },
         "hex": "2E317C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danlanzi",
@@ -1763,9 +1493,7 @@
             "blue": 189
         },
         "hex": "A7A8BD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shangengzi",
@@ -1776,9 +1504,7 @@
             "blue": 159
         },
         "hex": "61649F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "niujiaohui",
@@ -1789,9 +1515,7 @@
             "blue": 54
         },
         "hex": "2D2E36",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuweihui",
@@ -1802,9 +1526,7 @@
             "blue": 109
         },
         "hex": "5E616D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "waguanhui",
@@ -1815,9 +1537,7 @@
             "blue": 76
         },
         "hex": "47484C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganglan",
@@ -1828,9 +1548,7 @@
             "blue": 35
         },
         "hex": "0F1423",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhanlan",
@@ -1841,9 +1559,7 @@
             "blue": 36
         },
         "hex": "131824",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jingyuhui",
@@ -1854,9 +1570,7 @@
             "blue": 100
         },
         "hex": "475164",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qinghui",
@@ -1867,9 +1581,7 @@
             "blue": 62
         },
         "hex": "2B333E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gelan",
@@ -1880,9 +1592,7 @@
             "blue": 56
         },
         "hex": "1C2938",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "anlan",
@@ -1893,9 +1603,7 @@
             "blue": 48
         },
         "hex": "101F30",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gangqing",
@@ -1906,9 +1614,7 @@
             "blue": 52
         },
         "hex": "142334",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haitaolan",
@@ -1919,9 +1625,7 @@
             "blue": 154
         },
         "hex": "15559A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "feiyancaolan",
@@ -1932,9 +1636,7 @@
             "blue": 164
         },
         "hex": "0F59A4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dianqing",
@@ -1945,9 +1647,7 @@
             "blue": 171
         },
         "hex": "1661AB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ananlan",
@@ -1958,9 +1658,7 @@
             "blue": 167
         },
         "hex": "3170A7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haijunlan",
@@ -1971,9 +1669,7 @@
             "blue": 156
         },
         "hex": "346C9C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jingtailan",
@@ -1984,9 +1680,7 @@
             "blue": 182
         },
         "hex": "2775B6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pinlan",
@@ -1997,9 +1691,7 @@
             "blue": 175
         },
         "hex": "2B73AF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "niluolan",
@@ -2010,9 +1702,7 @@
             "blue": 181
         },
         "hex": "2474B5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "diechilan",
@@ -2023,9 +1713,7 @@
             "blue": 161
         },
         "hex": "4E7CA1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huaqing",
@@ -2036,9 +1724,7 @@
             "blue": 183
         },
         "hex": "2376B7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanlan",
@@ -2049,9 +1735,7 @@
             "blue": 116
         },
         "hex": "144A74",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xinglan",
@@ -2062,9 +1746,7 @@
             "blue": 207
         },
         "hex": "93B5CF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "honglan",
@@ -2075,9 +1757,7 @@
             "blue": 184
         },
         "hex": "2177B8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bolinlan",
@@ -2088,9 +1768,7 @@
             "blue": 174
         },
         "hex": "126BAE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qunqing",
@@ -2101,9 +1779,7 @@
             "blue": 180
         },
         "hex": "1772B4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yunshuilan",
@@ -2114,9 +1790,7 @@
             "blue": 217
         },
         "hex": "BACCD9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yushandoulan",
@@ -2127,9 +1801,7 @@
             "blue": 195
         },
         "hex": "619AC3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhanjianhui",
@@ -2140,9 +1812,7 @@
             "blue": 105
         },
         "hex": "495C69",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qingshanlan",
@@ -2153,9 +1823,7 @@
             "blue": 201
         },
         "hex": "8FB2C9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinglan",
@@ -2166,9 +1834,7 @@
             "blue": 195
         },
         "hex": "5698C3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tangcilan",
@@ -2179,9 +1845,7 @@
             "blue": 154
         },
         "hex": "11659A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chaolan",
@@ -2192,9 +1856,7 @@
             "blue": 187
         },
         "hex": "2983BB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tianlan",
@@ -2205,9 +1867,7 @@
             "blue": 179
         },
         "hex": "1677B3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dalishihui",
@@ -2218,9 +1878,7 @@
             "blue": 207
         },
         "hex": "C4CBCF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianniuhualan",
@@ -2231,9 +1889,7 @@
             "blue": 176
         },
         "hex": "1177B0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "baoshilan",
@@ -2244,9 +1900,7 @@
             "blue": 185
         },
         "hex": "2486B9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danlanhui",
@@ -2257,9 +1911,7 @@
             "blue": 135
         },
         "hex": "5E7987",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "nenhui",
@@ -2270,9 +1922,7 @@
             "blue": 122
         },
         "hex": "74787A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinyubai",
@@ -2283,9 +1933,7 @@
             "blue": 211
         },
         "hex": "CDD1D3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "youlan",
@@ -2296,9 +1944,7 @@
             "blue": 181
         },
         "hex": "1781B5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianshilan",
@@ -2309,9 +1955,7 @@
             "blue": 201
         },
         "hex": "66A9C9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuantianlan",
@@ -2322,9 +1966,7 @@
             "blue": 230
         },
         "hex": "D0DFE6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yunshanlan",
@@ -2335,9 +1977,7 @@
             "blue": 185
         },
         "hex": "2F90B9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qiubolan",
@@ -2348,9 +1988,7 @@
             "blue": 209
         },
         "hex": "8ABCD1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jingtianlan",
@@ -2361,9 +1999,7 @@
             "blue": 223
         },
         "hex": "C3D7DF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuanweilan",
@@ -2374,9 +2010,7 @@
             "blue": 184
         },
         "hex": "158BB8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yunfengbai",
@@ -2387,9 +2021,7 @@
             "blue": 231
         },
         "hex": "D8E3E7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xinghui",
@@ -2400,9 +2032,7 @@
             "blue": 190
         },
         "hex": "B2BBBE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gulan",
@@ -2413,9 +2043,7 @@
             "blue": 188
         },
         "hex": "1A94BC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "biqing",
@@ -2426,9 +2054,7 @@
             "blue": 204
         },
         "hex": "5CB3CC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "canglan",
@@ -2439,9 +2065,7 @@
             "blue": 87
         },
         "hex": "134857",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shenhuilan",
@@ -2452,9 +2076,7 @@
             "blue": 51
         },
         "hex": "132C33",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huilan",
@@ -2465,9 +2087,7 @@
             "blue": 61
         },
         "hex": "21373D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hushuilan",
@@ -2478,9 +2098,7 @@
             "blue": 223
         },
         "hex": "B0D5DF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haiqing",
@@ -2491,9 +2109,7 @@
             "blue": 195
         },
         "hex": "22A2C3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huanghunhui",
@@ -2504,9 +2120,7 @@
             "blue": 76
         },
         "hex": "474B4C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiqing",
@@ -2517,9 +2131,7 @@
             "blue": 208
         },
         "hex": "63BBD0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuqinlan",
@@ -2530,9 +2142,7 @@
             "blue": 130
         },
         "hex": "126E82",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danfanlan",
@@ -2543,9 +2153,7 @@
             "blue": 176
         },
         "hex": "0F95B0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianniaolan",
@@ -2556,9 +2164,7 @@
             "blue": 168
         },
         "hex": "1491A8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "oulan",
@@ -2569,9 +2175,7 @@
             "blue": 212
         },
         "hex": "C7D2D4",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "cuilan",
@@ -2582,9 +2186,7 @@
             "blue": 179
         },
         "hex": "1E9EB3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qingtinglan",
@@ -2595,9 +2197,7 @@
             "blue": 140
         },
         "hex": "3B818C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kongquelan",
@@ -2608,9 +2208,7 @@
             "blue": 201
         },
         "hex": "0EB0C9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "weilan",
@@ -2621,9 +2219,7 @@
             "blue": 203
         },
         "hex": "29B7CB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pubulan",
@@ -2634,9 +2230,7 @@
             "blue": 211
         },
         "hex": "51C4D3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanlan",
@@ -2647,9 +2241,7 @@
             "blue": 177
         },
         "hex": "7CABB1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dianzilan",
@@ -2660,9 +2252,7 @@
             "blue": 194
         },
         "hex": "10AEC2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wanbolan",
@@ -2673,9 +2263,7 @@
             "blue": 147
         },
         "hex": "648E93",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qingshuilan",
@@ -2686,9 +2274,7 @@
             "blue": 220
         },
         "hex": "93D5DC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiayunhui",
@@ -2699,9 +2285,7 @@
             "blue": 114
         },
         "hex": "617172",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haitianlan",
@@ -2712,9 +2296,7 @@
             "blue": 232
         },
         "hex": "C6E6E8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiakeqing",
@@ -2725,9 +2307,7 @@
             "blue": 157
         },
         "hex": "869D9D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shilv",
@@ -2738,9 +2318,7 @@
             "blue": 194
         },
         "hex": "57C3C2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qionghui",
@@ -2751,9 +2329,7 @@
             "blue": 214
         },
         "hex": "C4D7D6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meidielv",
@@ -2764,9 +2340,7 @@
             "blue": 156
         },
         "hex": "12AA9C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ehui",
@@ -2777,9 +2351,7 @@
             "blue": 123
         },
         "hex": "737C7B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lanlv",
@@ -2790,9 +2362,7 @@
             "blue": 130
         },
         "hex": "12A182",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhulv",
@@ -2803,9 +2373,7 @@
             "blue": 132
         },
         "hex": "1BA784",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yadinglv",
@@ -2816,9 +2384,7 @@
             "blue": 117
         },
         "hex": "428675",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yueyingbai",
@@ -2829,9 +2395,7 @@
             "blue": 195
         },
         "hex": "C0C4C3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haiwanglv",
@@ -2842,9 +2406,7 @@
             "blue": 103
         },
         "hex": "248067",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shenhailv",
@@ -2855,9 +2417,7 @@
             "blue": 50
         },
         "hex": "1A3B32",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lvhui",
@@ -2868,9 +2428,7 @@
             "blue": 67
         },
         "hex": "314A43",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qingfanlv",
@@ -2881,9 +2439,7 @@
             "blue": 120
         },
         "hex": "2C9678",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "canglv",
@@ -2894,9 +2450,7 @@
             "blue": 54
         },
         "hex": "223E36",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "feiquanlv",
@@ -2907,9 +2461,7 @@
             "blue": 104
         },
         "hex": "497568",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mangconglv",
@@ -2920,9 +2472,7 @@
             "blue": 27
         },
         "hex": "141E1B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wuzhilv",
@@ -2933,9 +2483,7 @@
             "blue": 148
         },
         "hex": "69A794",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tonglv",
@@ -2946,9 +2494,7 @@
             "blue": 133
         },
         "hex": "2BAE85",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caoyuanyuanlv",
@@ -2959,9 +2505,7 @@
             "blue": 175
         },
         "hex": "9ABEAF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "walv",
@@ -2972,9 +2516,7 @@
             "blue": 135
         },
         "hex": "45B787",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "langhualv",
@@ -2985,9 +2527,7 @@
             "blue": 165
         },
         "hex": "92B3A5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganlanlv",
@@ -2998,9 +2538,7 @@
             "blue": 35
         },
         "hex": "1F2623",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fenlv",
@@ -3011,9 +2549,7 @@
             "blue": 172
         },
         "hex": "83CBAC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danlvhui",
@@ -3024,9 +2560,7 @@
             "blue": 125
         },
         "hex": "70887D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "maimiaolv",
@@ -3037,9 +2571,7 @@
             "blue": 138
         },
         "hex": "55BB8A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "cuilv",
@@ -3050,9 +2582,7 @@
             "blue": 98
         },
         "hex": "20A162",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "conglv",
@@ -3063,9 +2593,7 @@
             "blue": 112
         },
         "hex": "40A070",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "heyelv",
@@ -3076,9 +2604,7 @@
             "blue": 64
         },
         "hex": "1A6840",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danlv",
@@ -3089,9 +2615,7 @@
             "blue": 133
         },
         "hex": "61AC85",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tianyuanlv",
@@ -3102,9 +2626,7 @@
             "blue": 142
         },
         "hex": "68B88E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuzanlv",
@@ -3115,9 +2637,7 @@
             "blue": 182
         },
         "hex": "A4CAB6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chanlv",
@@ -3128,9 +2648,7 @@
             "blue": 102
         },
         "hex": "3C9566",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "koushaolv",
@@ -3141,9 +2659,7 @@
             "blue": 138
         },
         "hex": "5DBE8A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bohelv",
@@ -3154,9 +2670,7 @@
             "blue": 76
         },
         "hex": "207F4C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuebai",
@@ -3167,9 +2681,7 @@
             "blue": 242
         },
         "hex": "EEF7F2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danbaishilv",
@@ -3180,9 +2692,7 @@
             "blue": 114
         },
         "hex": "579572",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhuhuanglv",
@@ -3193,9 +2703,7 @@
             "blue": 201
         },
         "hex": "B9DEC9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kongquelv",
@@ -3206,9 +2714,7 @@
             "blue": 83
         },
         "hex": "229453",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gongdianlv",
@@ -3219,9 +2725,7 @@
             "blue": 77
         },
         "hex": "20894D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yunshanlv",
@@ -3232,9 +2736,7 @@
             "blue": 27
         },
         "hex": "15231B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "maolv",
@@ -3245,9 +2747,7 @@
             "blue": 140
         },
         "hex": "66C18C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bingshanlan",
@@ -3258,9 +2758,7 @@
             "blue": 167
         },
         "hex": "A4ACA7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "minghui",
@@ -3271,9 +2769,7 @@
             "blue": 142
         },
         "hex": "8A988E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "minglv",
@@ -3284,9 +2780,7 @@
             "blue": 171
         },
         "hex": "9ECCAB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "songshuanglv",
@@ -3297,9 +2791,7 @@
             "blue": 141
         },
         "hex": "83A78D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "baiqucailv",
@@ -3310,9 +2802,7 @@
             "blue": 77
         },
         "hex": "485B4D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "langyanhui",
@@ -3323,9 +2813,7 @@
             "blue": 95
         },
         "hex": "5D655F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wasonglv",
@@ -3336,9 +2824,7 @@
             "blue": 116
         },
         "hex": "6E8B74",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hujishenglv",
@@ -3349,9 +2835,7 @@
             "blue": 44
         },
         "hex": "2B312C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dancuilv",
@@ -3362,9 +2846,7 @@
             "blue": 200
         },
         "hex": "C6DFC8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yusuilv",
@@ -3375,9 +2857,7 @@
             "blue": 73
         },
         "hex": "41B349",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xianlv",
@@ -3388,9 +2868,7 @@
             "blue": 68
         },
         "hex": "43B244",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "youlv",
@@ -3401,9 +2879,7 @@
             "blue": 36
         },
         "hex": "253D24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "baoshilv",
@@ -3414,9 +2890,7 @@
             "blue": 60
         },
         "hex": "41AE3C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jialingshuilv",
@@ -3427,9 +2901,7 @@
             "blue": 162
         },
         "hex": "ADD5A2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tianluolv",
@@ -3440,9 +2912,7 @@
             "blue": 91
         },
         "hex": "5E665B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shuilv",
@@ -3453,9 +2923,7 @@
             "blue": 105
         },
         "hex": "8CC269",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yingwulv",
@@ -3466,9 +2934,7 @@
             "blue": 35
         },
         "hex": "5BAE23",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "aibeilv",
@@ -3479,9 +2945,7 @@
             "blue": 213
         },
         "hex": "DFECD5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ailv",
@@ -3492,9 +2956,7 @@
             "blue": 195
         },
         "hex": "CAD3C3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "niehui",
@@ -3505,9 +2967,7 @@
             "blue": 154
         },
         "hex": "9FA39A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganlanshilv",
@@ -3518,9 +2978,7 @@
             "blue": 135
         },
         "hex": "B2CF87",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yalv",
@@ -3531,9 +2989,7 @@
             "blue": 78
         },
         "hex": "96C24E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "nenjulv",
@@ -3544,9 +3000,7 @@
             "blue": 229
         },
         "hex": "F0F5E5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luweilv",
@@ -3557,9 +3011,7 @@
             "blue": 122
         },
         "hex": "B7D07A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yaohuang",
@@ -3570,9 +3022,7 @@
             "blue": 170
         },
         "hex": "D0DEAA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "enyoulv",
@@ -3583,9 +3033,7 @@
             "blue": 52
         },
         "hex": "373834",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pingguolv",
@@ -3596,9 +3044,7 @@
             "blue": 101
         },
         "hex": "BACF65",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haimeilv",
@@ -3609,9 +3055,7 @@
             "blue": 191
         },
         "hex": "E2E7BF",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganlanhuanglv",
@@ -3622,9 +3066,7 @@
             "blue": 54
         },
         "hex": "BEC936",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huaihuahuanglv",
@@ -3635,9 +3077,7 @@
             "blue": 122
         },
         "hex": "D2D97A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "diehuang",
@@ -3648,9 +3088,7 @@
             "blue": 73
         },
         "hex": "E2D849",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangyabai",
@@ -3661,9 +3099,7 @@
             "blue": 248
         },
         "hex": "FFFEF8",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganlanlv",
@@ -3674,9 +3110,7 @@
             "blue": 20
         },
         "hex": "5E5314",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xuebai",
@@ -3687,9 +3121,7 @@
             "blue": 249
         },
         "hex": "FFFEF9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danhuilv",
@@ -3700,9 +3132,7 @@
             "blue": 95
         },
         "hex": "AD9E5F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "foshouhuang",
@@ -3713,9 +3143,7 @@
             "blue": 26
         },
         "hex": "FED71A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "rubai",
@@ -3726,9 +3154,7 @@
             "blue": 220
         },
         "hex": "F9F4DC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangjiaohuang",
@@ -3739,9 +3165,7 @@
             "blue": 17
         },
         "hex": "E4BF11",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xinhelv",
@@ -3752,9 +3176,7 @@
             "blue": 22
         },
         "hex": "D2B116",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "youcaihuahuang",
@@ -3765,9 +3187,7 @@
             "blue": 65
         },
         "hex": "FBDA41",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qiukuihuang",
@@ -3778,9 +3198,7 @@
             "blue": 69
         },
         "hex": "EED045",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "youhuang",
@@ -3791,9 +3209,7 @@
             "blue": 23
         },
         "hex": "F1CA17",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caohuang",
@@ -3804,9 +3220,7 @@
             "blue": 44
         },
         "hex": "D2B42C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "liuhuahuang",
@@ -3817,9 +3231,7 @@
             "blue": 43
         },
         "hex": "F2CE2B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jianghuang",
@@ -3830,9 +3242,7 @@
             "blue": 39
         },
         "hex": "E2C027",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tanshuilv",
@@ -3843,9 +3253,7 @@
             "blue": 34
         },
         "hex": "645822",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinguahuang",
@@ -3856,9 +3264,7 @@
             "blue": 23
         },
         "hex": "FCD217",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "maiganhuang",
@@ -3869,9 +3275,7 @@
             "blue": 112
         },
         "hex": "F8DF70",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haohuang",
@@ -3882,9 +3286,7 @@
             "blue": 67
         },
         "hex": "DFC243",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "molihuang",
@@ -3895,9 +3297,7 @@
             "blue": 114
         },
         "hex": "F8DF72",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tenghuang",
@@ -3908,9 +3308,7 @@
             "blue": 17
         },
         "hex": "FFD111",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mangguohuang",
@@ -3921,9 +3319,7 @@
             "blue": 113
         },
         "hex": "DDC871",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haishenhui",
@@ -3934,9 +3330,7 @@
             "blue": 250
         },
         "hex": "FFFEFA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "biluochunlv",
@@ -3947,9 +3341,7 @@
             "blue": 24
         },
         "hex": "867018",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tailv",
@@ -3960,9 +3352,7 @@
             "blue": 34
         },
         "hex": "887322",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ningmenghuang",
@@ -3973,9 +3363,7 @@
             "blue": 55
         },
         "hex": "FCD337",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caohuilv",
@@ -3986,9 +3374,7 @@
             "blue": 75
         },
         "hex": "8E804B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangrikuihuang",
@@ -3999,9 +3385,7 @@
             "blue": 17
         },
         "hex": "FECC11",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "suxinhuang",
@@ -4012,9 +3396,7 @@
             "blue": 22
         },
         "hex": "FCCB16",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ruyahuang",
@@ -4025,9 +3407,7 @@
             "blue": 12
         },
         "hex": "FFC90C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yuehui",
@@ -4038,9 +3418,7 @@
             "blue": 143
         },
         "hex": "B7AE8F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kuishanhuang",
@@ -4051,9 +3429,7 @@
             "blue": 106
         },
         "hex": "F8D86A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dadouhuang",
@@ -4064,9 +3440,7 @@
             "blue": 49
         },
         "hex": "FBCD31",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinzhanhuang",
@@ -4077,9 +3451,7 @@
             "blue": 7
         },
         "hex": "FCC307",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "juleibai",
@@ -4090,9 +3462,7 @@
             "blue": 182
         },
         "hex": "E9DDB6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huanglianhuang",
@@ -4103,9 +3473,7 @@
             "blue": 21
         },
         "hex": "FCC515",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xingrenhuang",
@@ -4116,9 +3484,7 @@
             "blue": 170
         },
         "hex": "F7E8AA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guhuang",
@@ -4129,9 +3495,7 @@
             "blue": 4
         },
         "hex": "E8B004",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "muguahuang",
@@ -4142,9 +3506,7 @@
             "blue": 22
         },
         "hex": "F9C116",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danjianhuang",
@@ -4155,9 +3517,7 @@
             "blue": 112
         },
         "hex": "F9D770",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yalihuang",
@@ -4168,9 +3528,7 @@
             "blue": 47
         },
         "hex": "FBC82F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinbai",
@@ -4181,9 +3539,7 @@
             "blue": 237
         },
         "hex": "F1F0ED",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zonglvlv",
@@ -4194,9 +3550,7 @@
             "blue": 19
         },
         "hex": "5B4913",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yingwuguanhuang",
@@ -4207,9 +3561,7 @@
             "blue": 48
         },
         "hex": "F6C430",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kulv",
@@ -4220,9 +3572,7 @@
             "blue": 18
         },
         "hex": "B78D12",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianlaohuang",
@@ -4233,9 +3583,7 @@
             "blue": 16
         },
         "hex": "F9BD10",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danmihuang",
@@ -4246,9 +3594,7 @@
             "blue": 103
         },
         "hex": "F9D367",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiehuang",
@@ -4259,9 +3605,7 @@
             "blue": 14
         },
         "hex": "D9A40E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhizihuang",
@@ -4272,9 +3616,7 @@
             "blue": 13
         },
         "hex": "EBB10D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "anhaishuilv",
@@ -4285,9 +3627,7 @@
             "blue": 23
         },
         "hex": "584717",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "miehuang",
@@ -4298,9 +3638,7 @@
             "blue": 152
         },
         "hex": "F7DE98",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bangroubai",
@@ -4311,9 +3649,7 @@
             "blue": 219
         },
         "hex": "F9F1DB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chaomihuang",
@@ -4324,9 +3660,7 @@
             "blue": 105
         },
         "hex": "F4CE69",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hupohuang",
@@ -4337,9 +3671,7 @@
             "blue": 7
         },
         "hex": "FEBA07",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huilv",
@@ -4350,9 +3682,7 @@
             "blue": 19
         },
         "hex": "8A6913",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zongyelv",
@@ -4363,9 +3693,7 @@
             "blue": 24
         },
         "hex": "876818",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chenhui",
@@ -4376,9 +3704,7 @@
             "blue": 118
         },
         "hex": "B6A476",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "youhuang",
@@ -4389,9 +3715,7 @@
             "blue": 10
         },
         "hex": "FCB70A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangyahuang",
@@ -4402,9 +3726,7 @@
             "blue": 149
         },
         "hex": "F0D695",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiaoqing",
@@ -4415,9 +3737,7 @@
             "blue": 62
         },
         "hex": "87723E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "douzhihuang",
@@ -4428,9 +3748,7 @@
             "blue": 193
         },
         "hex": "F8E8C1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tuhuang",
@@ -4441,9 +3759,7 @@
             "blue": 29
         },
         "hex": "D6A01D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangshuimeiguihuang",
@@ -4454,9 +3770,7 @@
             "blue": 148
         },
         "hex": "F7DA94",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hupihuang",
@@ -4467,9 +3781,7 @@
             "blue": 26
         },
         "hex": "EAAD1A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jidanhuang",
@@ -4480,9 +3792,7 @@
             "blue": 18
         },
         "hex": "FBB612",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinshuhui",
@@ -4493,9 +3803,7 @@
             "blue": 144
         },
         "hex": "B5AA90",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yudubai",
@@ -4506,9 +3814,7 @@
             "blue": 237
         },
         "hex": "F7F4ED",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chushuxinghuang",
@@ -4519,9 +3825,7 @@
             "blue": 49
         },
         "hex": "F8BC31",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanjihuang",
@@ -4532,9 +3836,7 @@
             "blue": 38
         },
         "hex": "B78B26",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lianzibai",
@@ -4545,9 +3847,7 @@
             "blue": 170
         },
         "hex": "E5D3AA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiekehui",
@@ -4558,9 +3858,7 @@
             "blue": 69
         },
         "hex": "695E45",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shashihuang",
@@ -4571,9 +3869,7 @@
             "blue": 81
         },
         "hex": "E5B751",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gancaohuang",
@@ -4584,9 +3880,7 @@
             "blue": 76
         },
         "hex": "F3BF4C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanyuhui",
@@ -4597,9 +3891,7 @@
             "blue": 72
         },
         "hex": "685E48",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ezhanghuang",
@@ -4610,9 +3902,7 @@
             "blue": 41
         },
         "hex": "FBB929",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "maiyatanghuang",
@@ -4623,9 +3913,7 @@
             "blue": 125
         },
         "hex": "F9D27D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qiantuose",
@@ -4636,9 +3924,7 @@
             "blue": 124
         },
         "hex": "E2C17C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "bailingniaohui",
@@ -4649,9 +3935,7 @@
             "blue": 146
         },
         "hex": "B4A992",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "laohuang",
@@ -4662,9 +3946,7 @@
             "blue": 173
         },
         "hex": "F6DEAD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "liroubai",
@@ -4675,9 +3957,7 @@
             "blue": 206
         },
         "hex": "F2E6CE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danrouse",
@@ -4688,9 +3968,7 @@
             "blue": 176
         },
         "hex": "F8E0B0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hetunhui",
@@ -4701,9 +3979,7 @@
             "blue": 51
         },
         "hex": "393733",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yililv",
@@ -4714,9 +3990,7 @@
             "blue": 29
         },
         "hex": "835E1D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hanbaiyu",
@@ -4727,9 +4001,7 @@
             "blue": 237
         },
         "hex": "F8F4ED",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chengpihuang",
@@ -4740,9 +4012,7 @@
             "blue": 4
         },
         "hex": "FCA104",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "laiyanglihuang",
@@ -4753,9 +4023,7 @@
             "blue": 37
         },
         "hex": "815F25",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pipahuang",
@@ -4766,9 +4034,7 @@
             "blue": 6
         },
         "hex": "FCA106",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinyehuang",
@@ -4779,9 +4045,7 @@
             "blue": 15
         },
         "hex": "FFA60F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "canghuang",
@@ -4792,9 +4056,7 @@
             "blue": 50
         },
         "hex": "806332",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fenbai",
@@ -4805,9 +4067,7 @@
             "blue": 227
         },
         "hex": "FBF2E3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danjucheng",
@@ -4818,9 +4078,7 @@
             "blue": 20
         },
         "hex": "FBA414",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhenzhuhui",
@@ -4831,9 +4089,7 @@
             "blue": 215
         },
         "hex": "E4DFD7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guibeihuang",
@@ -4844,9 +4100,7 @@
             "blue": 72
         },
         "hex": "826B48",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianhui",
@@ -4857,9 +4111,7 @@
             "blue": 203
         },
         "hex": "DAD4CB",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qianhui",
@@ -4870,9 +4122,7 @@
             "blue": 172
         },
         "hex": "BBB5AC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhonghui",
@@ -4883,9 +4133,7 @@
             "blue": 172
         },
         "hex": "BBB5AC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xionghuang",
@@ -4896,9 +4144,7 @@
             "blue": 0
         },
         "hex": "FF9900",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mihuang",
@@ -4909,9 +4155,7 @@
             "blue": 87
         },
         "hex": "FBB957",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fengfanhuang",
@@ -4922,9 +4166,7 @@
             "blue": 35
         },
         "hex": "DC9123",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guipidanzong",
@@ -4935,9 +4177,7 @@
             "blue": 81
         },
         "hex": "C09351",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinyinghuang",
@@ -4948,9 +4188,7 @@
             "blue": 58
         },
         "hex": "F4A83A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "rouse",
@@ -4961,9 +4199,7 @@
             "blue": 115
         },
         "hex": "F7C173",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "diaoyezong",
@@ -4974,9 +4210,7 @@
             "blue": 63
         },
         "hex": "E7A23F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gutonglv",
@@ -4987,9 +4221,7 @@
             "blue": 27
         },
         "hex": "533C1B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luoyingdanfen",
@@ -5000,9 +4232,7 @@
             "blue": 208
         },
         "hex": "F9E8D0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ruanmuhuang",
@@ -5013,9 +4243,7 @@
             "blue": 68
         },
         "hex": "DE9E44",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guarangfen",
@@ -5026,9 +4254,7 @@
             "blue": 139
         },
         "hex": "F9CB8B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "liuehuang",
@@ -5039,9 +4265,7 @@
             "blue": 51
         },
         "hex": "F9A633",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "daimaohuang",
@@ -5052,9 +4276,7 @@
             "blue": 90
         },
         "hex": "DAA45A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiaochalv",
@@ -5065,9 +4287,7 @@
             "blue": 24
         },
         "hex": "553B18",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiekelv",
@@ -5078,9 +4298,7 @@
             "blue": 32
         },
         "hex": "513C20",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanjihe",
@@ -5091,9 +4309,7 @@
             "blue": 36
         },
         "hex": "986524",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "houmaohui",
@@ -5104,9 +4320,7 @@
             "blue": 108
         },
         "hex": "97846C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lujiaozong",
@@ -5117,9 +4331,7 @@
             "blue": 141
         },
         "hex": "E3BD8D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dansongyan",
@@ -5130,9 +4342,7 @@
             "blue": 48
         },
         "hex": "4D4030",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wanshoujuhuang",
@@ -5143,9 +4353,7 @@
             "blue": 5
         },
         "hex": "FB8B05",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dankehuang",
@@ -5156,9 +4364,7 @@
             "blue": 135
         },
         "hex": "F8C387",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xinghuang",
@@ -5169,9 +4375,7 @@
             "blue": 22
         },
         "hex": "F28E16",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganlanhui",
@@ -5182,9 +4386,7 @@
             "blue": 42
         },
         "hex": "503E2A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hehui",
@@ -5195,9 +4397,7 @@
             "blue": 53
         },
         "hex": "4A4035",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "manaohui",
@@ -5208,9 +4408,7 @@
             "blue": 201
         },
         "hex": "CFCCC9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danyinhui",
@@ -5221,9 +4419,7 @@
             "blue": 163
         },
         "hex": "C1B2A3",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wahui",
@@ -5234,9 +4430,7 @@
             "blue": 118
         },
         "hex": "867E76",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yehui",
@@ -5247,9 +4441,7 @@
             "blue": 116
         },
         "hex": "847C74",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "beiguahuang",
@@ -5260,9 +4452,7 @@
             "blue": 35
         },
         "hex": "FC8C23",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hehuabai",
@@ -5273,9 +4463,7 @@
             "blue": 222
         },
         "hex": "FBECDE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "songshuhui",
@@ -5286,9 +4474,7 @@
             "blue": 50
         },
         "hex": "4F4032",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danmifen",
@@ -5299,9 +4485,7 @@
             "blue": 226
         },
         "hex": "FBEEE2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shenhui",
@@ -5312,9 +4496,7 @@
             "blue": 110
         },
         "hex": "81776E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haiouhui",
@@ -5325,9 +4507,7 @@
             "blue": 120
         },
         "hex": "9A8878",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chahe",
@@ -5338,9 +4518,7 @@
             "blue": 33
         },
         "hex": "5D3D21",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tuose",
@@ -5351,9 +4529,7 @@
             "blue": 42
         },
         "hex": "66462A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinhui",
@@ -5364,9 +4540,7 @@
             "blue": 114
         },
         "hex": "918072",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lupihe",
@@ -5377,9 +4551,7 @@
             "blue": 86
         },
         "hex": "D99156",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "binglangzong",
@@ -5390,9 +4562,7 @@
             "blue": 26
         },
         "hex": "C1651A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiaohui",
@@ -5403,9 +4573,7 @@
             "blue": 183
         },
         "hex": "D4C4B7",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danzhe",
@@ -5416,9 +4584,7 @@
             "blue": 74
         },
         "hex": "BE7E4A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "gutonghe",
@@ -5429,9 +4595,7 @@
             "blue": 25
         },
         "hex": "5C3719",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jizong",
@@ -5442,9 +4606,7 @@
             "blue": 34
         },
         "hex": "DE7622",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zuiguarou",
@@ -5455,9 +4617,7 @@
             "blue": 64
         },
         "hex": "DB8540",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhui",
@@ -5468,9 +4628,7 @@
             "blue": 110
         },
         "hex": "80766E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guiyuhong",
@@ -5481,9 +4639,7 @@
             "blue": 90
         },
         "hex": "F09C5A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jucheng",
@@ -5494,9 +4650,7 @@
             "blue": 28
         },
         "hex": "F97D1C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinhuang",
@@ -5507,9 +4661,7 @@
             "blue": 31
         },
         "hex": "F26B1F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meiguifen",
@@ -5520,9 +4672,7 @@
             "blue": 127
         },
         "hex": "F8B37F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meirenjiaocheng",
@@ -5533,9 +4683,7 @@
             "blue": 35
         },
         "hex": "FA7E23",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mise",
@@ -5546,9 +4694,7 @@
             "blue": 205
         },
         "hex": "F9E9CD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhuwanghui",
@@ -5559,9 +4705,7 @@
             "blue": 145
         },
         "hex": "B7A091",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dankafei",
@@ -5572,9 +4716,7 @@
             "blue": 51
         },
         "hex": "945833",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hailuocheng",
@@ -5585,9 +4727,7 @@
             "blue": 93
         },
         "hex": "F0945D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanshizong",
@@ -5598,9 +4738,7 @@
             "blue": 34
         },
         "hex": "964D22",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "mangguozong",
@@ -5611,9 +4749,7 @@
             "blue": 22
         },
         "hex": "954416",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "taocihong",
@@ -5624,9 +4760,7 @@
             "blue": 35
         },
         "hex": "E16723",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "boluohong",
@@ -5637,9 +4771,7 @@
             "blue": 48
         },
         "hex": "FC7930",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yujinhong",
@@ -5650,9 +4782,7 @@
             "blue": 67
         },
         "hex": "CF7543",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jinlianhuacheng",
@@ -5663,9 +4793,7 @@
             "blue": 29
         },
         "hex": "F86B1D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huozhuanhong",
@@ -5676,9 +4804,7 @@
             "blue": 39
         },
         "hex": "CD6227",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chutaofenhong",
@@ -5689,9 +4815,7 @@
             "blue": 206
         },
         "hex": "F6DCCE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tiezong",
@@ -5702,9 +4826,7 @@
             "blue": 22
         },
         "hex": "D85916",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jieqiaodanfenhong",
@@ -5715,9 +4837,7 @@
             "blue": 186
         },
         "hex": "F7CFBA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiekehong",
@@ -5728,9 +4848,7 @@
             "blue": 53
         },
         "hex": "F27635",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jintuo",
@@ -5741,9 +4859,7 @@
             "blue": 40
         },
         "hex": "E46828",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanhanhong",
@@ -5754,9 +4870,7 @@
             "blue": 21
         },
         "hex": "FC6315",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dankekezong",
@@ -5767,9 +4881,7 @@
             "blue": 29
         },
         "hex": "B7511D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "chenxihong",
@@ -5780,9 +4892,7 @@
             "blue": 88
         },
         "hex": "EA8958",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yufenhong",
@@ -5793,9 +4903,7 @@
             "blue": 154
         },
         "hex": "E8B49A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yeqiangweihong",
@@ -5806,9 +4914,7 @@
             "blue": 104
         },
         "hex": "FB9968",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ouhe",
@@ -5819,9 +4925,7 @@
             "blue": 174
         },
         "hex": "EDC3AE",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "changshihui",
@@ -5832,9 +4936,7 @@
             "blue": 51
         },
         "hex": "363433",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhonghonghui",
@@ -5845,9 +4947,7 @@
             "blue": 77
         },
         "hex": "8B614D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huonizong",
@@ -5858,9 +4958,7 @@
             "blue": 76
         },
         "hex": "AA6A4C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "ganhong",
@@ -5871,9 +4969,7 @@
             "blue": 44
         },
         "hex": "A6522C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meijianghong",
@@ -5884,9 +4980,7 @@
             "blue": 25
         },
         "hex": "FA5D19",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dingxiangzong",
@@ -5897,9 +4991,7 @@
             "blue": 29
         },
         "hex": "71361D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danmeiguihui",
@@ -5910,9 +5002,7 @@
             "blue": 133
         },
         "hex": "B89485",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guaranghong",
@@ -5923,9 +5013,7 @@
             "blue": 96
         },
         "hex": "F68C60",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dancanghuahong",
@@ -5936,9 +5024,7 @@
             "blue": 143
         },
         "hex": "F6AD8F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "sunpizong",
@@ -5949,9 +5035,7 @@
             "blue": 18
         },
         "hex": "732E12",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "runhong",
@@ -5962,9 +5046,7 @@
             "blue": 188
         },
         "hex": "F7CDBC",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "longjingyuhong",
@@ -5975,9 +5057,7 @@
             "blue": 43
         },
         "hex": "EF632B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dantuhuang",
@@ -5988,9 +5068,7 @@
             "blue": 49
         },
         "hex": "8C4B31",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhumuhui",
@@ -6001,9 +5079,7 @@
             "blue": 61
         },
         "hex": "64483D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "furonghong",
@@ -6014,9 +5090,7 @@
             "blue": 61
         },
         "hex": "F9723D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luoxiahong",
@@ -6027,9 +5101,7 @@
             "blue": 19
         },
         "hex": "CF4813",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "faluohong",
@@ -6040,9 +5112,7 @@
             "blue": 85
         },
         "hex": "EE8055",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caozhuhong",
@@ -6053,9 +5123,7 @@
             "blue": 230
         },
         "hex": "F8EBE6",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kafei",
@@ -6066,9 +5134,7 @@
             "blue": 23
         },
         "hex": "753117",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhonghuituo",
@@ -6079,9 +5145,7 @@
             "blue": 48
         },
         "hex": "603D30",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yekezong",
@@ -6092,9 +5156,7 @@
             "blue": 30
         },
         "hex": "883A1E",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiemaohong",
@@ -6105,9 +5167,7 @@
             "blue": 40
         },
         "hex": "B14B28",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dandousha",
@@ -6118,9 +5178,7 @@
             "blue": 36
         },
         "hex": "873D24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dantaohong",
@@ -6131,9 +5189,7 @@
             "blue": 193
         },
         "hex": "F6CEC1",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dantiehui",
@@ -6144,9 +5200,7 @@
             "blue": 58
         },
         "hex": "5B423A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shibanhui",
@@ -6157,9 +5211,7 @@
             "blue": 65
         },
         "hex": "624941",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danlizong",
@@ -6170,9 +5222,7 @@
             "blue": 36
         },
         "hex": "673424",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yinzhu",
@@ -6183,9 +5233,7 @@
             "blue": 6
         },
         "hex": "F43E06",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "caomeihong",
@@ -6196,9 +5244,7 @@
             "blue": 72
         },
         "hex": "EF6F48",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yangshuixianhong",
@@ -6209,9 +5255,7 @@
             "blue": 186
         },
         "hex": "F4C7BA",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhuhong",
@@ -6222,9 +5266,7 @@
             "blue": 38
         },
         "hex": "ED5126",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "liuhuahong",
@@ -6235,9 +5277,7 @@
             "blue": 24
         },
         "hex": "F34718",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shihong",
@@ -6248,9 +5288,7 @@
             "blue": 27
         },
         "hex": "F2481B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "kekezong",
@@ -6261,9 +5299,7 @@
             "blue": 28
         },
         "hex": "652B1C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danyingsuhong",
@@ -6274,9 +5310,7 @@
             "blue": 140
         },
         "hex": "EEA08C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dahong",
@@ -6287,9 +5321,7 @@
             "blue": 34
         },
         "hex": "F04B22",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zhayezong",
@@ -6300,9 +5332,7 @@
             "blue": 27
         },
         "hex": "692A1B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qingtinghong",
@@ -6313,9 +5343,7 @@
             "blue": 29
         },
         "hex": "F1441D",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiangshuzong",
@@ -6326,9 +5354,7 @@
             "blue": 49
         },
         "hex": "773D31",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiahong",
@@ -6339,9 +5365,7 @@
             "blue": 156
         },
         "hex": "EEAA9C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "taohong",
@@ -6352,9 +5376,7 @@
             "blue": 160
         },
         "hex": "F0ADA0",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huoyanzong",
@@ -6365,9 +5387,7 @@
             "blue": 32
         },
         "hex": "863020",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dantengluozi",
@@ -6378,9 +5398,7 @@
             "blue": 229
         },
         "hex": "F2E7E5",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "zheshi",
@@ -6391,9 +5409,7 @@
             "blue": 23
         },
         "hex": "862617",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "tieshuihong",
@@ -6404,9 +5420,7 @@
             "blue": 28
         },
         "hex": "F5391C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yanzhihong",
@@ -6417,9 +5431,7 @@
             "blue": 36
         },
         "hex": "F03F24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiguanghong",
@@ -6430,9 +5442,7 @@
             "blue": 31
         },
         "hex": "F33B1F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "honggonghong",
@@ -6443,9 +5453,7 @@
             "blue": 35
         },
         "hex": "F23E23",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "luobohong",
@@ -6456,9 +5464,7 @@
             "blue": 34
         },
         "hex": "F13C22",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "quhong",
@@ -6469,9 +5475,7 @@
             "blue": 70
         },
         "hex": "F05A46",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guqiaohong",
@@ -6482,9 +5486,7 @@
             "blue": 102
         },
         "hex": "F17666",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "pingguohong",
@@ -6495,9 +5497,7 @@
             "blue": 66
         },
         "hex": "F15642",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "guihong",
@@ -6508,9 +5508,7 @@
             "blue": 71
         },
         "hex": "F25A47",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fenhong",
@@ -6521,9 +5519,7 @@
             "blue": 178
         },
         "hex": "F2B9B2",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "antuozong",
@@ -6534,9 +5530,7 @@
             "blue": 32
         },
         "hex": "592620",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "xiyanghong",
@@ -6547,9 +5541,7 @@
             "blue": 24
         },
         "hex": "DE2A18",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yingtaohong",
@@ -6560,9 +5552,7 @@
             "blue": 33
         },
         "hex": "ED3321",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shanhuhong",
@@ -6573,9 +5563,7 @@
             "blue": 58
         },
         "hex": "F04A3A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "huoshanzong",
@@ -6586,9 +5574,7 @@
             "blue": 34
         },
         "hex": "482522",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lizong",
@@ -6599,9 +5585,7 @@
             "blue": 25
         },
         "hex": "5C1E19",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "hedinghong",
@@ -6612,9 +5596,7 @@
             "blue": 23
         },
         "hex": "D42517",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "shehong",
@@ -6625,9 +5607,7 @@
             "blue": 144
         },
         "hex": "F19790",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "exueshihong",
@@ -6638,9 +5618,7 @@
             "blue": 47
         },
         "hex": "AB372F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "jiangzong",
@@ -6651,9 +5629,7 @@
             "blue": 27
         },
         "hex": "5A1F1B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "yusaihong",
@@ -6664,9 +5640,7 @@
             "blue": 47
         },
         "hex": "ED3B2F",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lusuihui",
@@ -6677,9 +5651,7 @@
             "blue": 173
         },
         "hex": "BDAEAD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "lichunhong",
@@ -6690,9 +5662,7 @@
             "blue": 26
         },
         "hex": "EB261A",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "fupenzihong",
@@ -6703,9 +5673,7 @@
             "blue": 24
         },
         "hex": "AC1F18",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "haibaohui",
@@ -6716,9 +5684,7 @@
             "blue": 50
         },
         "hex": "483332",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "dousha",
@@ -6729,9 +5695,7 @@
             "blue": 28
         },
         "hex": "481E1C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "liuzihong",
@@ -6742,9 +5706,7 @@
             "blue": 140
         },
         "hex": "F1908C",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "qiuhaitanghong",
@@ -6755,9 +5717,7 @@
             "blue": 36
         },
         "hex": "EC2B24",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "wuhuaguohong",
@@ -6768,9 +5728,7 @@
             "blue": 173
         },
         "hex": "EFAFAD",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danfei",
@@ -6781,9 +5739,7 @@
             "blue": 201
         },
         "hex": "F2CAC9",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "meiguihui",
@@ -6794,9 +5750,7 @@
             "blue": 43
         },
         "hex": "4B2E2B",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "danshuhong",
@@ -6807,9 +5761,7 @@
             "blue": 69
         },
         "hex": "ED4845",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "goushuhong",
@@ -6820,9 +5772,7 @@
             "blue": 51
         },
         "hex": "ED3333",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     },
     {
         "name_en": "diaozi",
@@ -6833,8 +5783,6 @@
             "blue": 49
         },
         "hex": "5D3131",
-        "labels": [
-            "ZHONG_GUO_SE"
-        ]
+        "label": "ZHONG_GUO_SE"
     }
 ]

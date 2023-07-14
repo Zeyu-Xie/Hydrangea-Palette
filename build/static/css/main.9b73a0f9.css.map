@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.9b73a0f9.css","mappings":"AAAA,KAEI,UAAY,CADZ,gBAEJ","sources":["App.css"],"sourcesContent":["#App {\n    min-height: 100vh;\n    color: white;\n}"],"names":[],"sourceRoot":""}

@@ -1,4 +1,5 @@
 #App {
     min-height: 100vh;
-    color: white;
+    color: var(--bs-light);
+    transition: background-color 2s ease;
 }

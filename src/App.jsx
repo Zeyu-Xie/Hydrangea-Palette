@@ -1,6 +1,6 @@
 import React from "react"
 import { connect } from "react-redux"
-import data from "./data.json"
+import zhongguose from "./zhongguose.json"
 import DisplayBoard from "./components/DisplayBoard/DisplayBoard"
 import ChartView from "./components/ChartView/ChartView"
 import "./App.css"
@@ -19,9 +19,15 @@ class App extends React.Component {
         this.getColorInfo()
     }
 
+    componentDidUpdate(prevProps, prevState) {
+        if (prevProps.displayColor !== this.props.displayColor) {
+            this.getColorInfo()
+        }
+    }
+
     render() {
         return (
-            <div id="App" className="container-fluid" style={{backgroundColor: "#"+this.state.color.hex}}>
+            <div id="App" className="container-fluid" style={{ backgroundColor: "#" + this.state.color.hex }}>
                 <div className="row">
                     <div className="container-fluid col-12 col-md-5">
                         <DisplayBoard />
@@ -35,7 +41,7 @@ class App extends React.Component {
     }
 
     getColorInfo = () => {
-        const color = data.find((item) => {
+        const color = zhongguose.find((item) => {
             return item["name_en"] === this.props.displayColor
         })
         this.setState({
