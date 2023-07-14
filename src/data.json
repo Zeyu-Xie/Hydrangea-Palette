@@ -1,0 +1,6827 @@
+[
+    {
+        "name-en": "5c2223",
+        "name-zh": "anyuzi",
+        "hex": "暗玉紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eea2a4",
+        "name-zh": "mudanfenhong",
+        "hex": "牡丹粉红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5a191b",
+        "name-zh": "lizi",
+        "hex": "栗紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f07c82",
+        "name-zh": "xiangyehong",
+        "hex": "香叶红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5a1216",
+        "name-zh": "putaojiangzi",
+        "hex": "葡萄酱紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ed5a65",
+        "name-zh": "yanhong",
+        "hex": "艳红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c04851",
+        "name-zh": "yuhong",
+        "hex": "玉红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ee3f4d",
+        "name-zh": "chahuahong",
+        "hex": "茶花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c02c38",
+        "name-zh": "gaolianghong",
+        "hex": "高粱红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a7535a",
+        "name-zh": "manjianghong",
+        "hex": "满江红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e3b4b8",
+        "name-zh": "shubihong",
+        "hex": "鼠鼻红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f0a1a8",
+        "name-zh": "hehuanhong",
+        "hex": "合欢红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f1939c",
+        "name-zh": "chunmeihong",
+        "hex": "春梅红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a61b29",
+        "name-zh": "xiancaihong",
+        "hex": "苋菜红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "894e54",
+        "name-zh": "yanhong",
+        "hex": "烟红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c45a65",
+        "name-zh": "meihong",
+        "hex": "莓红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d11a2d",
+        "name-zh": "eguanhong",
+        "hex": "鹅冠红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c21f30",
+        "name-zh": "fengyehong",
+        "hex": "枫叶红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "de1c31",
+        "name-zh": "tangchangpuhong",
+        "hex": "唐菖蒲红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "7c1823",
+        "name-zh": "zaohong",
+        "hex": "枣红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "541e24",
+        "name-zh": "zhuganzi",
+        "hex": "猪肝紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4c1f24",
+        "name-zh": "putaozi",
+        "hex": "葡萄紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "82202b",
+        "name-zh": "anziyuanhong",
+        "hex": "暗紫苑红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "82111f",
+        "name-zh": "yanhong",
+        "hex": "殷红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ef475d",
+        "name-zh": "caomolihong",
+        "hex": "草茉莉红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4d1018",
+        "name-zh": "jiangzi",
+        "hex": "酱紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ed556a",
+        "name-zh": "shanchahong",
+        "hex": "山茶红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "7a7374",
+        "name-zh": "xinhui",
+        "hex": "锌灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f03752",
+        "name-zh": "haitanghong",
+        "hex": "海棠红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e6d2d5",
+        "name-zh": "jifenhong",
+        "hex": "蓟粉红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f0c9cf",
+        "name-zh": "shiruihong",
+        "hex": "石蕊红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ee2746",
+        "name-zh": "danshuhong",
+        "hex": "淡曙红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2b1216",
+        "name-zh": "lizi",
+        "hex": "李紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ee4863",
+        "name-zh": "shizhuhong",
+        "hex": "石竹红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e77c8e",
+        "name-zh": "danqianhong",
+        "hex": "淡茜红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "500a16",
+        "name-zh": "jinyuzi",
+        "hex": "金鱼紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c27c88",
+        "name-zh": "shanlidouhong",
+        "hex": "山黎豆红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "73575c",
+        "name-zh": "shubeihui",
+        "hex": "鼠背灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ee4866",
+        "name-zh": "danruixianghong",
+        "hex": "淡蕊香红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "621624",
+        "name-zh": "ganzhezi",
+        "hex": "甘蔗紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ce5777",
+        "name-zh": "yuejihong",
+        "hex": "月季红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "cc163a",
+        "name-zh": "jianjingyuhong",
+        "hex": "尖晶玉红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f1c4cd",
+        "name-zh": "shuihong",
+        "hex": "水红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eeb8c3",
+        "name-zh": "jianghong",
+        "hex": "姜红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "856d72",
+        "name-zh": "luhui",
+        "hex": "芦灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2d0c13",
+        "name-zh": "qiepizi",
+        "hex": "茄皮紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "36282b",
+        "name-zh": "cangyinghui",
+        "hex": "苍蝇灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "bf3553",
+        "name-zh": "jinkuihong",
+        "hex": "锦葵红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec9bad",
+        "name-zh": "fentuanhuahong",
+        "hex": "粉团花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "63071c",
+        "name-zh": "shizhuzi",
+        "hex": "石竹紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "30161c",
+        "name-zh": "luanshizi",
+        "hex": "卵石紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eea6b7",
+        "name-zh": "jinghong",
+        "hex": "晶红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e9ccd3",
+        "name-zh": "zhilanzi",
+        "hex": "芝兰紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eba0b3",
+        "name-zh": "shaoyaogenghong",
+        "hex": "芍药耕红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4f383e",
+        "name-zh": "muyunhui",
+        "hex": "暮云灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ed9db2",
+        "name-zh": "jiangdouhong",
+        "hex": "豇豆红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec8aa4",
+        "name-zh": "baochunhong",
+        "hex": "报春红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec7696",
+        "name-zh": "danjianghong",
+        "hex": "淡绛红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ea7293",
+        "name-zh": "fengxianhuahong",
+        "hex": "凤仙花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ef82a0",
+        "name-zh": "xiaguanghong",
+        "hex": "霞光红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec2c64",
+        "name-zh": "xidanhong",
+        "hex": "喜蛋红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eb507e",
+        "name-zh": "jiazhutaohong",
+        "hex": "夹竹桃红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eb3c70",
+        "name-zh": "songyemudanhong",
+        "hex": "松叶牡丹红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ea517f",
+        "name-zh": "lianbanhong",
+        "hex": "莲瓣红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "de7897",
+        "name-zh": "baijihong",
+        "hex": "白芨红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b598a1",
+        "name-zh": "yinhonghui",
+        "hex": "隐红灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ed2f6a",
+        "name-zh": "wenpohong",
+        "hex": "榲桲红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c5708b",
+        "name-zh": "cujiangcaohong",
+        "hex": "酢酱草红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "33141e",
+        "name-zh": "huoezi",
+        "hex": "火鹅紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "621d34",
+        "name-zh": "yaoguanzi",
+        "hex": "鹞冠紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ef3473",
+        "name-zh": "pinhong",
+        "hex": "品红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "382129",
+        "name-zh": "moshizi",
+        "hex": "磨石紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "310f1b",
+        "name-zh": "mozi",
+        "hex": "墨紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "381924",
+        "name-zh": "tanzi",
+        "hex": "檀紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e16c96",
+        "name-zh": "chuhehong",
+        "hex": "初荷红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "951c48",
+        "name-zh": "caitouzi",
+        "hex": "菜头紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "62102e",
+        "name-zh": "putaojiuhong",
+        "hex": "葡萄酒红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e0c8d1",
+        "name-zh": "danqingzi",
+        "hex": "淡青紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d13c74",
+        "name-zh": "bogenhong",
+        "hex": "菠根红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4b1e2f",
+        "name-zh": "haixiangzi",
+        "hex": "海象紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec4e8a",
+        "name-zh": "tuyanhong",
+        "hex": "兔眼红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "de3f7c",
+        "name-zh": "nenlinghong",
+        "hex": "嫩菱红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a8456b",
+        "name-zh": "yangcongzi",
+        "hex": "洋葱紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ce5e8a",
+        "name-zh": "diaozhonghuahong",
+        "hex": "吊钟花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "461629",
+        "name-zh": "ganzi",
+        "hex": "绀紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ee2c79",
+        "name-zh": "zijinghong",
+        "hex": "紫荆红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ef498b",
+        "name-zh": "biandouhuahong",
+        "hex": "扁豆花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ede3e7",
+        "name-zh": "mabiancaozi",
+        "hex": "马鞭草紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ec2d7a",
+        "name-zh": "canghuahong",
+        "hex": "藏花红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "482936",
+        "name-zh": "banjiuhui",
+        "hex": "斑鸠灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "440e25",
+        "name-zh": "gutongzi",
+        "hex": "古铜紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d2568c",
+        "name-zh": "danzihong",
+        "hex": "丹紫红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e9d7df",
+        "name-zh": "dingxiangdanzi",
+        "hex": "丁香淡紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d2357d",
+        "name-zh": "meiguihong",
+        "hex": "玫瑰红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "36292f",
+        "name-zh": "gudinghui",
+        "hex": "古鼎灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d276a3",
+        "name-zh": "lingmenghong",
+        "hex": "菱锰红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c06f98",
+        "name-zh": "yingcaozi",
+        "hex": "樱草紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "cc5595",
+        "name-zh": "longxuhong",
+        "hex": "龙须红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c35691",
+        "name-zh": "dianqishihong",
+        "hex": "电气石红",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ba2f7b",
+        "name-zh": "meiguizi",
+        "hex": "玫瑰紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "9b1e64",
+        "name-zh": "xiancaizi",
+        "hex": "苋菜紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5d3f51",
+        "name-zh": "zihui",
+        "hex": "紫灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4e2a40",
+        "name-zh": "longjingyuzi",
+        "hex": "龙睛鱼紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "bc84a8",
+        "name-zh": "qinghakezi",
+        "hex": "青蛤壳紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c08eaf",
+        "name-zh": "luolanzi",
+        "hex": "萝兰紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "411c35",
+        "name-zh": "biqizi",
+        "hex": "荸荠紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ad6598",
+        "name-zh": "doukouzi",
+        "hex": "豆蔻紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a35c8f",
+        "name-zh": "biandouzi",
+        "hex": "扁豆紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "681752",
+        "name-zh": "qianniuzi",
+        "hex": "牵牛紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "894276",
+        "name-zh": "zizi",
+        "hex": "芓紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "7e2065",
+        "name-zh": "gejinzi",
+        "hex": "葛巾紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8b2671",
+        "name-zh": "qinglian",
+        "hex": "青莲",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "983680",
+        "name-zh": "jiehuazi",
+        "hex": "芥花紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c8adc4",
+        "name-zh": "fengxinzi",
+        "hex": "凤信紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1c0d1a",
+        "name-zh": "shenqianniuzi",
+        "hex": "深牵牛紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "7e1671",
+        "name-zh": "weizi",
+        "hex": "魏紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1e131d",
+        "name-zh": "wumeizi",
+        "hex": "乌梅紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "813c85",
+        "name-zh": "jiegengzi",
+        "hex": "桔梗紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d1c2d3",
+        "name-zh": "danqianniuzi",
+        "hex": "淡牵牛紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "3e3841",
+        "name-zh": "jianfengzi",
+        "hex": "剑锋紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "815c94",
+        "name-zh": "xunzi",
+        "hex": "蕈紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "806d9e",
+        "name-zh": "jinzi",
+        "hex": "槿紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e2e1e4",
+        "name-zh": "qianshibai",
+        "hex": "芡食白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "322f3b",
+        "name-zh": "longkuizi",
+        "hex": "龙葵紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8076a3",
+        "name-zh": "tengluozi",
+        "hex": "藤萝紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "35333c",
+        "name-zh": "shayuhui",
+        "hex": "沙鱼灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "22202e",
+        "name-zh": "anlongdanzi",
+        "hex": "暗龙胆紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "131124",
+        "name-zh": "anlanzi",
+        "hex": "暗蓝紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "302f4b",
+        "name-zh": "yeputaozi",
+        "hex": "野葡萄紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "525288",
+        "name-zh": "yejuzi",
+        "hex": "野菊紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2f2f35",
+        "name-zh": "shuiniuhui",
+        "hex": "水牛灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ccccd6",
+        "name-zh": "yuanshanzi",
+        "hex": "远山紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "74759b",
+        "name-zh": "luodianzi",
+        "hex": "螺甸紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1f2040",
+        "name-zh": "jingshizi",
+        "hex": "晶石紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2e317c",
+        "name-zh": "mantianxingzi",
+        "hex": "满天星紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a7a8bd",
+        "name-zh": "danlanzi",
+        "hex": "淡蓝紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "61649f",
+        "name-zh": "shangengzi",
+        "hex": "山梗紫",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2d2e36",
+        "name-zh": "niujiaohui",
+        "hex": "牛角灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5e616d",
+        "name-zh": "yuweihui",
+        "hex": "鱼尾灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "47484c",
+        "name-zh": "waguanhui",
+        "hex": "瓦罐灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "0f1423",
+        "name-zh": "ganglan",
+        "hex": "钢蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "131824",
+        "name-zh": "yanhanlan",
+        "hex": "燕颔蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "475164",
+        "name-zh": "jingyuhui",
+        "hex": "鲸鱼灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2b333e",
+        "name-zh": "qinghui",
+        "hex": "青灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1c2938",
+        "name-zh": "gelan",
+        "hex": "鸽蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "101f30",
+        "name-zh": "anlan",
+        "hex": "暗蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "142334",
+        "name-zh": "gangqing",
+        "hex": "钢青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "15559a",
+        "name-zh": "haitaolan",
+        "hex": "海涛蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "0f59a4",
+        "name-zh": "feiyancaolan",
+        "hex": "飞燕草蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1661ab",
+        "name-zh": "dianqing",
+        "hex": "靛青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "3170a7",
+        "name-zh": "ananlan",
+        "hex": "安安蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "346c9c",
+        "name-zh": "haijunlan",
+        "hex": "海军蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2775b6",
+        "name-zh": "jingtailan",
+        "hex": "景泰蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2b73af",
+        "name-zh": "pinlan",
+        "hex": "品蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2474b5",
+        "name-zh": "niluolan",
+        "hex": "尼罗蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "4e7ca1",
+        "name-zh": "diechilan",
+        "hex": "蝶翅蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2376b7",
+        "name-zh": "huaqing",
+        "hex": "花青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "144a74",
+        "name-zh": "yanlan",
+        "hex": "鷃蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "93b5cf",
+        "name-zh": "xinglan",
+        "hex": "星蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2177b8",
+        "name-zh": "honglan",
+        "hex": "虹蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "126bae",
+        "name-zh": "bolinlan",
+        "hex": "柏林蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1772b4",
+        "name-zh": "qunqing",
+        "hex": "群青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "baccd9",
+        "name-zh": "yunshuilan",
+        "hex": "云水蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "619ac3",
+        "name-zh": "yushandoulan",
+        "hex": "羽扇豆蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "495c69",
+        "name-zh": "zhanjianhui",
+        "hex": "战舰灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8fb2c9",
+        "name-zh": "qingshanlan",
+        "hex": "晴山蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5698c3",
+        "name-zh": "jinglan",
+        "hex": "睛蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "11659a",
+        "name-zh": "tangcilan",
+        "hex": "搪磁蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2983bb",
+        "name-zh": "chaolan",
+        "hex": "潮蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1677b3",
+        "name-zh": "tianlan",
+        "hex": "天蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c4cbcf",
+        "name-zh": "dalishihui",
+        "hex": "大理石灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1177b0",
+        "name-zh": "qianniuhualan",
+        "hex": "牵牛花蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2486b9",
+        "name-zh": "baoshilan",
+        "hex": "宝石蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5e7987",
+        "name-zh": "danlanhui",
+        "hex": "淡蓝灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "74787a",
+        "name-zh": "nenhui",
+        "hex": "嫩灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "cdd1d3",
+        "name-zh": "yinyubai",
+        "hex": "银鱼白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1781b5",
+        "name-zh": "youlan",
+        "hex": "釉蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "66a9c9",
+        "name-zh": "jianshilan",
+        "hex": "涧石蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d0dfe6",
+        "name-zh": "yuantianlan",
+        "hex": "远天蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2f90b9",
+        "name-zh": "yunshanlan",
+        "hex": "云山蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8abcd1",
+        "name-zh": "qiubolan",
+        "hex": "秋波蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c3d7df",
+        "name-zh": "jingtianlan",
+        "hex": "井天蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "158bb8",
+        "name-zh": "yuanweilan",
+        "hex": "鸢尾蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d8e3e7",
+        "name-zh": "yunfengbai",
+        "hex": "云峰白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b2bbbe",
+        "name-zh": "xinghui",
+        "hex": "星灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1a94bc",
+        "name-zh": "gulan",
+        "hex": "钴蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5cb3cc",
+        "name-zh": "biqing",
+        "hex": "碧青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "134857",
+        "name-zh": "canglan",
+        "hex": "苍蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "132c33",
+        "name-zh": "shenhuilan",
+        "hex": "深灰蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "21373d",
+        "name-zh": "huilan",
+        "hex": "灰蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b0d5df",
+        "name-zh": "hushuilan",
+        "hex": "湖水蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "22a2c3",
+        "name-zh": "haiqing",
+        "hex": "海青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "474b4c",
+        "name-zh": "huanghunhui",
+        "hex": "黄昏灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "63bbd0",
+        "name-zh": "jiqing",
+        "hex": "霁青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "126e82",
+        "name-zh": "yuqinlan",
+        "hex": "玉鈫蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "0f95b0",
+        "name-zh": "danfanlan",
+        "hex": "胆矾蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1491a8",
+        "name-zh": "jianniaolan",
+        "hex": "樫鸟蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c7d2d4",
+        "name-zh": "oulan",
+        "hex": "鸥蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1e9eb3",
+        "name-zh": "cuilan",
+        "hex": "翠蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "3b818c",
+        "name-zh": "qingtinglan",
+        "hex": "蜻蜓蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "0eb0c9",
+        "name-zh": "kongquelan",
+        "hex": "孔雀蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "29b7cb",
+        "name-zh": "weilan",
+        "hex": "蔚蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "51c4d3",
+        "name-zh": "pubulan",
+        "hex": "瀑布蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "7cabb1",
+        "name-zh": "shanlan",
+        "hex": "闪蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "10aec2",
+        "name-zh": "dianzilan",
+        "hex": "甸子蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "648e93",
+        "name-zh": "wanbolan",
+        "hex": "晚波蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "93d5dc",
+        "name-zh": "qingshuilan",
+        "hex": "清水蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "617172",
+        "name-zh": "xiayunhui",
+        "hex": "夏云灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c6e6e8",
+        "name-zh": "haitianlan",
+        "hex": "海天蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "869d9d",
+        "name-zh": "xiakeqing",
+        "hex": "虾壳青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "57c3c2",
+        "name-zh": "shilv",
+        "hex": "石绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c4d7d6",
+        "name-zh": "qionghui",
+        "hex": "穹灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "12aa9c",
+        "name-zh": "meidielv",
+        "hex": "美蝶绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "737c7b",
+        "name-zh": "ehui",
+        "hex": "垩灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "12a182",
+        "name-zh": "lanlv",
+        "hex": "蓝绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1ba784",
+        "name-zh": "zhulv",
+        "hex": "竹绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "428675",
+        "name-zh": "yadinglv",
+        "hex": "亚丁绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c0c4c3",
+        "name-zh": "yueyingbai",
+        "hex": "月影白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "248067",
+        "name-zh": "haiwanglv",
+        "hex": "海王绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1a3b32",
+        "name-zh": "shenhailv",
+        "hex": "深海绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "314a43",
+        "name-zh": "lvhui",
+        "hex": "绿灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2c9678",
+        "name-zh": "qingfanlv",
+        "hex": "青矾绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "223e36",
+        "name-zh": "canglv",
+        "hex": "苍绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "497568",
+        "name-zh": "feiquanlv",
+        "hex": "飞泉绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "141e1b",
+        "name-zh": "mangconglv",
+        "hex": "莽丛绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "69a794",
+        "name-zh": "wuzhilv",
+        "hex": "梧枝绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2bae85",
+        "name-zh": "tonglv",
+        "hex": "铜绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "9abeaf",
+        "name-zh": "caoyuanyuanlv",
+        "hex": "草原远绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "45b787",
+        "name-zh": "walv",
+        "hex": "蛙绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "92b3a5",
+        "name-zh": "langhualv",
+        "hex": "浪花绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1f2623",
+        "name-zh": "ganlanlv",
+        "hex": "苷蓝绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "83cbac",
+        "name-zh": "fenlv",
+        "hex": "粉绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "70887d",
+        "name-zh": "danlvhui",
+        "hex": "淡绿灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "55bb8a",
+        "name-zh": "maimiaolv",
+        "hex": "麦苗绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "20a162",
+        "name-zh": "cuilv",
+        "hex": "翠绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "40a070",
+        "name-zh": "conglv",
+        "hex": "葱绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "1a6840",
+        "name-zh": "heyelv",
+        "hex": "荷叶绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "61ac85",
+        "name-zh": "danlv",
+        "hex": "淡绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "68b88e",
+        "name-zh": "tianyuanlv",
+        "hex": "田园绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a4cab6",
+        "name-zh": "yuzanlv",
+        "hex": "玉簪绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "3c9566",
+        "name-zh": "chanlv",
+        "hex": "蟾绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5dbe8a",
+        "name-zh": "koushaolv",
+        "hex": "蔻梢绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "207f4c",
+        "name-zh": "bohelv",
+        "hex": "薄荷绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eef7f2",
+        "name-zh": "yuebai",
+        "hex": "月白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "579572",
+        "name-zh": "danbaishilv",
+        "hex": "蛋白石绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b9dec9",
+        "name-zh": "zhuhuanglv",
+        "hex": "竹篁绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "229453",
+        "name-zh": "kongquelv",
+        "hex": "孔雀绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "20894d",
+        "name-zh": "gongdianlv",
+        "hex": "宫殿绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "15231b",
+        "name-zh": "yunshanlv",
+        "hex": "云杉绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "66c18c",
+        "name-zh": "maolv",
+        "hex": "毛绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "a4aca7",
+        "name-zh": "bingshanlan",
+        "hex": "冰山蓝",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8a988e",
+        "name-zh": "minghui",
+        "hex": "明灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "9eccab",
+        "name-zh": "minglv",
+        "hex": "明绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "83a78d",
+        "name-zh": "songshuanglv",
+        "hex": "松霜绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "485b4d",
+        "name-zh": "baiqucailv",
+        "hex": "白屈菜绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5d655f",
+        "name-zh": "langyanhui",
+        "hex": "狼烟灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "6e8b74",
+        "name-zh": "wasonglv",
+        "hex": "瓦松绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "2b312c",
+        "name-zh": "hujishenglv",
+        "hex": "槲寄生绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "c6dfc8",
+        "name-zh": "dancuilv",
+        "hex": "淡翠绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "41b349",
+        "name-zh": "yusuilv",
+        "hex": "玉髓绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "43b244",
+        "name-zh": "xianlv",
+        "hex": "鲜绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "253d24",
+        "name-zh": "youlv",
+        "hex": "油绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "41ae3c",
+        "name-zh": "baoshilv",
+        "hex": "宝石绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "add5a2",
+        "name-zh": "jialingshuilv",
+        "hex": "嘉陵水绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5e665b",
+        "name-zh": "tianluolv",
+        "hex": "田螺绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8cc269",
+        "name-zh": "shuilv",
+        "hex": "水绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5bae23",
+        "name-zh": "yingwulv",
+        "hex": "鹦鹉绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "dfecd5",
+        "name-zh": "aibeilv",
+        "hex": "艾背绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "cad3c3",
+        "name-zh": "ailv",
+        "hex": "艾绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "9fa39a",
+        "name-zh": "niehui",
+        "hex": "镍灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b2cf87",
+        "name-zh": "ganlanshilv",
+        "hex": "橄榄石绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "96c24e",
+        "name-zh": "yalv",
+        "hex": "芽绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f0f5e5",
+        "name-zh": "nenjulv",
+        "hex": "嫩菊绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b7d07a",
+        "name-zh": "luweilv",
+        "hex": "芦苇绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d0deaa",
+        "name-zh": "yaohuang",
+        "hex": "姚黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "373834",
+        "name-zh": "enyoulv",
+        "hex": "蒽油绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "bacf65",
+        "name-zh": "pingguolv",
+        "hex": "苹果绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e2e7bf",
+        "name-zh": "haimeilv",
+        "hex": "海沬绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "bec936",
+        "name-zh": "ganlanhuanglv",
+        "hex": "橄榄黄绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d2d97a",
+        "name-zh": "huaihuahuanglv",
+        "hex": "槐花黄绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e2d849",
+        "name-zh": "diehuang",
+        "hex": "蝶黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fffef8",
+        "name-zh": "xiangyabai",
+        "hex": "象牙白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5e5314",
+        "name-zh": "ganlanlv",
+        "hex": "橄榄绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fffef9",
+        "name-zh": "xuebai",
+        "hex": "雪白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ad9e5f",
+        "name-zh": "danhuilv",
+        "hex": "淡灰绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fed71a",
+        "name-zh": "foshouhuang",
+        "hex": "佛手黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9f4dc",
+        "name-zh": "rubai",
+        "hex": "乳白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e4bf11",
+        "name-zh": "xiangjiaohuang",
+        "hex": "香蕉黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d2b116",
+        "name-zh": "xinhelv",
+        "hex": "新禾绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fbda41",
+        "name-zh": "youcaihuahuang",
+        "hex": "油菜花黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "eed045",
+        "name-zh": "qiukuihuang",
+        "hex": "秋葵黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f1ca17",
+        "name-zh": "youhuang",
+        "hex": "柚黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d2b42c",
+        "name-zh": "caohuang",
+        "hex": "草黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f2ce2b",
+        "name-zh": "liuhuahuang",
+        "hex": "硫华黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e2c027",
+        "name-zh": "jianghuang",
+        "hex": "姜黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "645822",
+        "name-zh": "tanshuilv",
+        "hex": "潭水绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fcd217",
+        "name-zh": "jinguahuang",
+        "hex": "金瓜黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f8df70",
+        "name-zh": "maiganhuang",
+        "hex": "麦秆黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "dfc243",
+        "name-zh": "haohuang",
+        "hex": "蒿黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f8df72",
+        "name-zh": "molihuang",
+        "hex": "茉莉黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ffd111",
+        "name-zh": "tenghuang",
+        "hex": "藤黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ddc871",
+        "name-zh": "mangguohuang",
+        "hex": "芒果黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fffefa",
+        "name-zh": "haishenhui",
+        "hex": "海参灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "867018",
+        "name-zh": "biluochunlv",
+        "hex": "碧螺春绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "887322",
+        "name-zh": "tailv",
+        "hex": "苔绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fcd337",
+        "name-zh": "ningmenghuang",
+        "hex": "柠檬黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8e804b",
+        "name-zh": "caohuilv",
+        "hex": "草灰绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fecc11",
+        "name-zh": "xiangrikuihuang",
+        "hex": "向日葵黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fccb16",
+        "name-zh": "suxinhuang",
+        "hex": "素馨黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ffc90c",
+        "name-zh": "ruyahuang",
+        "hex": "乳鸭黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b7ae8f",
+        "name-zh": "yuehui",
+        "hex": "月灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f8d86a",
+        "name-zh": "kuishanhuang",
+        "hex": "葵扇黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fbcd31",
+        "name-zh": "dadouhuang",
+        "hex": "大豆黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fcc307",
+        "name-zh": "jinzhanhuang",
+        "hex": "金盏黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e9ddb6",
+        "name-zh": "juleibai",
+        "hex": "菊蕾白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fcc515",
+        "name-zh": "huanglianhuang",
+        "hex": "黄连黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f7e8aa",
+        "name-zh": "xingrenhuang",
+        "hex": "杏仁黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "e8b004",
+        "name-zh": "guhuang",
+        "hex": "谷黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9c116",
+        "name-zh": "muguahuang",
+        "hex": "木瓜黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9d770",
+        "name-zh": "danjianhuang",
+        "hex": "淡茧黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fbc82f",
+        "name-zh": "yalihuang",
+        "hex": "雅梨黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f1f0ed",
+        "name-zh": "yinbai",
+        "hex": "银白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "5b4913",
+        "name-zh": "zonglvlv",
+        "hex": "棕榈绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f6c430",
+        "name-zh": "yingwuguanhuang",
+        "hex": "鹦鹉冠黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b78d12",
+        "name-zh": "kulv",
+        "hex": "枯绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9bd10",
+        "name-zh": "qianlaohuang",
+        "hex": "浅烙黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9d367",
+        "name-zh": "danmihuang",
+        "hex": "淡密黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d9a40e",
+        "name-zh": "jiehuang",
+        "hex": "芥黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "ebb10d",
+        "name-zh": "zhizihuang",
+        "hex": "栀子黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "584717",
+        "name-zh": "anhaishuilv",
+        "hex": "暗海水绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f7de98",
+        "name-zh": "miehuang",
+        "hex": "篾黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f9f1db",
+        "name-zh": "bangroubai",
+        "hex": "蚌肉白",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f4ce69",
+        "name-zh": "chaomihuang",
+        "hex": "炒米黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "feba07",
+        "name-zh": "hupohuang",
+        "hex": "琥珀黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "8a6913",
+        "name-zh": "huilv",
+        "hex": "灰绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "876818",
+        "name-zh": "zongyelv",
+        "hex": "粽叶绿",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "b6a476",
+        "name-zh": "chenhui",
+        "hex": "尘灰",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "fcb70a",
+        "name-zh": "youhuang",
+        "hex": "鼬黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f0d695",
+        "name-zh": "xiangyahuang",
+        "hex": "象牙黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "87723e",
+        "name-zh": "jiaoqing",
+        "hex": "鲛青",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "f8e8c1",
+        "name-zh": "douzhihuang",
+        "hex": "豆汁黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "d6a01d",
+        "name-zh": "tuhuang",
+        "hex": "土黄",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "hupihuang",
+        "name-zh": "虎皮黄",
+        "hex": "香水玫瑰黄XIANGSHUIMEIGUIHUANGF7DA94",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": null,
+            "green": null,
+            "blue": null
+        }
+    },
+    {
+        "name-en": "jidanhuang",
+        "name-zh": "鸡蛋黄",
+        "hex": "EAAD1A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 234,
+            "green": 173,
+            "blue": 26
+        }
+    },
+    {
+        "name-en": "yinshuhui",
+        "name-zh": "银鼠灰",
+        "hex": "FBB612",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 182,
+            "blue": 18
+        }
+    },
+    {
+        "name-en": "yudubai",
+        "name-zh": "鱼肚白",
+        "hex": "B5AA90",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 181,
+            "green": 170,
+            "blue": 144
+        }
+    },
+    {
+        "name-en": "chushuxinghuang",
+        "name-zh": "初熟杏黄",
+        "hex": "F7F4ED",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 247,
+            "green": 244,
+            "blue": 237
+        }
+    },
+    {
+        "name-en": "shanjihuang",
+        "name-zh": "山鸡黄",
+        "hex": "F8BC31",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 188,
+            "blue": 49
+        }
+    },
+    {
+        "name-en": "lianzibai",
+        "name-zh": "莲子白",
+        "hex": "B78B26",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 183,
+            "green": 139,
+            "blue": 38
+        }
+    },
+    {
+        "name-en": "xiekehui",
+        "name-zh": "蟹壳灰",
+        "hex": "E5D3AA",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 229,
+            "green": 211,
+            "blue": 170
+        }
+    },
+    {
+        "name-en": "shashihuang",
+        "name-zh": "沙石黄",
+        "hex": "695E45",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 105,
+            "green": 94,
+            "blue": 69
+        }
+    },
+    {
+        "name-en": "gancaohuang",
+        "name-zh": "甘草黄",
+        "hex": "E5B751",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 229,
+            "green": 183,
+            "blue": 81
+        }
+    },
+    {
+        "name-en": "yanyuhui",
+        "name-zh": "燕羽灰",
+        "hex": "F3BF4C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 243,
+            "green": 191,
+            "blue": 76
+        }
+    },
+    {
+        "name-en": "ezhanghuang",
+        "name-zh": "鹅掌黄",
+        "hex": "685E48",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 104,
+            "green": 94,
+            "blue": 72
+        }
+    },
+    {
+        "name-en": "maiyatanghuang",
+        "name-zh": "麦芽糖黄",
+        "hex": "FBB929",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 185,
+            "blue": 41
+        }
+    },
+    {
+        "name-en": "qiantuose",
+        "name-zh": "浅驼色",
+        "hex": "F9D27D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 210,
+            "blue": 125
+        }
+    },
+    {
+        "name-en": "bailingniaohui",
+        "name-zh": "百灵鸟灰",
+        "hex": "E2C17C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 226,
+            "green": 193,
+            "blue": 124
+        }
+    },
+    {
+        "name-en": "laohuang",
+        "name-zh": "酪黄",
+        "hex": "B4A992",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 180,
+            "green": 169,
+            "blue": 146
+        }
+    },
+    {
+        "name-en": "liroubai",
+        "name-zh": "荔肉白",
+        "hex": "F6DEAD",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 246,
+            "green": 222,
+            "blue": 173
+        }
+    },
+    {
+        "name-en": "danrouse",
+        "name-zh": "淡肉色",
+        "hex": "F2E6CE",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 230,
+            "blue": 206
+        }
+    },
+    {
+        "name-en": "hetunhui",
+        "name-zh": "河豚灰",
+        "hex": "F8E0B0",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 224,
+            "blue": 176
+        }
+    },
+    {
+        "name-en": "yililv",
+        "name-zh": "蜴蜊绿",
+        "hex": "393733",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 57,
+            "green": 55,
+            "blue": 51
+        }
+    },
+    {
+        "name-en": "hanbaiyu",
+        "name-zh": "汉白玉",
+        "hex": "835E1D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 131,
+            "green": 94,
+            "blue": 29
+        }
+    },
+    {
+        "name-en": "chengpihuang",
+        "name-zh": "橙皮黄",
+        "hex": "F8F4ED",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 244,
+            "blue": 237
+        }
+    },
+    {
+        "name-en": "laiyanglihuang",
+        "name-zh": "莱阳梨黄",
+        "hex": "FCA104",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 252,
+            "green": 161,
+            "blue": 4
+        }
+    },
+    {
+        "name-en": "pipahuang",
+        "name-zh": "枇杷黄",
+        "hex": "815F25",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 129,
+            "green": 95,
+            "blue": 37
+        }
+    },
+    {
+        "name-en": "jinyehuang",
+        "name-zh": "金叶黄",
+        "hex": "FCA106",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 252,
+            "green": 161,
+            "blue": 6
+        }
+    },
+    {
+        "name-en": "canghuang",
+        "name-zh": "苍黄",
+        "hex": "FFA60F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 255,
+            "green": 166,
+            "blue": 15
+        }
+    },
+    {
+        "name-en": "fenbai",
+        "name-zh": "粉白",
+        "hex": "806332",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 128,
+            "green": 99,
+            "blue": 50
+        }
+    },
+    {
+        "name-en": "danjucheng",
+        "name-zh": "淡橘橙",
+        "hex": "FBF2E3",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 242,
+            "blue": 227
+        }
+    },
+    {
+        "name-en": "zhenzhuhui",
+        "name-zh": "珍珠灰",
+        "hex": "FBA414",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 164,
+            "blue": 20
+        }
+    },
+    {
+        "name-en": "guibeihuang",
+        "name-zh": "龟背黄",
+        "hex": "E4DFD7",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 228,
+            "green": 223,
+            "blue": 215
+        }
+    },
+    {
+        "name-en": "qianhui",
+        "name-zh": "浅灰",
+        "hex": "826B48",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 130,
+            "green": 107,
+            "blue": 72
+        }
+    },
+    {
+        "name-en": "qianhui",
+        "name-zh": "铅灰",
+        "hex": "DAD4CB",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 218,
+            "green": 212,
+            "blue": 203
+        }
+    },
+    {
+        "name-en": "zhonghui",
+        "name-zh": "中灰",
+        "hex": "BBB5AC",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 187,
+            "green": 181,
+            "blue": 172
+        }
+    },
+    {
+        "name-en": "xionghuang",
+        "name-zh": "雄黄",
+        "hex": "BBB5AC",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 187,
+            "green": 181,
+            "blue": 172
+        }
+    },
+    {
+        "name-en": "mihuang",
+        "name-zh": "蜜黄",
+        "hex": "FF9900",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 255,
+            "green": 153,
+            "blue": 0
+        }
+    },
+    {
+        "name-en": "fengfanhuang",
+        "name-zh": "风帆黄",
+        "hex": "FBB957",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 185,
+            "blue": 87
+        }
+    },
+    {
+        "name-en": "guipidanzong",
+        "name-zh": "桂皮淡棕",
+        "hex": "DC9123",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 220,
+            "green": 145,
+            "blue": 35
+        }
+    },
+    {
+        "name-en": "jinyinghuang",
+        "name-zh": "金莺黄",
+        "hex": "C09351",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 192,
+            "green": 147,
+            "blue": 81
+        }
+    },
+    {
+        "name-en": "rouse",
+        "name-zh": "肉色",
+        "hex": "F4A83A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 244,
+            "green": 168,
+            "blue": 58
+        }
+    },
+    {
+        "name-en": "diaoyezong",
+        "name-zh": "凋叶棕",
+        "hex": "F7C173",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 247,
+            "green": 193,
+            "blue": 115
+        }
+    },
+    {
+        "name-en": "gutonglv",
+        "name-zh": "古铜绿",
+        "hex": "E7A23F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 231,
+            "green": 162,
+            "blue": 63
+        }
+    },
+    {
+        "name-en": "luoyingdanfen",
+        "name-zh": "落英淡粉",
+        "hex": "533C1B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 83,
+            "green": 60,
+            "blue": 27
+        }
+    },
+    {
+        "name-en": "ruanmuhuang",
+        "name-zh": "软木黄",
+        "hex": "F9E8D0",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 232,
+            "blue": 208
+        }
+    },
+    {
+        "name-en": "guarangfen",
+        "name-zh": "瓜瓤粉",
+        "hex": "DE9E44",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 222,
+            "green": 158,
+            "blue": 68
+        }
+    },
+    {
+        "name-en": "liuehuang",
+        "name-zh": "榴萼黄",
+        "hex": "F9CB8B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 203,
+            "blue": 139
+        }
+    },
+    {
+        "name-en": "daimaohuang",
+        "name-zh": "玳瑁黄",
+        "hex": "F9A633",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 166,
+            "blue": 51
+        }
+    },
+    {
+        "name-en": "jiaochalv",
+        "name-zh": "焦茶绿",
+        "hex": "DAA45A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 218,
+            "green": 164,
+            "blue": 90
+        }
+    },
+    {
+        "name-en": "xiekelv",
+        "name-zh": "蟹壳绿",
+        "hex": "553B18",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 85,
+            "green": 59,
+            "blue": 24
+        }
+    },
+    {
+        "name-en": "shanjihe",
+        "name-zh": "山鸡褐",
+        "hex": "513C20",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 81,
+            "green": 60,
+            "blue": 32
+        }
+    },
+    {
+        "name-en": "houmaohui",
+        "name-zh": "猴毛灰",
+        "hex": "986524",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 152,
+            "green": 101,
+            "blue": 36
+        }
+    },
+    {
+        "name-en": "lujiaozong",
+        "name-zh": "鹿角棕",
+        "hex": "97846C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 151,
+            "green": 132,
+            "blue": 108
+        }
+    },
+    {
+        "name-en": "dansongyan",
+        "name-zh": "淡松烟",
+        "hex": "E3BD8D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 227,
+            "green": 189,
+            "blue": 141
+        }
+    },
+    {
+        "name-en": "wanshoujuhuang",
+        "name-zh": "万寿菊黄",
+        "hex": "4D4030",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 77,
+            "green": 64,
+            "blue": 48
+        }
+    },
+    {
+        "name-en": "dankehuang",
+        "name-zh": "蛋壳黄",
+        "hex": "FB8B05",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 139,
+            "blue": 5
+        }
+    },
+    {
+        "name-en": "xinghuang",
+        "name-zh": "杏黄",
+        "hex": "F8C387",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 195,
+            "blue": 135
+        }
+    },
+    {
+        "name-en": "ganlanhui",
+        "name-zh": "橄榄灰",
+        "hex": "F28E16",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 142,
+            "blue": 22
+        }
+    },
+    {
+        "name-en": "hehui",
+        "name-zh": "鹤灰",
+        "hex": "503E2A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 80,
+            "green": 62,
+            "blue": 42
+        }
+    },
+    {
+        "name-en": "manaohui",
+        "name-zh": "玛瑙灰",
+        "hex": "4A4035",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 74,
+            "green": 64,
+            "blue": 53
+        }
+    },
+    {
+        "name-en": "danyinhui",
+        "name-zh": "淡银灰",
+        "hex": "CFCCC9",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 207,
+            "green": 204,
+            "blue": 201
+        }
+    },
+    {
+        "name-en": "wahui",
+        "name-zh": "瓦灰",
+        "hex": "C1B2A3",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 193,
+            "green": 178,
+            "blue": 163
+        }
+    },
+    {
+        "name-en": "yehui",
+        "name-zh": "夜灰",
+        "hex": "867E76",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 134,
+            "green": 126,
+            "blue": 118
+        }
+    },
+    {
+        "name-en": "beiguahuang",
+        "name-zh": "北瓜黄",
+        "hex": "847C74",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 132,
+            "green": 124,
+            "blue": 116
+        }
+    },
+    {
+        "name-en": "hehuabai",
+        "name-zh": "荷花白",
+        "hex": "FC8C23",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 252,
+            "green": 140,
+            "blue": 35
+        }
+    },
+    {
+        "name-en": "songshuhui",
+        "name-zh": "松鼠灰",
+        "hex": "FBECDE",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 236,
+            "blue": 222
+        }
+    },
+    {
+        "name-en": "danmifen",
+        "name-zh": "淡米粉",
+        "hex": "4F4032",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 79,
+            "green": 64,
+            "blue": 50
+        }
+    },
+    {
+        "name-en": "shenhui",
+        "name-zh": "深灰",
+        "hex": "FBEEE2",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 238,
+            "blue": 226
+        }
+    },
+    {
+        "name-en": "haiouhui",
+        "name-zh": "海鸥灰",
+        "hex": "81776E",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 129,
+            "green": 119,
+            "blue": 110
+        }
+    },
+    {
+        "name-en": "chahe",
+        "name-zh": "茶褐",
+        "hex": "9A8878",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 154,
+            "green": 136,
+            "blue": 120
+        }
+    },
+    {
+        "name-en": "tuose",
+        "name-zh": "驼色",
+        "hex": "5D3D21",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 93,
+            "green": 61,
+            "blue": 33
+        }
+    },
+    {
+        "name-en": "yinhui",
+        "name-zh": "银灰",
+        "hex": "66462A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 102,
+            "green": 70,
+            "blue": 42
+        }
+    },
+    {
+        "name-en": "lupihe",
+        "name-zh": "鹿皮褐",
+        "hex": "918072",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 145,
+            "green": 128,
+            "blue": 114
+        }
+    },
+    {
+        "name-en": "binglangzong",
+        "name-zh": "槟榔综",
+        "hex": "D99156",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 217,
+            "green": 145,
+            "blue": 86
+        }
+    },
+    {
+        "name-en": "xiaohui",
+        "name-zh": "晓灰",
+        "hex": "C1651A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 193,
+            "green": 101,
+            "blue": 26
+        }
+    },
+    {
+        "name-en": "danzhe",
+        "name-zh": "淡赭",
+        "hex": "D4C4B7",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 212,
+            "green": 196,
+            "blue": 183
+        }
+    },
+    {
+        "name-en": "gutonghe",
+        "name-zh": "古铜褐",
+        "hex": "BE7E4A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 190,
+            "green": 126,
+            "blue": 74
+        }
+    },
+    {
+        "name-en": "jizong",
+        "name-zh": "麂棕",
+        "hex": "5C3719",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 92,
+            "green": 55,
+            "blue": 25
+        }
+    },
+    {
+        "name-en": "zuiguarou",
+        "name-zh": "醉瓜肉",
+        "hex": "DE7622",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 222,
+            "green": 118,
+            "blue": 34
+        }
+    },
+    {
+        "name-en": "yanhui",
+        "name-zh": "雁灰",
+        "hex": "DB8540",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 219,
+            "green": 133,
+            "blue": 64
+        }
+    },
+    {
+        "name-en": "guiyuhong",
+        "name-zh": "鲑鱼红",
+        "hex": "80766E",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 128,
+            "green": 118,
+            "blue": 110
+        }
+    },
+    {
+        "name-en": "jucheng",
+        "name-zh": "橘橙",
+        "hex": "F09C5A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 156,
+            "blue": 90
+        }
+    },
+    {
+        "name-en": "jinhuang",
+        "name-zh": "金黄",
+        "hex": "F97D1C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 125,
+            "blue": 28
+        }
+    },
+    {
+        "name-en": "meiguifen",
+        "name-zh": "玫瑰粉",
+        "hex": "F26B1F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 107,
+            "blue": 31
+        }
+    },
+    {
+        "name-en": "meirenjiaocheng",
+        "name-zh": "美人焦橙",
+        "hex": "F8B37F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 179,
+            "blue": 127
+        }
+    },
+    {
+        "name-en": "mise",
+        "name-zh": "米色",
+        "hex": "FA7E23",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 250,
+            "green": 126,
+            "blue": 35
+        }
+    },
+    {
+        "name-en": "zhuwanghui",
+        "name-zh": "蛛网灰",
+        "hex": "F9E9CD",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 233,
+            "blue": 205
+        }
+    },
+    {
+        "name-en": "dankafei",
+        "name-zh": "淡咖啡",
+        "hex": "B7A091",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 183,
+            "green": 160,
+            "blue": 145
+        }
+    },
+    {
+        "name-en": "hailuocheng",
+        "name-zh": "海螺橙",
+        "hex": "945833",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 148,
+            "green": 88,
+            "blue": 51
+        }
+    },
+    {
+        "name-en": "yanshizong",
+        "name-zh": "岩石棕",
+        "hex": "F0945D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 148,
+            "blue": 93
+        }
+    },
+    {
+        "name-en": "mangguozong",
+        "name-zh": "芒果棕",
+        "hex": "964D22",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 150,
+            "green": 77,
+            "blue": 34
+        }
+    },
+    {
+        "name-en": "taocihong",
+        "name-zh": "陶瓷红",
+        "hex": "954416",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 149,
+            "green": 68,
+            "blue": 22
+        }
+    },
+    {
+        "name-en": "boluohong",
+        "name-zh": "菠萝红",
+        "hex": "E16723",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 225,
+            "green": 103,
+            "blue": 35
+        }
+    },
+    {
+        "name-en": "yujinhong",
+        "name-zh": "余烬红",
+        "hex": "FC7930",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 252,
+            "green": 121,
+            "blue": 48
+        }
+    },
+    {
+        "name-en": "jinlianhuacheng",
+        "name-zh": "金莲花橙",
+        "hex": "CF7543",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 207,
+            "green": 117,
+            "blue": 67
+        }
+    },
+    {
+        "name-en": "huozhuanhong",
+        "name-zh": "火砖红",
+        "hex": "F86B1D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 107,
+            "blue": 29
+        }
+    },
+    {
+        "name-en": "chutaofenhong",
+        "name-zh": "初桃粉红",
+        "hex": "CD6227",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 205,
+            "green": 98,
+            "blue": 39
+        }
+    },
+    {
+        "name-en": "tiezong",
+        "name-zh": "铁棕",
+        "hex": "F6DCCE",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 246,
+            "green": 220,
+            "blue": 206
+        }
+    },
+    {
+        "name-en": "jieqiaodanfenhong",
+        "name-zh": "介壳淡粉红",
+        "hex": "D85916",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 216,
+            "green": 89,
+            "blue": 22
+        }
+    },
+    {
+        "name-en": "xiekehong",
+        "name-zh": "蟹壳红",
+        "hex": "F7CFBA",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 247,
+            "green": 207,
+            "blue": 186
+        }
+    },
+    {
+        "name-en": "jintuo",
+        "name-zh": "金驼",
+        "hex": "F27635",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 118,
+            "blue": 53
+        }
+    },
+    {
+        "name-en": "yanhanhong",
+        "name-zh": "燕颔红",
+        "hex": "E46828",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 228,
+            "green": 104,
+            "blue": 40
+        }
+    },
+    {
+        "name-en": "dankekezong",
+        "name-zh": "淡可可棕",
+        "hex": "FC6315",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 252,
+            "green": 99,
+            "blue": 21
+        }
+    },
+    {
+        "name-en": "chenxihong",
+        "name-zh": "晨曦红",
+        "hex": "B7511D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 183,
+            "green": 81,
+            "blue": 29
+        }
+    },
+    {
+        "name-en": "yufenhong",
+        "name-zh": "玉粉红",
+        "hex": "EA8958",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 234,
+            "green": 137,
+            "blue": 88
+        }
+    },
+    {
+        "name-en": "yeqiangweihong",
+        "name-zh": "野蔷薇红",
+        "hex": "E8B49A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 232,
+            "green": 180,
+            "blue": 154
+        }
+    },
+    {
+        "name-en": "ouhe",
+        "name-zh": "藕荷",
+        "hex": "FB9968",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 251,
+            "green": 153,
+            "blue": 104
+        }
+    },
+    {
+        "name-en": "changshihui",
+        "name-zh": "长石灰",
+        "hex": "EDC3AE",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 195,
+            "blue": 174
+        }
+    },
+    {
+        "name-en": "zhonghonghui",
+        "name-zh": "中红灰",
+        "hex": "363433",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 54,
+            "green": 52,
+            "blue": 51
+        }
+    },
+    {
+        "name-en": "huonizong",
+        "name-zh": "火泥棕",
+        "hex": "8B614D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 139,
+            "green": 97,
+            "blue": 77
+        }
+    },
+    {
+        "name-en": "ganhong",
+        "name-zh": "绀红",
+        "hex": "AA6A4C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 170,
+            "green": 106,
+            "blue": 76
+        }
+    },
+    {
+        "name-en": "meijianghong",
+        "name-zh": "莓酱红",
+        "hex": "A6522C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 166,
+            "green": 82,
+            "blue": 44
+        }
+    },
+    {
+        "name-en": "dingxiangzong",
+        "name-zh": "丁香棕",
+        "hex": "FA5D19",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 250,
+            "green": 93,
+            "blue": 25
+        }
+    },
+    {
+        "name-en": "danmeiguihui",
+        "name-zh": "淡玫瑰灰",
+        "hex": "71361D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 113,
+            "green": 54,
+            "blue": 29
+        }
+    },
+    {
+        "name-en": "guaranghong",
+        "name-zh": "瓜瓤红",
+        "hex": "B89485",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 184,
+            "green": 148,
+            "blue": 133
+        }
+    },
+    {
+        "name-en": "dancanghuahong",
+        "name-zh": "淡藏花红",
+        "hex": "F68C60",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 246,
+            "green": 140,
+            "blue": 96
+        }
+    },
+    {
+        "name-en": "sunpizong",
+        "name-zh": "筍皮棕",
+        "hex": "F6AD8F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 246,
+            "green": 173,
+            "blue": 143
+        }
+    },
+    {
+        "name-en": "runhong",
+        "name-zh": "润红",
+        "hex": "732E12",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 115,
+            "green": 46,
+            "blue": 18
+        }
+    },
+    {
+        "name-en": "longjingyuhong",
+        "name-zh": "龙睛鱼红",
+        "hex": "F7CDBC",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 247,
+            "green": 205,
+            "blue": 188
+        }
+    },
+    {
+        "name-en": "dantuhuang",
+        "name-zh": "淡土黄",
+        "hex": "EF632B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 239,
+            "green": 99,
+            "blue": 43
+        }
+    },
+    {
+        "name-en": "zhumuhui",
+        "name-zh": "珠母灰",
+        "hex": "8C4B31",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 140,
+            "green": 75,
+            "blue": 49
+        }
+    },
+    {
+        "name-en": "furonghong",
+        "name-zh": "芙蓉红",
+        "hex": "64483D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 100,
+            "green": 72,
+            "blue": 61
+        }
+    },
+    {
+        "name-en": "luoxiahong",
+        "name-zh": "落霞红",
+        "hex": "F9723D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 249,
+            "green": 114,
+            "blue": 61
+        }
+    },
+    {
+        "name-en": "faluohong",
+        "name-zh": "法螺红",
+        "hex": "CF4813",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 207,
+            "green": 72,
+            "blue": 19
+        }
+    },
+    {
+        "name-en": "caozhuhong",
+        "name-zh": "草珠红",
+        "hex": "EE8055",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 238,
+            "green": 128,
+            "blue": 85
+        }
+    },
+    {
+        "name-en": "kafei",
+        "name-zh": "咖啡",
+        "hex": "F8EBE6",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 248,
+            "green": 235,
+            "blue": 230
+        }
+    },
+    {
+        "name-en": "zhonghuituo",
+        "name-zh": "中灰驼",
+        "hex": "753117",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 117,
+            "green": 49,
+            "blue": 23
+        }
+    },
+    {
+        "name-en": "yekezong",
+        "name-zh": "椰壳棕",
+        "hex": "603D30",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 96,
+            "green": 61,
+            "blue": 48
+        }
+    },
+    {
+        "name-en": "xiemaohong",
+        "name-zh": "蟹蝥红",
+        "hex": "883A1E",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 136,
+            "green": 58,
+            "blue": 30
+        }
+    },
+    {
+        "name-en": "dandousha",
+        "name-zh": "淡豆沙",
+        "hex": "B14B28",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 177,
+            "green": 75,
+            "blue": 40
+        }
+    },
+    {
+        "name-en": "dantaohong",
+        "name-zh": "淡桃红",
+        "hex": "873D24",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 135,
+            "green": 61,
+            "blue": 36
+        }
+    },
+    {
+        "name-en": "dantiehui",
+        "name-zh": "淡铁灰",
+        "hex": "F6CEC1",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 246,
+            "green": 206,
+            "blue": 193
+        }
+    },
+    {
+        "name-en": "shibanhui",
+        "name-zh": "石板灰",
+        "hex": "5B423A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 91,
+            "green": 66,
+            "blue": 58
+        }
+    },
+    {
+        "name-en": "danlizong",
+        "name-zh": "淡栗棕",
+        "hex": "624941",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 98,
+            "green": 73,
+            "blue": 65
+        }
+    },
+    {
+        "name-en": "yinzhu",
+        "name-zh": "银朱",
+        "hex": "673424",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 103,
+            "green": 52,
+            "blue": 36
+        }
+    },
+    {
+        "name-en": "caomeihong",
+        "name-zh": "草莓红",
+        "hex": "F43E06",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 244,
+            "green": 62,
+            "blue": 6
+        }
+    },
+    {
+        "name-en": "yangshuixianhong",
+        "name-zh": "洋水仙红",
+        "hex": "EF6F48",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 239,
+            "green": 111,
+            "blue": 72
+        }
+    },
+    {
+        "name-en": "zhuhong",
+        "name-zh": "朱红",
+        "hex": "F4C7BA",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 244,
+            "green": 199,
+            "blue": 186
+        }
+    },
+    {
+        "name-en": "liuhuahong",
+        "name-zh": "榴花红",
+        "hex": "ED5126",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 81,
+            "blue": 38
+        }
+    },
+    {
+        "name-en": "shihong",
+        "name-zh": "柿红",
+        "hex": "F34718",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 243,
+            "green": 71,
+            "blue": 24
+        }
+    },
+    {
+        "name-en": "kekezong",
+        "name-zh": "可可棕",
+        "hex": "F2481B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 72,
+            "blue": 27
+        }
+    },
+    {
+        "name-en": "danyingsuhong",
+        "name-zh": "淡罂粟红",
+        "hex": "652B1C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 101,
+            "green": 43,
+            "blue": 28
+        }
+    },
+    {
+        "name-en": "dahong",
+        "name-zh": "大红",
+        "hex": "EEA08C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 238,
+            "green": 160,
+            "blue": 140
+        }
+    },
+    {
+        "name-en": "zhayezong",
+        "name-zh": "柞叶棕",
+        "hex": "F04B22",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 75,
+            "blue": 34
+        }
+    },
+    {
+        "name-en": "qingtinghong",
+        "name-zh": "蜻蜓红",
+        "hex": "692A1B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 105,
+            "green": 42,
+            "blue": 27
+        }
+    },
+    {
+        "name-en": "xiangshuzong",
+        "name-zh": "橡树棕",
+        "hex": "F1441D",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 68,
+            "blue": 29
+        }
+    },
+    {
+        "name-en": "jiahong",
+        "name-zh": "颊红",
+        "hex": "773D31",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 119,
+            "green": 61,
+            "blue": 49
+        }
+    },
+    {
+        "name-en": "taohong",
+        "name-zh": "桃红",
+        "hex": "EEAA9C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 238,
+            "green": 170,
+            "blue": 156
+        }
+    },
+    {
+        "name-en": "huoyanzong",
+        "name-zh": "火岩棕",
+        "hex": "F0ADA0",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 173,
+            "blue": 160
+        }
+    },
+    {
+        "name-en": "dantengluozi",
+        "name-zh": "淡藤萝紫",
+        "hex": "863020",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 134,
+            "green": 48,
+            "blue": 32
+        }
+    },
+    {
+        "name-en": "zheshi",
+        "name-zh": "赭石",
+        "hex": "F2E7E5",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 231,
+            "blue": 229
+        }
+    },
+    {
+        "name-en": "tieshuihong",
+        "name-zh": "铁水红",
+        "hex": "862617",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 134,
+            "green": 38,
+            "blue": 23
+        }
+    },
+    {
+        "name-en": "yanzhihong",
+        "name-zh": "胭脂红",
+        "hex": "F5391C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 245,
+            "green": 57,
+            "blue": 28
+        }
+    },
+    {
+        "name-en": "jiguanghong",
+        "name-zh": "极光红",
+        "hex": "F03F24",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 63,
+            "blue": 36
+        }
+    },
+    {
+        "name-en": "honggonghong",
+        "name-zh": "红汞红",
+        "hex": "F33B1F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 243,
+            "green": 59,
+            "blue": 31
+        }
+    },
+    {
+        "name-en": "luobohong",
+        "name-zh": "萝卜红",
+        "hex": "F23E23",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 62,
+            "blue": 35
+        }
+    },
+    {
+        "name-en": "quhong",
+        "name-zh": "曲红",
+        "hex": "F13C22",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 60,
+            "blue": 34
+        }
+    },
+    {
+        "name-en": "guqiaohong",
+        "name-zh": "谷鞘红",
+        "hex": "F05A46",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 90,
+            "blue": 70
+        }
+    },
+    {
+        "name-en": "pingguohong",
+        "name-zh": "苹果红",
+        "hex": "F17666",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 118,
+            "blue": 102
+        }
+    },
+    {
+        "name-en": "guihong",
+        "name-zh": "桂红",
+        "hex": "F15642",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 86,
+            "blue": 66
+        }
+    },
+    {
+        "name-en": "fenhong",
+        "name-zh": "粉红",
+        "hex": "F25A47",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 90,
+            "blue": 71
+        }
+    },
+    {
+        "name-en": "antuozong",
+        "name-zh": "暗驼棕",
+        "hex": "F2B9B2",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 185,
+            "blue": 178
+        }
+    },
+    {
+        "name-en": "xiyanghong",
+        "name-zh": "夕阳红",
+        "hex": "592620",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 89,
+            "green": 38,
+            "blue": 32
+        }
+    },
+    {
+        "name-en": "yingtaohong",
+        "name-zh": "樱桃红",
+        "hex": "DE2A18",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 222,
+            "green": 42,
+            "blue": 24
+        }
+    },
+    {
+        "name-en": "shanhuhong",
+        "name-zh": "珊瑚红",
+        "hex": "ED3321",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 51,
+            "blue": 33
+        }
+    },
+    {
+        "name-en": "huoshanzong",
+        "name-zh": "火山棕",
+        "hex": "F04A3A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 240,
+            "green": 74,
+            "blue": 58
+        }
+    },
+    {
+        "name-en": "lizong",
+        "name-zh": "栗棕",
+        "hex": "482522",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 72,
+            "green": 37,
+            "blue": 34
+        }
+    },
+    {
+        "name-en": "hedinghong",
+        "name-zh": "鹤顶红",
+        "hex": "5C1E19",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 92,
+            "green": 30,
+            "blue": 25
+        }
+    },
+    {
+        "name-en": "shehong",
+        "name-zh": "舌红",
+        "hex": "D42517",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 212,
+            "green": 37,
+            "blue": 23
+        }
+    },
+    {
+        "name-en": "exueshihong",
+        "name-zh": "鹅血石红",
+        "hex": "F19790",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 151,
+            "blue": 144
+        }
+    },
+    {
+        "name-en": "jiangzong",
+        "name-zh": "酱棕",
+        "hex": "AB372F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 171,
+            "green": 55,
+            "blue": 47
+        }
+    },
+    {
+        "name-en": "yusaihong",
+        "name-zh": "鱼鳃红",
+        "hex": "5A1F1B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 90,
+            "green": 31,
+            "blue": 27
+        }
+    },
+    {
+        "name-en": "lusuihui",
+        "name-zh": "芦穗灰",
+        "hex": "ED3B2F",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 59,
+            "blue": 47
+        }
+    },
+    {
+        "name-en": "lichunhong",
+        "name-zh": "丽春红",
+        "hex": "BDAEAD",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 189,
+            "green": 174,
+            "blue": 173
+        }
+    },
+    {
+        "name-en": "fupenzihong",
+        "name-zh": "覆盆子红",
+        "hex": "EB261A",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 235,
+            "green": 38,
+            "blue": 26
+        }
+    },
+    {
+        "name-en": "haibaohui",
+        "name-zh": "海报灰",
+        "hex": "AC1F18",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 172,
+            "green": 31,
+            "blue": 24
+        }
+    },
+    {
+        "name-en": "dousha",
+        "name-zh": "豆沙",
+        "hex": "483332",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 72,
+            "green": 51,
+            "blue": 50
+        }
+    },
+    {
+        "name-en": "liuzihong",
+        "name-zh": "榴子红",
+        "hex": "481E1C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 72,
+            "green": 30,
+            "blue": 28
+        }
+    },
+    {
+        "name-en": "qiuhaitanghong",
+        "name-zh": "秋海棠红",
+        "hex": "F1908C",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 241,
+            "green": 144,
+            "blue": 140
+        }
+    },
+    {
+        "name-en": "wuhuaguohong",
+        "name-zh": "无花果红",
+        "hex": "EC2B24",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 236,
+            "green": 43,
+            "blue": 36
+        }
+    },
+    {
+        "name-en": "danfei",
+        "name-zh": "淡绯",
+        "hex": "EFAFAD",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 239,
+            "green": 175,
+            "blue": 173
+        }
+    },
+    {
+        "name-en": "meiguihui",
+        "name-zh": "玫瑰灰",
+        "hex": "F2CAC9",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 242,
+            "green": 202,
+            "blue": 201
+        }
+    },
+    {
+        "name-en": "danshuhong",
+        "name-zh": "淡菽红",
+        "hex": "4B2E2B",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 75,
+            "green": 46,
+            "blue": 43
+        }
+    },
+    {
+        "name-en": "goushuhong",
+        "name-zh": "枸枢红",
+        "hex": "ED4845",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 72,
+            "blue": 69
+        }
+    },
+    {
+        "name-en": "diaozi",
+        "name-zh": "貂紫",
+        "hex": "ED3333",
+        "labels": [
+            "ZHONG_GUO_SE"
+        ],
+        "RGB": {
+            "red": 237,
+            "green": 51,
+            "blue": 51
+        }
+    }
+]
