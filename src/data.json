@@ -1,7 +1,7 @@
 [
     {
-        "num_en": "anyuzi",
-        "num_zh": "暗玉紫",
+        "name_en": "anyuzi",
+        "name_zh": "暗玉紫",
         "rgb": {
             "red": 92,
             "green": 34,
@@ -13,8 +13,8 @@
         ]
     },
     {
-        "num_en": "mudanfenhong",
-        "num_zh": "牡丹粉红",
+        "name_en": "mudanfenhong",
+        "name_zh": "牡丹粉红",
         "rgb": {
             "red": 238,
             "green": 162,
@@ -26,8 +26,8 @@
         ]
     },
     {
-        "num_en": "lizi",
-        "num_zh": "栗紫",
+        "name_en": "lizi",
+        "name_zh": "栗紫",
         "rgb": {
             "red": 90,
             "green": 25,
@@ -39,8 +39,8 @@
         ]
     },
     {
-        "num_en": "xiangyehong",
-        "num_zh": "香叶红",
+        "name_en": "xiangyehong",
+        "name_zh": "香叶红",
         "rgb": {
             "red": 240,
             "green": 124,
@@ -52,8 +52,8 @@
         ]
     },
     {
-        "num_en": "putaojiangzi",
-        "num_zh": "葡萄酱紫",
+        "name_en": "putaojiangzi",
+        "name_zh": "葡萄酱紫",
         "rgb": {
             "red": 90,
             "green": 18,
@@ -65,8 +65,8 @@
         ]
     },
     {
-        "num_en": "yanhong",
-        "num_zh": "艳红",
+        "name_en": "yanhong",
+        "name_zh": "艳红",
         "rgb": {
             "red": 237,
             "green": 90,
@@ -78,8 +78,8 @@
         ]
     },
     {
-        "num_en": "yuhong",
-        "num_zh": "玉红",
+        "name_en": "yuhong",
+        "name_zh": "玉红",
         "rgb": {
             "red": 192,
             "green": 72,
@@ -91,8 +91,8 @@
         ]
     },
     {
-        "num_en": "chahuahong",
-        "num_zh": "茶花红",
+        "name_en": "chahuahong",
+        "name_zh": "茶花红",
         "rgb": {
             "red": 238,
             "green": 63,
@@ -104,8 +104,8 @@
         ]
     },
     {
-        "num_en": "gaolianghong",
-        "num_zh": "高粱红",
+        "name_en": "gaolianghong",
+        "name_zh": "高粱红",
         "rgb": {
             "red": 192,
             "green": 44,
@@ -117,8 +117,8 @@
         ]
     },
     {
-        "num_en": "manjianghong",
-        "num_zh": "满江红",
+        "name_en": "manjianghong",
+        "name_zh": "满江红",
         "rgb": {
             "red": 167,
             "green": 83,
@@ -130,8 +130,8 @@
         ]
     },
     {
-        "num_en": "shubihong",
-        "num_zh": "鼠鼻红",
+        "name_en": "shubihong",
+        "name_zh": "鼠鼻红",
         "rgb": {
             "red": 227,
             "green": 180,
@@ -143,8 +143,8 @@
         ]
     },
     {
-        "num_en": "hehuanhong",
-        "num_zh": "合欢红",
+        "name_en": "hehuanhong",
+        "name_zh": "合欢红",
         "rgb": {
             "red": 240,
             "green": 161,
@@ -156,8 +156,8 @@
         ]
     },
     {
-        "num_en": "chunmeihong",
-        "num_zh": "春梅红",
+        "name_en": "chunmeihong",
+        "name_zh": "春梅红",
         "rgb": {
             "red": 241,
             "green": 147,
@@ -169,8 +169,8 @@
         ]
     },
     {
-        "num_en": "xiancaihong",
-        "num_zh": "苋菜红",
+        "name_en": "xiancaihong",
+        "name_zh": "苋菜红",
         "rgb": {
             "red": 166,
             "green": 27,
@@ -182,8 +182,8 @@
         ]
     },
     {
-        "num_en": "yanhong",
-        "num_zh": "烟红",
+        "name_en": "yanhong",
+        "name_zh": "烟红",
         "rgb": {
             "red": 137,
             "green": 78,
@@ -195,8 +195,8 @@
         ]
     },
     {
-        "num_en": "meihong",
-        "num_zh": "莓红",
+        "name_en": "meihong",
+        "name_zh": "莓红",
         "rgb": {
             "red": 196,
             "green": 90,
@@ -208,8 +208,8 @@
         ]
     },
     {
-        "num_en": "eguanhong",
-        "num_zh": "鹅冠红",
+        "name_en": "eguanhong",
+        "name_zh": "鹅冠红",
         "rgb": {
             "red": 209,
             "green": 26,
@@ -221,8 +221,8 @@
         ]
     },
     {
-        "num_en": "fengyehong",
-        "num_zh": "枫叶红",
+        "name_en": "fengyehong",
+        "name_zh": "枫叶红",
         "rgb": {
             "red": 194,
             "green": 31,
@@ -234,8 +234,8 @@
         ]
     },
     {
-        "num_en": "tangchangpuhong",
-        "num_zh": "唐菖蒲红",
+        "name_en": "tangchangpuhong",
+        "name_zh": "唐菖蒲红",
         "rgb": {
             "red": 222,
             "green": 28,
@@ -247,8 +247,8 @@
         ]
     },
     {
-        "num_en": "zaohong",
-        "num_zh": "枣红",
+        "name_en": "zaohong",
+        "name_zh": "枣红",
         "rgb": {
             "red": 124,
             "green": 24,
@@ -260,8 +260,8 @@
         ]
     },
     {
-        "num_en": "zhuganzi",
-        "num_zh": "猪肝紫",
+        "name_en": "zhuganzi",
+        "name_zh": "猪肝紫",
         "rgb": {
             "red": 84,
             "green": 30,
@@ -273,8 +273,8 @@
         ]
     },
     {
-        "num_en": "putaozi",
-        "num_zh": "葡萄紫",
+        "name_en": "putaozi",
+        "name_zh": "葡萄紫",
         "rgb": {
             "red": 76,
             "green": 31,
@@ -286,8 +286,8 @@
         ]
     },
     {
-        "num_en": "anziyuanhong",
-        "num_zh": "暗紫苑红",
+        "name_en": "anziyuanhong",
+        "name_zh": "暗紫苑红",
         "rgb": {
             "red": 130,
             "green": 32,
@@ -299,8 +299,8 @@
         ]
     },
     {
-        "num_en": "yanhong",
-        "num_zh": "殷红",
+        "name_en": "yanhong",
+        "name_zh": "殷红",
         "rgb": {
             "red": 130,
             "green": 17,
@@ -312,8 +312,8 @@
         ]
     },
     {
-        "num_en": "caomolihong",
-        "num_zh": "草茉莉红",
+        "name_en": "caomolihong",
+        "name_zh": "草茉莉红",
         "rgb": {
             "red": 239,
             "green": 71,
@@ -325,8 +325,8 @@
         ]
     },
     {
-        "num_en": "jiangzi",
-        "num_zh": "酱紫",
+        "name_en": "jiangzi",
+        "name_zh": "酱紫",
         "rgb": {
             "red": 77,
             "green": 16,
@@ -338,8 +338,8 @@
         ]
     },
     {
-        "num_en": "shanchahong",
-        "num_zh": "山茶红",
+        "name_en": "shanchahong",
+        "name_zh": "山茶红",
         "rgb": {
             "red": 237,
             "green": 85,
@@ -351,8 +351,8 @@
         ]
     },
     {
-        "num_en": "xinhui",
-        "num_zh": "锌灰",
+        "name_en": "xinhui",
+        "name_zh": "锌灰",
         "rgb": {
             "red": 122,
             "green": 115,
@@ -364,8 +364,8 @@
         ]
     },
     {
-        "num_en": "haitanghong",
-        "num_zh": "海棠红",
+        "name_en": "haitanghong",
+        "name_zh": "海棠红",
         "rgb": {
             "red": 240,
             "green": 55,
@@ -377,8 +377,8 @@
         ]
     },
     {
-        "num_en": "jifenhong",
-        "num_zh": "蓟粉红",
+        "name_en": "jifenhong",
+        "name_zh": "蓟粉红",
         "rgb": {
             "red": 230,
             "green": 210,
@@ -390,8 +390,8 @@
         ]
     },
     {
-        "num_en": "shiruihong",
-        "num_zh": "石蕊红",
+        "name_en": "shiruihong",
+        "name_zh": "石蕊红",
         "rgb": {
             "red": 240,
             "green": 201,
@@ -403,8 +403,8 @@
         ]
     },
     {
-        "num_en": "danshuhong",
-        "num_zh": "淡曙红",
+        "name_en": "danshuhong",
+        "name_zh": "淡曙红",
         "rgb": {
             "red": 238,
             "green": 39,
@@ -416,8 +416,8 @@
         ]
     },
     {
-        "num_en": "lizi",
-        "num_zh": "李紫",
+        "name_en": "lizi",
+        "name_zh": "李紫",
         "rgb": {
             "red": 43,
             "green": 18,
@@ -429,8 +429,8 @@
         ]
     },
     {
-        "num_en": "shizhuhong",
-        "num_zh": "石竹红",
+        "name_en": "shizhuhong",
+        "name_zh": "石竹红",
         "rgb": {
             "red": 238,
             "green": 72,
@@ -442,8 +442,8 @@
         ]
     },
     {
-        "num_en": "danqianhong",
-        "num_zh": "淡茜红",
+        "name_en": "danqianhong",
+        "name_zh": "淡茜红",
         "rgb": {
             "red": 231,
             "green": 124,
@@ -455,8 +455,8 @@
         ]
     },
     {
-        "num_en": "jinyuzi",
-        "num_zh": "金鱼紫",
+        "name_en": "jinyuzi",
+        "name_zh": "金鱼紫",
         "rgb": {
             "red": 80,
             "green": 10,
@@ -468,8 +468,8 @@
         ]
     },
     {
-        "num_en": "shanlidouhong",
-        "num_zh": "山黎豆红",
+        "name_en": "shanlidouhong",
+        "name_zh": "山黎豆红",
         "rgb": {
             "red": 194,
             "green": 124,
@@ -481,8 +481,8 @@
         ]
     },
     {
-        "num_en": "shubeihui",
-        "num_zh": "鼠背灰",
+        "name_en": "shubeihui",
+        "name_zh": "鼠背灰",
         "rgb": {
             "red": 115,
             "green": 87,
@@ -494,8 +494,8 @@
         ]
     },
     {
-        "num_en": "danruixianghong",
-        "num_zh": "淡蕊香红",
+        "name_en": "danruixianghong",
+        "name_zh": "淡蕊香红",
         "rgb": {
             "red": 238,
             "green": 72,
@@ -507,8 +507,8 @@
         ]
     },
     {
-        "num_en": "ganzhezi",
-        "num_zh": "甘蔗紫",
+        "name_en": "ganzhezi",
+        "name_zh": "甘蔗紫",
         "rgb": {
             "red": 98,
             "green": 22,
@@ -520,8 +520,8 @@
         ]
     },
     {
-        "num_en": "yuejihong",
-        "num_zh": "月季红",
+        "name_en": "yuejihong",
+        "name_zh": "月季红",
         "rgb": {
             "red": 206,
             "green": 87,
@@ -533,8 +533,8 @@
         ]
     },
     {
-        "num_en": "jianjingyuhong",
-        "num_zh": "尖晶玉红",
+        "name_en": "jianjingyuhong",
+        "name_zh": "尖晶玉红",
         "rgb": {
             "red": 204,
             "green": 22,
@@ -546,8 +546,8 @@
         ]
     },
     {
-        "num_en": "shuihong",
-        "num_zh": "水红",
+        "name_en": "shuihong",
+        "name_zh": "水红",
         "rgb": {
             "red": 241,
             "green": 196,
@@ -559,8 +559,8 @@
         ]
     },
     {
-        "num_en": "jianghong",
-        "num_zh": "姜红",
+        "name_en": "jianghong",
+        "name_zh": "姜红",
         "rgb": {
             "red": 238,
             "green": 184,
@@ -572,8 +572,8 @@
         ]
     },
     {
-        "num_en": "luhui",
-        "num_zh": "芦灰",
+        "name_en": "luhui",
+        "name_zh": "芦灰",
         "rgb": {
             "red": 133,
             "green": 109,
@@ -585,8 +585,8 @@
         ]
     },
     {
-        "num_en": "qiepizi",
-        "num_zh": "茄皮紫",
+        "name_en": "qiepizi",
+        "name_zh": "茄皮紫",
         "rgb": {
             "red": 45,
             "green": 12,
@@ -598,8 +598,8 @@
         ]
     },
     {
-        "num_en": "cangyinghui",
-        "num_zh": "苍蝇灰",
+        "name_en": "cangyinghui",
+        "name_zh": "苍蝇灰",
         "rgb": {
             "red": 54,
             "green": 40,
@@ -611,8 +611,8 @@
         ]
     },
     {
-        "num_en": "jinkuihong",
-        "num_zh": "锦葵红",
+        "name_en": "jinkuihong",
+        "name_zh": "锦葵红",
         "rgb": {
             "red": 191,
             "green": 53,
@@ -624,8 +624,8 @@
         ]
     },
     {
-        "num_en": "fentuanhuahong",
-        "num_zh": "粉团花红",
+        "name_en": "fentuanhuahong",
+        "name_zh": "粉团花红",
         "rgb": {
             "red": 236,
             "green": 155,
@@ -637,8 +637,8 @@
         ]
     },
     {
-        "num_en": "shizhuzi",
-        "num_zh": "石竹紫",
+        "name_en": "shizhuzi",
+        "name_zh": "石竹紫",
         "rgb": {
             "red": 99,
             "green": 7,
@@ -650,8 +650,8 @@
         ]
     },
     {
-        "num_en": "luanshizi",
-        "num_zh": "卵石紫",
+        "name_en": "luanshizi",
+        "name_zh": "卵石紫",
         "rgb": {
             "red": 48,
             "green": 22,
@@ -663,8 +663,8 @@
         ]
     },
     {
-        "num_en": "jinghong",
-        "num_zh": "晶红",
+        "name_en": "jinghong",
+        "name_zh": "晶红",
         "rgb": {
             "red": 238,
             "green": 166,
@@ -676,8 +676,8 @@
         ]
     },
     {
-        "num_en": "zhilanzi",
-        "num_zh": "芝兰紫",
+        "name_en": "zhilanzi",
+        "name_zh": "芝兰紫",
         "rgb": {
             "red": 233,
             "green": 204,
@@ -689,8 +689,8 @@
         ]
     },
     {
-        "num_en": "shaoyaogenghong",
-        "num_zh": "芍药耕红",
+        "name_en": "shaoyaogenghong",
+        "name_zh": "芍药耕红",
         "rgb": {
             "red": 235,
             "green": 160,
@@ -702,8 +702,8 @@
         ]
     },
     {
-        "num_en": "muyunhui",
-        "num_zh": "暮云灰",
+        "name_en": "muyunhui",
+        "name_zh": "暮云灰",
         "rgb": {
             "red": 79,
             "green": 56,
@@ -715,8 +715,8 @@
         ]
     },
     {
-        "num_en": "jiangdouhong",
-        "num_zh": "豇豆红",
+        "name_en": "jiangdouhong",
+        "name_zh": "豇豆红",
         "rgb": {
             "red": 237,
             "green": 157,
@@ -728,8 +728,8 @@
         ]
     },
     {
-        "num_en": "baochunhong",
-        "num_zh": "报春红",
+        "name_en": "baochunhong",
+        "name_zh": "报春红",
         "rgb": {
             "red": 236,
             "green": 138,
@@ -741,8 +741,8 @@
         ]
     },
     {
-        "num_en": "danjianghong",
-        "num_zh": "淡绛红",
+        "name_en": "danjianghong",
+        "name_zh": "淡绛红",
         "rgb": {
             "red": 236,
             "green": 118,
@@ -754,8 +754,8 @@
         ]
     },
     {
-        "num_en": "fengxianhuahong",
-        "num_zh": "凤仙花红",
+        "name_en": "fengxianhuahong",
+        "name_zh": "凤仙花红",
         "rgb": {
             "red": 234,
             "green": 114,
@@ -767,8 +767,8 @@
         ]
     },
     {
-        "num_en": "xiaguanghong",
-        "num_zh": "霞光红",
+        "name_en": "xiaguanghong",
+        "name_zh": "霞光红",
         "rgb": {
             "red": 239,
             "green": 130,
@@ -780,8 +780,8 @@
         ]
     },
     {
-        "num_en": "xidanhong",
-        "num_zh": "喜蛋红",
+        "name_en": "xidanhong",
+        "name_zh": "喜蛋红",
         "rgb": {
             "red": 236,
             "green": 44,
@@ -793,8 +793,8 @@
         ]
     },
     {
-        "num_en": "jiazhutaohong",
-        "num_zh": "夹竹桃红",
+        "name_en": "jiazhutaohong",
+        "name_zh": "夹竹桃红",
         "rgb": {
             "red": 235,
             "green": 80,
@@ -806,8 +806,8 @@
         ]
     },
     {
-        "num_en": "songyemudanhong",
-        "num_zh": "松叶牡丹红",
+        "name_en": "songyemudanhong",
+        "name_zh": "松叶牡丹红",
         "rgb": {
             "red": 235,
             "green": 60,
@@ -819,8 +819,8 @@
         ]
     },
     {
-        "num_en": "lianbanhong",
-        "num_zh": "莲瓣红",
+        "name_en": "lianbanhong",
+        "name_zh": "莲瓣红",
         "rgb": {
             "red": 234,
             "green": 81,
@@ -832,8 +832,8 @@
         ]
     },
     {
-        "num_en": "baijihong",
-        "num_zh": "白芨红",
+        "name_en": "baijihong",
+        "name_zh": "白芨红",
         "rgb": {
             "red": 222,
             "green": 120,
@@ -845,8 +845,8 @@
         ]
     },
     {
-        "num_en": "yinhonghui",
-        "num_zh": "隐红灰",
+        "name_en": "yinhonghui",
+        "name_zh": "隐红灰",
         "rgb": {
             "red": 181,
             "green": 152,
@@ -858,8 +858,8 @@
         ]
     },
     {
-        "num_en": "wenpohong",
-        "num_zh": "榲桲红",
+        "name_en": "wenpohong",
+        "name_zh": "榲桲红",
         "rgb": {
             "red": 237,
             "green": 47,
@@ -871,8 +871,8 @@
         ]
     },
     {
-        "num_en": "cujiangcaohong",
-        "num_zh": "酢酱草红",
+        "name_en": "cujiangcaohong",
+        "name_zh": "酢酱草红",
         "rgb": {
             "red": 197,
             "green": 112,
@@ -884,8 +884,8 @@
         ]
     },
     {
-        "num_en": "huoezi",
-        "num_zh": "火鹅紫",
+        "name_en": "huoezi",
+        "name_zh": "火鹅紫",
         "rgb": {
             "red": 51,
             "green": 20,
@@ -897,8 +897,8 @@
         ]
     },
     {
-        "num_en": "yaoguanzi",
-        "num_zh": "鹞冠紫",
+        "name_en": "yaoguanzi",
+        "name_zh": "鹞冠紫",
         "rgb": {
             "red": 98,
             "green": 29,
@@ -910,8 +910,8 @@
         ]
     },
     {
-        "num_en": "pinhong",
-        "num_zh": "品红",
+        "name_en": "pinhong",
+        "name_zh": "品红",
         "rgb": {
             "red": 239,
             "green": 52,
@@ -923,8 +923,8 @@
         ]
     },
     {
-        "num_en": "moshizi",
-        "num_zh": "磨石紫",
+        "name_en": "moshizi",
+        "name_zh": "磨石紫",
         "rgb": {
             "red": 56,
             "green": 33,
@@ -936,8 +936,8 @@
         ]
     },
     {
-        "num_en": "mozi",
-        "num_zh": "墨紫",
+        "name_en": "mozi",
+        "name_zh": "墨紫",
         "rgb": {
             "red": 49,
             "green": 15,
@@ -949,8 +949,8 @@
         ]
     },
     {
-        "num_en": "tanzi",
-        "num_zh": "檀紫",
+        "name_en": "tanzi",
+        "name_zh": "檀紫",
         "rgb": {
             "red": 56,
             "green": 25,
@@ -962,8 +962,8 @@
         ]
     },
     {
-        "num_en": "chuhehong",
-        "num_zh": "初荷红",
+        "name_en": "chuhehong",
+        "name_zh": "初荷红",
         "rgb": {
             "red": 225,
             "green": 108,
@@ -975,8 +975,8 @@
         ]
     },
     {
-        "num_en": "caitouzi",
-        "num_zh": "菜头紫",
+        "name_en": "caitouzi",
+        "name_zh": "菜头紫",
         "rgb": {
             "red": 149,
             "green": 28,
@@ -988,8 +988,8 @@
         ]
     },
     {
-        "num_en": "putaojiuhong",
-        "num_zh": "葡萄酒红",
+        "name_en": "putaojiuhong",
+        "name_zh": "葡萄酒红",
         "rgb": {
             "red": 98,
             "green": 16,
@@ -1001,8 +1001,8 @@
         ]
     },
     {
-        "num_en": "danqingzi",
-        "num_zh": "淡青紫",
+        "name_en": "danqingzi",
+        "name_zh": "淡青紫",
         "rgb": {
             "red": 224,
             "green": 200,
@@ -1014,8 +1014,8 @@
         ]
     },
     {
-        "num_en": "bogenhong",
-        "num_zh": "菠根红",
+        "name_en": "bogenhong",
+        "name_zh": "菠根红",
         "rgb": {
             "red": 209,
             "green": 60,
@@ -1027,8 +1027,8 @@
         ]
     },
     {
-        "num_en": "haixiangzi",
-        "num_zh": "海象紫",
+        "name_en": "haixiangzi",
+        "name_zh": "海象紫",
         "rgb": {
             "red": 75,
             "green": 30,
@@ -1040,8 +1040,8 @@
         ]
     },
     {
-        "num_en": "tuyanhong",
-        "num_zh": "兔眼红",
+        "name_en": "tuyanhong",
+        "name_zh": "兔眼红",
         "rgb": {
             "red": 236,
             "green": 78,
@@ -1053,8 +1053,8 @@
         ]
     },
     {
-        "num_en": "nenlinghong",
-        "num_zh": "嫩菱红",
+        "name_en": "nenlinghong",
+        "name_zh": "嫩菱红",
         "rgb": {
             "red": 222,
             "green": 63,
@@ -1066,8 +1066,8 @@
         ]
     },
     {
-        "num_en": "yangcongzi",
-        "num_zh": "洋葱紫",
+        "name_en": "yangcongzi",
+        "name_zh": "洋葱紫",
         "rgb": {
             "red": 168,
             "green": 69,
@@ -1079,8 +1079,8 @@
         ]
     },
     {
-        "num_en": "diaozhonghuahong",
-        "num_zh": "吊钟花红",
+        "name_en": "diaozhonghuahong",
+        "name_zh": "吊钟花红",
         "rgb": {
             "red": 206,
             "green": 94,
@@ -1092,8 +1092,8 @@
         ]
     },
     {
-        "num_en": "ganzi",
-        "num_zh": "绀紫",
+        "name_en": "ganzi",
+        "name_zh": "绀紫",
         "rgb": {
             "red": 70,
             "green": 22,
@@ -1105,8 +1105,8 @@
         ]
     },
     {
-        "num_en": "zijinghong",
-        "num_zh": "紫荆红",
+        "name_en": "zijinghong",
+        "name_zh": "紫荆红",
         "rgb": {
             "red": 238,
             "green": 44,
@@ -1118,8 +1118,8 @@
         ]
     },
     {
-        "num_en": "biandouhuahong",
-        "num_zh": "扁豆花红",
+        "name_en": "biandouhuahong",
+        "name_zh": "扁豆花红",
         "rgb": {
             "red": 239,
             "green": 73,
@@ -1131,8 +1131,8 @@
         ]
     },
     {
-        "num_en": "mabiancaozi",
-        "num_zh": "马鞭草紫",
+        "name_en": "mabiancaozi",
+        "name_zh": "马鞭草紫",
         "rgb": {
             "red": 237,
             "green": 227,
@@ -1144,8 +1144,8 @@
         ]
     },
     {
-        "num_en": "canghuahong",
-        "num_zh": "藏花红",
+        "name_en": "canghuahong",
+        "name_zh": "藏花红",
         "rgb": {
             "red": 236,
             "green": 45,
@@ -1157,8 +1157,8 @@
         ]
     },
     {
-        "num_en": "banjiuhui",
-        "num_zh": "斑鸠灰",
+        "name_en": "banjiuhui",
+        "name_zh": "斑鸠灰",
         "rgb": {
             "red": 72,
             "green": 41,
@@ -1170,8 +1170,8 @@
         ]
     },
     {
-        "num_en": "gutongzi",
-        "num_zh": "古铜紫",
+        "name_en": "gutongzi",
+        "name_zh": "古铜紫",
         "rgb": {
             "red": 68,
             "green": 14,
@@ -1183,8 +1183,8 @@
         ]
     },
     {
-        "num_en": "danzihong",
-        "num_zh": "丹紫红",
+        "name_en": "danzihong",
+        "name_zh": "丹紫红",
         "rgb": {
             "red": 210,
             "green": 86,
@@ -1196,8 +1196,8 @@
         ]
     },
     {
-        "num_en": "dingxiangdanzi",
-        "num_zh": "丁香淡紫",
+        "name_en": "dingxiangdanzi",
+        "name_zh": "丁香淡紫",
         "rgb": {
             "red": 233,
             "green": 215,
@@ -1209,8 +1209,8 @@
         ]
     },
     {
-        "num_en": "meiguihong",
-        "num_zh": "玫瑰红",
+        "name_en": "meiguihong",
+        "name_zh": "玫瑰红",
         "rgb": {
             "red": 210,
             "green": 53,
@@ -1222,8 +1222,8 @@
         ]
     },
     {
-        "num_en": "gudinghui",
-        "num_zh": "古鼎灰",
+        "name_en": "gudinghui",
+        "name_zh": "古鼎灰",
         "rgb": {
             "red": 54,
             "green": 41,
@@ -1235,8 +1235,8 @@
         ]
     },
     {
-        "num_en": "lingmenghong",
-        "num_zh": "菱锰红",
+        "name_en": "lingmenghong",
+        "name_zh": "菱锰红",
         "rgb": {
             "red": 210,
             "green": 118,
@@ -1248,8 +1248,8 @@
         ]
     },
     {
-        "num_en": "yingcaozi",
-        "num_zh": "樱草紫",
+        "name_en": "yingcaozi",
+        "name_zh": "樱草紫",
         "rgb": {
             "red": 192,
             "green": 111,
@@ -1261,8 +1261,8 @@
         ]
     },
     {
-        "num_en": "longxuhong",
-        "num_zh": "龙须红",
+        "name_en": "longxuhong",
+        "name_zh": "龙须红",
         "rgb": {
             "red": 204,
             "green": 85,
@@ -1274,8 +1274,8 @@
         ]
     },
     {
-        "num_en": "dianqishihong",
-        "num_zh": "电气石红",
+        "name_en": "dianqishihong",
+        "name_zh": "电气石红",
         "rgb": {
             "red": 195,
             "green": 86,
@@ -1287,8 +1287,8 @@
         ]
     },
     {
-        "num_en": "meiguizi",
-        "num_zh": "玫瑰紫",
+        "name_en": "meiguizi",
+        "name_zh": "玫瑰紫",
         "rgb": {
             "red": 186,
             "green": 47,
@@ -1300,8 +1300,8 @@
         ]
     },
     {
-        "num_en": "xiancaizi",
-        "num_zh": "苋菜紫",
+        "name_en": "xiancaizi",
+        "name_zh": "苋菜紫",
         "rgb": {
             "red": 155,
             "green": 30,
@@ -1313,8 +1313,8 @@
         ]
     },
     {
-        "num_en": "zihui",
-        "num_zh": "紫灰",
+        "name_en": "zihui",
+        "name_zh": "紫灰",
         "rgb": {
             "red": 93,
             "green": 63,
@@ -1326,8 +1326,8 @@
         ]
     },
     {
-        "num_en": "longjingyuzi",
-        "num_zh": "龙睛鱼紫",
+        "name_en": "longjingyuzi",
+        "name_zh": "龙睛鱼紫",
         "rgb": {
             "red": 78,
             "green": 42,
@@ -1339,8 +1339,8 @@
         ]
     },
     {
-        "num_en": "qinghakezi",
-        "num_zh": "青蛤壳紫",
+        "name_en": "qinghakezi",
+        "name_zh": "青蛤壳紫",
         "rgb": {
             "red": 188,
             "green": 132,
@@ -1352,8 +1352,8 @@
         ]
     },
     {
-        "num_en": "luolanzi",
-        "num_zh": "萝兰紫",
+        "name_en": "luolanzi",
+        "name_zh": "萝兰紫",
         "rgb": {
             "red": 192,
             "green": 142,
@@ -1365,8 +1365,8 @@
         ]
     },
     {
-        "num_en": "biqizi",
-        "num_zh": "荸荠紫",
+        "name_en": "biqizi",
+        "name_zh": "荸荠紫",
         "rgb": {
             "red": 65,
             "green": 28,
@@ -1378,8 +1378,8 @@
         ]
     },
     {
-        "num_en": "doukouzi",
-        "num_zh": "豆蔻紫",
+        "name_en": "doukouzi",
+        "name_zh": "豆蔻紫",
         "rgb": {
             "red": 173,
             "green": 101,
@@ -1391,8 +1391,8 @@
         ]
     },
     {
-        "num_en": "biandouzi",
-        "num_zh": "扁豆紫",
+        "name_en": "biandouzi",
+        "name_zh": "扁豆紫",
         "rgb": {
             "red": 163,
             "green": 92,
@@ -1404,8 +1404,8 @@
         ]
     },
     {
-        "num_en": "qianniuzi",
-        "num_zh": "牵牛紫",
+        "name_en": "qianniuzi",
+        "name_zh": "牵牛紫",
         "rgb": {
             "red": 104,
             "green": 23,
@@ -1417,8 +1417,8 @@
         ]
     },
     {
-        "num_en": "zizi",
-        "num_zh": "芓紫",
+        "name_en": "zizi",
+        "name_zh": "芓紫",
         "rgb": {
             "red": 137,
             "green": 66,
@@ -1430,8 +1430,8 @@
         ]
     },
     {
-        "num_en": "gejinzi",
-        "num_zh": "葛巾紫",
+        "name_en": "gejinzi",
+        "name_zh": "葛巾紫",
         "rgb": {
             "red": 126,
             "green": 32,
@@ -1443,8 +1443,8 @@
         ]
     },
     {
-        "num_en": "qinglian",
-        "num_zh": "青莲",
+        "name_en": "qinglian",
+        "name_zh": "青莲",
         "rgb": {
             "red": 139,
             "green": 38,
@@ -1456,8 +1456,8 @@
         ]
     },
     {
-        "num_en": "jiehuazi",
-        "num_zh": "芥花紫",
+        "name_en": "jiehuazi",
+        "name_zh": "芥花紫",
         "rgb": {
             "red": 152,
             "green": 54,
@@ -1469,8 +1469,8 @@
         ]
     },
     {
-        "num_en": "fengxinzi",
-        "num_zh": "凤信紫",
+        "name_en": "fengxinzi",
+        "name_zh": "凤信紫",
         "rgb": {
             "red": 200,
             "green": 173,
@@ -1482,8 +1482,8 @@
         ]
     },
     {
-        "num_en": "shenqianniuzi",
-        "num_zh": "深牵牛紫",
+        "name_en": "shenqianniuzi",
+        "name_zh": "深牵牛紫",
         "rgb": {
             "red": 28,
             "green": 13,
@@ -1495,8 +1495,8 @@
         ]
     },
     {
-        "num_en": "weizi",
-        "num_zh": "魏紫",
+        "name_en": "weizi",
+        "name_zh": "魏紫",
         "rgb": {
             "red": 126,
             "green": 22,
@@ -1508,8 +1508,8 @@
         ]
     },
     {
-        "num_en": "wumeizi",
-        "num_zh": "乌梅紫",
+        "name_en": "wumeizi",
+        "name_zh": "乌梅紫",
         "rgb": {
             "red": 30,
             "green": 19,
@@ -1521,8 +1521,8 @@
         ]
     },
     {
-        "num_en": "jiegengzi",
-        "num_zh": "桔梗紫",
+        "name_en": "jiegengzi",
+        "name_zh": "桔梗紫",
         "rgb": {
             "red": 129,
             "green": 60,
@@ -1534,8 +1534,8 @@
         ]
     },
     {
-        "num_en": "danqianniuzi",
-        "num_zh": "淡牵牛紫",
+        "name_en": "danqianniuzi",
+        "name_zh": "淡牵牛紫",
         "rgb": {
             "red": 209,
             "green": 194,
@@ -1547,8 +1547,8 @@
         ]
     },
     {
-        "num_en": "jianfengzi",
-        "num_zh": "剑锋紫",
+        "name_en": "jianfengzi",
+        "name_zh": "剑锋紫",
         "rgb": {
             "red": 62,
             "green": 56,
@@ -1560,8 +1560,8 @@
         ]
     },
     {
-        "num_en": "xunzi",
-        "num_zh": "蕈紫",
+        "name_en": "xunzi",
+        "name_zh": "蕈紫",
         "rgb": {
             "red": 129,
             "green": 92,
@@ -1573,8 +1573,8 @@
         ]
     },
     {
-        "num_en": "jinzi",
-        "num_zh": "槿紫",
+        "name_en": "jinzi",
+        "name_zh": "槿紫",
         "rgb": {
             "red": 128,
             "green": 109,
@@ -1586,8 +1586,8 @@
         ]
     },
     {
-        "num_en": "qianshibai",
-        "num_zh": "芡食白",
+        "name_en": "qianshibai",
+        "name_zh": "芡食白",
         "rgb": {
             "red": 226,
             "green": 225,
@@ -1599,8 +1599,8 @@
         ]
     },
     {
-        "num_en": "longkuizi",
-        "num_zh": "龙葵紫",
+        "name_en": "longkuizi",
+        "name_zh": "龙葵紫",
         "rgb": {
             "red": 50,
             "green": 47,
@@ -1612,8 +1612,8 @@
         ]
     },
     {
-        "num_en": "tengluozi",
-        "num_zh": "藤萝紫",
+        "name_en": "tengluozi",
+        "name_zh": "藤萝紫",
         "rgb": {
             "red": 128,
             "green": 118,
@@ -1625,8 +1625,8 @@
         ]
     },
     {
-        "num_en": "shayuhui",
-        "num_zh": "沙鱼灰",
+        "name_en": "shayuhui",
+        "name_zh": "沙鱼灰",
         "rgb": {
             "red": 53,
             "green": 51,
@@ -1638,8 +1638,8 @@
         ]
     },
     {
-        "num_en": "anlongdanzi",
-        "num_zh": "暗龙胆紫",
+        "name_en": "anlongdanzi",
+        "name_zh": "暗龙胆紫",
         "rgb": {
             "red": 34,
             "green": 32,
@@ -1651,8 +1651,8 @@
         ]
     },
     {
-        "num_en": "anlanzi",
-        "num_zh": "暗蓝紫",
+        "name_en": "anlanzi",
+        "name_zh": "暗蓝紫",
         "rgb": {
             "red": 19,
             "green": 17,
@@ -1664,8 +1664,8 @@
         ]
     },
     {
-        "num_en": "yeputaozi",
-        "num_zh": "野葡萄紫",
+        "name_en": "yeputaozi",
+        "name_zh": "野葡萄紫",
         "rgb": {
             "red": 48,
             "green": 47,
@@ -1677,8 +1677,8 @@
         ]
     },
     {
-        "num_en": "yejuzi",
-        "num_zh": "野菊紫",
+        "name_en": "yejuzi",
+        "name_zh": "野菊紫",
         "rgb": {
             "red": 82,
             "green": 82,
@@ -1690,8 +1690,8 @@
         ]
     },
     {
-        "num_en": "shuiniuhui",
-        "num_zh": "水牛灰",
+        "name_en": "shuiniuhui",
+        "name_zh": "水牛灰",
         "rgb": {
             "red": 47,
             "green": 47,
@@ -1703,8 +1703,8 @@
         ]
     },
     {
-        "num_en": "yuanshanzi",
-        "num_zh": "远山紫",
+        "name_en": "yuanshanzi",
+        "name_zh": "远山紫",
         "rgb": {
             "red": 204,
             "green": 204,
@@ -1716,8 +1716,8 @@
         ]
     },
     {
-        "num_en": "luodianzi",
-        "num_zh": "螺甸紫",
+        "name_en": "luodianzi",
+        "name_zh": "螺甸紫",
         "rgb": {
             "red": 116,
             "green": 117,
@@ -1729,8 +1729,8 @@
         ]
     },
     {
-        "num_en": "jingshizi",
-        "num_zh": "晶石紫",
+        "name_en": "jingshizi",
+        "name_zh": "晶石紫",
         "rgb": {
             "red": 31,
             "green": 32,
@@ -1742,8 +1742,8 @@
         ]
     },
     {
-        "num_en": "mantianxingzi",
-        "num_zh": "满天星紫",
+        "name_en": "mantianxingzi",
+        "name_zh": "满天星紫",
         "rgb": {
             "red": 46,
             "green": 49,
@@ -1755,8 +1755,8 @@
         ]
     },
     {
-        "num_en": "danlanzi",
-        "num_zh": "淡蓝紫",
+        "name_en": "danlanzi",
+        "name_zh": "淡蓝紫",
         "rgb": {
             "red": 167,
             "green": 168,
@@ -1768,8 +1768,8 @@
         ]
     },
     {
-        "num_en": "shangengzi",
-        "num_zh": "山梗紫",
+        "name_en": "shangengzi",
+        "name_zh": "山梗紫",
         "rgb": {
             "red": 97,
             "green": 100,
@@ -1781,8 +1781,8 @@
         ]
     },
     {
-        "num_en": "niujiaohui",
-        "num_zh": "牛角灰",
+        "name_en": "niujiaohui",
+        "name_zh": "牛角灰",
         "rgb": {
             "red": 45,
             "green": 46,
@@ -1794,8 +1794,8 @@
         ]
     },
     {
-        "num_en": "yuweihui",
-        "num_zh": "鱼尾灰",
+        "name_en": "yuweihui",
+        "name_zh": "鱼尾灰",
         "rgb": {
             "red": 94,
             "green": 97,
@@ -1807,8 +1807,8 @@
         ]
     },
     {
-        "num_en": "waguanhui",
-        "num_zh": "瓦罐灰",
+        "name_en": "waguanhui",
+        "name_zh": "瓦罐灰",
         "rgb": {
             "red": 71,
             "green": 72,
@@ -1820,8 +1820,8 @@
         ]
     },
     {
-        "num_en": "ganglan",
-        "num_zh": "钢蓝",
+        "name_en": "ganglan",
+        "name_zh": "钢蓝",
         "rgb": {
             "red": 15,
             "green": 20,
@@ -1833,8 +1833,8 @@
         ]
     },
     {
-        "num_en": "yanhanlan",
-        "num_zh": "燕颔蓝",
+        "name_en": "yanhanlan",
+        "name_zh": "燕颔蓝",
         "rgb": {
             "red": 19,
             "green": 24,
@@ -1846,8 +1846,8 @@
         ]
     },
     {
-        "num_en": "jingyuhui",
-        "num_zh": "鲸鱼灰",
+        "name_en": "jingyuhui",
+        "name_zh": "鲸鱼灰",
         "rgb": {
             "red": 71,
             "green": 81,
@@ -1859,8 +1859,8 @@
         ]
     },
     {
-        "num_en": "qinghui",
-        "num_zh": "青灰",
+        "name_en": "qinghui",
+        "name_zh": "青灰",
         "rgb": {
             "red": 43,
             "green": 51,
@@ -1872,8 +1872,8 @@
         ]
     },
     {
-        "num_en": "gelan",
-        "num_zh": "鸽蓝",
+        "name_en": "gelan",
+        "name_zh": "鸽蓝",
         "rgb": {
             "red": 28,
             "green": 41,
@@ -1885,8 +1885,8 @@
         ]
     },
     {
-        "num_en": "anlan",
-        "num_zh": "暗蓝",
+        "name_en": "anlan",
+        "name_zh": "暗蓝",
         "rgb": {
             "red": 16,
             "green": 31,
@@ -1898,8 +1898,8 @@
         ]
     },
     {
-        "num_en": "gangqing",
-        "num_zh": "钢青",
+        "name_en": "gangqing",
+        "name_zh": "钢青",
         "rgb": {
             "red": 20,
             "green": 35,
@@ -1911,8 +1911,8 @@
         ]
     },
     {
-        "num_en": "haitaolan",
-        "num_zh": "海涛蓝",
+        "name_en": "haitaolan",
+        "name_zh": "海涛蓝",
         "rgb": {
             "red": 21,
             "green": 85,
@@ -1924,8 +1924,8 @@
         ]
     },
     {
-        "num_en": "feiyancaolan",
-        "num_zh": "飞燕草蓝",
+        "name_en": "feiyancaolan",
+        "name_zh": "飞燕草蓝",
         "rgb": {
             "red": 15,
             "green": 89,
@@ -1937,8 +1937,8 @@
         ]
     },
     {
-        "num_en": "dianqing",
-        "num_zh": "靛青",
+        "name_en": "dianqing",
+        "name_zh": "靛青",
         "rgb": {
             "red": 22,
             "green": 97,
@@ -1950,8 +1950,8 @@
         ]
     },
     {
-        "num_en": "ananlan",
-        "num_zh": "安安蓝",
+        "name_en": "ananlan",
+        "name_zh": "安安蓝",
         "rgb": {
             "red": 49,
             "green": 112,
@@ -1963,8 +1963,8 @@
         ]
     },
     {
-        "num_en": "haijunlan",
-        "num_zh": "海军蓝",
+        "name_en": "haijunlan",
+        "name_zh": "海军蓝",
         "rgb": {
             "red": 52,
             "green": 108,
@@ -1976,8 +1976,8 @@
         ]
     },
     {
-        "num_en": "jingtailan",
-        "num_zh": "景泰蓝",
+        "name_en": "jingtailan",
+        "name_zh": "景泰蓝",
         "rgb": {
             "red": 39,
             "green": 117,
@@ -1989,8 +1989,8 @@
         ]
     },
     {
-        "num_en": "pinlan",
-        "num_zh": "品蓝",
+        "name_en": "pinlan",
+        "name_zh": "品蓝",
         "rgb": {
             "red": 43,
             "green": 115,
@@ -2002,8 +2002,8 @@
         ]
     },
     {
-        "num_en": "niluolan",
-        "num_zh": "尼罗蓝",
+        "name_en": "niluolan",
+        "name_zh": "尼罗蓝",
         "rgb": {
             "red": 36,
             "green": 116,
@@ -2015,8 +2015,8 @@
         ]
     },
     {
-        "num_en": "diechilan",
-        "num_zh": "蝶翅蓝",
+        "name_en": "diechilan",
+        "name_zh": "蝶翅蓝",
         "rgb": {
             "red": 78,
             "green": 124,
@@ -2028,8 +2028,8 @@
         ]
     },
     {
-        "num_en": "huaqing",
-        "num_zh": "花青",
+        "name_en": "huaqing",
+        "name_zh": "花青",
         "rgb": {
             "red": 35,
             "green": 118,
@@ -2041,8 +2041,8 @@
         ]
     },
     {
-        "num_en": "yanlan",
-        "num_zh": "鷃蓝",
+        "name_en": "yanlan",
+        "name_zh": "鷃蓝",
         "rgb": {
             "red": 20,
             "green": 74,
@@ -2054,8 +2054,8 @@
         ]
     },
     {
-        "num_en": "xinglan",
-        "num_zh": "星蓝",
+        "name_en": "xinglan",
+        "name_zh": "星蓝",
         "rgb": {
             "red": 147,
             "green": 181,
@@ -2067,8 +2067,8 @@
         ]
     },
     {
-        "num_en": "honglan",
-        "num_zh": "虹蓝",
+        "name_en": "honglan",
+        "name_zh": "虹蓝",
         "rgb": {
             "red": 33,
             "green": 119,
@@ -2080,8 +2080,8 @@
         ]
     },
     {
-        "num_en": "bolinlan",
-        "num_zh": "柏林蓝",
+        "name_en": "bolinlan",
+        "name_zh": "柏林蓝",
         "rgb": {
             "red": 18,
             "green": 107,
@@ -2093,8 +2093,8 @@
         ]
     },
     {
-        "num_en": "qunqing",
-        "num_zh": "群青",
+        "name_en": "qunqing",
+        "name_zh": "群青",
         "rgb": {
             "red": 23,
             "green": 114,
@@ -2106,8 +2106,8 @@
         ]
     },
     {
-        "num_en": "yunshuilan",
-        "num_zh": "云水蓝",
+        "name_en": "yunshuilan",
+        "name_zh": "云水蓝",
         "rgb": {
             "red": 186,
             "green": 204,
@@ -2119,8 +2119,8 @@
         ]
     },
     {
-        "num_en": "yushandoulan",
-        "num_zh": "羽扇豆蓝",
+        "name_en": "yushandoulan",
+        "name_zh": "羽扇豆蓝",
         "rgb": {
             "red": 97,
             "green": 154,
@@ -2132,8 +2132,8 @@
         ]
     },
     {
-        "num_en": "zhanjianhui",
-        "num_zh": "战舰灰",
+        "name_en": "zhanjianhui",
+        "name_zh": "战舰灰",
         "rgb": {
             "red": 73,
             "green": 92,
@@ -2145,8 +2145,8 @@
         ]
     },
     {
-        "num_en": "qingshanlan",
-        "num_zh": "晴山蓝",
+        "name_en": "qingshanlan",
+        "name_zh": "晴山蓝",
         "rgb": {
             "red": 143,
             "green": 178,
@@ -2158,8 +2158,8 @@
         ]
     },
     {
-        "num_en": "jinglan",
-        "num_zh": "睛蓝",
+        "name_en": "jinglan",
+        "name_zh": "睛蓝",
         "rgb": {
             "red": 86,
             "green": 152,
@@ -2171,8 +2171,8 @@
         ]
     },
     {
-        "num_en": "tangcilan",
-        "num_zh": "搪磁蓝",
+        "name_en": "tangcilan",
+        "name_zh": "搪磁蓝",
         "rgb": {
             "red": 17,
             "green": 101,
@@ -2184,8 +2184,8 @@
         ]
     },
     {
-        "num_en": "chaolan",
-        "num_zh": "潮蓝",
+        "name_en": "chaolan",
+        "name_zh": "潮蓝",
         "rgb": {
             "red": 41,
             "green": 131,
@@ -2197,8 +2197,8 @@
         ]
     },
     {
-        "num_en": "tianlan",
-        "num_zh": "天蓝",
+        "name_en": "tianlan",
+        "name_zh": "天蓝",
         "rgb": {
             "red": 22,
             "green": 119,
@@ -2210,8 +2210,8 @@
         ]
     },
     {
-        "num_en": "dalishihui",
-        "num_zh": "大理石灰",
+        "name_en": "dalishihui",
+        "name_zh": "大理石灰",
         "rgb": {
             "red": 196,
             "green": 203,
@@ -2223,8 +2223,8 @@
         ]
     },
     {
-        "num_en": "qianniuhualan",
-        "num_zh": "牵牛花蓝",
+        "name_en": "qianniuhualan",
+        "name_zh": "牵牛花蓝",
         "rgb": {
             "red": 17,
             "green": 119,
@@ -2236,8 +2236,8 @@
         ]
     },
     {
-        "num_en": "baoshilan",
-        "num_zh": "宝石蓝",
+        "name_en": "baoshilan",
+        "name_zh": "宝石蓝",
         "rgb": {
             "red": 36,
             "green": 134,
@@ -2249,8 +2249,8 @@
         ]
     },
     {
-        "num_en": "danlanhui",
-        "num_zh": "淡蓝灰",
+        "name_en": "danlanhui",
+        "name_zh": "淡蓝灰",
         "rgb": {
             "red": 94,
             "green": 121,
@@ -2262,8 +2262,8 @@
         ]
     },
     {
-        "num_en": "nenhui",
-        "num_zh": "嫩灰",
+        "name_en": "nenhui",
+        "name_zh": "嫩灰",
         "rgb": {
             "red": 116,
             "green": 120,
@@ -2275,8 +2275,8 @@
         ]
     },
     {
-        "num_en": "yinyubai",
-        "num_zh": "银鱼白",
+        "name_en": "yinyubai",
+        "name_zh": "银鱼白",
         "rgb": {
             "red": 205,
             "green": 209,
@@ -2288,8 +2288,8 @@
         ]
     },
     {
-        "num_en": "youlan",
-        "num_zh": "釉蓝",
+        "name_en": "youlan",
+        "name_zh": "釉蓝",
         "rgb": {
             "red": 23,
             "green": 129,
@@ -2301,8 +2301,8 @@
         ]
     },
     {
-        "num_en": "jianshilan",
-        "num_zh": "涧石蓝",
+        "name_en": "jianshilan",
+        "name_zh": "涧石蓝",
         "rgb": {
             "red": 102,
             "green": 169,
@@ -2314,8 +2314,8 @@
         ]
     },
     {
-        "num_en": "yuantianlan",
-        "num_zh": "远天蓝",
+        "name_en": "yuantianlan",
+        "name_zh": "远天蓝",
         "rgb": {
             "red": 208,
             "green": 223,
@@ -2327,8 +2327,8 @@
         ]
     },
     {
-        "num_en": "yunshanlan",
-        "num_zh": "云山蓝",
+        "name_en": "yunshanlan",
+        "name_zh": "云山蓝",
         "rgb": {
             "red": 47,
             "green": 144,
@@ -2340,8 +2340,8 @@
         ]
     },
     {
-        "num_en": "qiubolan",
-        "num_zh": "秋波蓝",
+        "name_en": "qiubolan",
+        "name_zh": "秋波蓝",
         "rgb": {
             "red": 138,
             "green": 188,
@@ -2353,8 +2353,8 @@
         ]
     },
     {
-        "num_en": "jingtianlan",
-        "num_zh": "井天蓝",
+        "name_en": "jingtianlan",
+        "name_zh": "井天蓝",
         "rgb": {
             "red": 195,
             "green": 215,
@@ -2366,8 +2366,8 @@
         ]
     },
     {
-        "num_en": "yuanweilan",
-        "num_zh": "鸢尾蓝",
+        "name_en": "yuanweilan",
+        "name_zh": "鸢尾蓝",
         "rgb": {
             "red": 21,
             "green": 139,
@@ -2379,8 +2379,8 @@
         ]
     },
     {
-        "num_en": "yunfengbai",
-        "num_zh": "云峰白",
+        "name_en": "yunfengbai",
+        "name_zh": "云峰白",
         "rgb": {
             "red": 216,
             "green": 227,
@@ -2392,8 +2392,8 @@
         ]
     },
     {
-        "num_en": "xinghui",
-        "num_zh": "星灰",
+        "name_en": "xinghui",
+        "name_zh": "星灰",
         "rgb": {
             "red": 178,
             "green": 187,
@@ -2405,8 +2405,8 @@
         ]
     },
     {
-        "num_en": "gulan",
-        "num_zh": "钴蓝",
+        "name_en": "gulan",
+        "name_zh": "钴蓝",
         "rgb": {
             "red": 26,
             "green": 148,
@@ -2418,8 +2418,8 @@
         ]
     },
     {
-        "num_en": "biqing",
-        "num_zh": "碧青",
+        "name_en": "biqing",
+        "name_zh": "碧青",
         "rgb": {
             "red": 92,
             "green": 179,
@@ -2431,8 +2431,8 @@
         ]
     },
     {
-        "num_en": "canglan",
-        "num_zh": "苍蓝",
+        "name_en": "canglan",
+        "name_zh": "苍蓝",
         "rgb": {
             "red": 19,
             "green": 72,
@@ -2444,8 +2444,8 @@
         ]
     },
     {
-        "num_en": "shenhuilan",
-        "num_zh": "深灰蓝",
+        "name_en": "shenhuilan",
+        "name_zh": "深灰蓝",
         "rgb": {
             "red": 19,
             "green": 44,
@@ -2457,8 +2457,8 @@
         ]
     },
     {
-        "num_en": "huilan",
-        "num_zh": "灰蓝",
+        "name_en": "huilan",
+        "name_zh": "灰蓝",
         "rgb": {
             "red": 33,
             "green": 55,
@@ -2470,8 +2470,8 @@
         ]
     },
     {
-        "num_en": "hushuilan",
-        "num_zh": "湖水蓝",
+        "name_en": "hushuilan",
+        "name_zh": "湖水蓝",
         "rgb": {
             "red": 176,
             "green": 213,
@@ -2483,8 +2483,8 @@
         ]
     },
     {
-        "num_en": "haiqing",
-        "num_zh": "海青",
+        "name_en": "haiqing",
+        "name_zh": "海青",
         "rgb": {
             "red": 34,
             "green": 162,
@@ -2496,8 +2496,8 @@
         ]
     },
     {
-        "num_en": "huanghunhui",
-        "num_zh": "黄昏灰",
+        "name_en": "huanghunhui",
+        "name_zh": "黄昏灰",
         "rgb": {
             "red": 71,
             "green": 75,
@@ -2509,8 +2509,8 @@
         ]
     },
     {
-        "num_en": "jiqing",
-        "num_zh": "霁青",
+        "name_en": "jiqing",
+        "name_zh": "霁青",
         "rgb": {
             "red": 99,
             "green": 187,
@@ -2522,8 +2522,8 @@
         ]
     },
     {
-        "num_en": "yuqinlan",
-        "num_zh": "玉鈫蓝",
+        "name_en": "yuqinlan",
+        "name_zh": "玉鈫蓝",
         "rgb": {
             "red": 18,
             "green": 110,
@@ -2535,8 +2535,8 @@
         ]
     },
     {
-        "num_en": "danfanlan",
-        "num_zh": "胆矾蓝",
+        "name_en": "danfanlan",
+        "name_zh": "胆矾蓝",
         "rgb": {
             "red": 15,
             "green": 149,
@@ -2548,8 +2548,8 @@
         ]
     },
     {
-        "num_en": "jianniaolan",
-        "num_zh": "樫鸟蓝",
+        "name_en": "jianniaolan",
+        "name_zh": "樫鸟蓝",
         "rgb": {
             "red": 20,
             "green": 145,
@@ -2561,8 +2561,8 @@
         ]
     },
     {
-        "num_en": "oulan",
-        "num_zh": "鸥蓝",
+        "name_en": "oulan",
+        "name_zh": "鸥蓝",
         "rgb": {
             "red": 199,
             "green": 210,
@@ -2574,8 +2574,8 @@
         ]
     },
     {
-        "num_en": "cuilan",
-        "num_zh": "翠蓝",
+        "name_en": "cuilan",
+        "name_zh": "翠蓝",
         "rgb": {
             "red": 30,
             "green": 158,
@@ -2587,8 +2587,8 @@
         ]
     },
     {
-        "num_en": "qingtinglan",
-        "num_zh": "蜻蜓蓝",
+        "name_en": "qingtinglan",
+        "name_zh": "蜻蜓蓝",
         "rgb": {
             "red": 59,
             "green": 129,
@@ -2600,8 +2600,8 @@
         ]
     },
     {
-        "num_en": "kongquelan",
-        "num_zh": "孔雀蓝",
+        "name_en": "kongquelan",
+        "name_zh": "孔雀蓝",
         "rgb": {
             "red": 14,
             "green": 176,
@@ -2613,8 +2613,8 @@
         ]
     },
     {
-        "num_en": "weilan",
-        "num_zh": "蔚蓝",
+        "name_en": "weilan",
+        "name_zh": "蔚蓝",
         "rgb": {
             "red": 41,
             "green": 183,
@@ -2626,8 +2626,8 @@
         ]
     },
     {
-        "num_en": "pubulan",
-        "num_zh": "瀑布蓝",
+        "name_en": "pubulan",
+        "name_zh": "瀑布蓝",
         "rgb": {
             "red": 81,
             "green": 196,
@@ -2639,8 +2639,8 @@
         ]
     },
     {
-        "num_en": "shanlan",
-        "num_zh": "闪蓝",
+        "name_en": "shanlan",
+        "name_zh": "闪蓝",
         "rgb": {
             "red": 124,
             "green": 171,
@@ -2652,8 +2652,8 @@
         ]
     },
     {
-        "num_en": "dianzilan",
-        "num_zh": "甸子蓝",
+        "name_en": "dianzilan",
+        "name_zh": "甸子蓝",
         "rgb": {
             "red": 16,
             "green": 174,
@@ -2665,8 +2665,8 @@
         ]
     },
     {
-        "num_en": "wanbolan",
-        "num_zh": "晚波蓝",
+        "name_en": "wanbolan",
+        "name_zh": "晚波蓝",
         "rgb": {
             "red": 100,
             "green": 142,
@@ -2678,8 +2678,8 @@
         ]
     },
     {
-        "num_en": "qingshuilan",
-        "num_zh": "清水蓝",
+        "name_en": "qingshuilan",
+        "name_zh": "清水蓝",
         "rgb": {
             "red": 147,
             "green": 213,
@@ -2691,8 +2691,8 @@
         ]
     },
     {
-        "num_en": "xiayunhui",
-        "num_zh": "夏云灰",
+        "name_en": "xiayunhui",
+        "name_zh": "夏云灰",
         "rgb": {
             "red": 97,
             "green": 113,
@@ -2704,8 +2704,8 @@
         ]
     },
     {
-        "num_en": "haitianlan",
-        "num_zh": "海天蓝",
+        "name_en": "haitianlan",
+        "name_zh": "海天蓝",
         "rgb": {
             "red": 198,
             "green": 230,
@@ -2717,8 +2717,8 @@
         ]
     },
     {
-        "num_en": "xiakeqing",
-        "num_zh": "虾壳青",
+        "name_en": "xiakeqing",
+        "name_zh": "虾壳青",
         "rgb": {
             "red": 134,
             "green": 157,
@@ -2730,8 +2730,8 @@
         ]
     },
     {
-        "num_en": "shilv",
-        "num_zh": "石绿",
+        "name_en": "shilv",
+        "name_zh": "石绿",
         "rgb": {
             "red": 87,
             "green": 195,
@@ -2743,8 +2743,8 @@
         ]
     },
     {
-        "num_en": "qionghui",
-        "num_zh": "穹灰",
+        "name_en": "qionghui",
+        "name_zh": "穹灰",
         "rgb": {
             "red": 196,
             "green": 215,
@@ -2756,8 +2756,8 @@
         ]
     },
     {
-        "num_en": "meidielv",
-        "num_zh": "美蝶绿",
+        "name_en": "meidielv",
+        "name_zh": "美蝶绿",
         "rgb": {
             "red": 18,
             "green": 170,
@@ -2769,8 +2769,8 @@
         ]
     },
     {
-        "num_en": "ehui",
-        "num_zh": "垩灰",
+        "name_en": "ehui",
+        "name_zh": "垩灰",
         "rgb": {
             "red": 115,
             "green": 124,
@@ -2782,8 +2782,8 @@
         ]
     },
     {
-        "num_en": "lanlv",
-        "num_zh": "蓝绿",
+        "name_en": "lanlv",
+        "name_zh": "蓝绿",
         "rgb": {
             "red": 18,
             "green": 161,
@@ -2795,8 +2795,8 @@
         ]
     },
     {
-        "num_en": "zhulv",
-        "num_zh": "竹绿",
+        "name_en": "zhulv",
+        "name_zh": "竹绿",
         "rgb": {
             "red": 27,
             "green": 167,
@@ -2808,8 +2808,8 @@
         ]
     },
     {
-        "num_en": "yadinglv",
-        "num_zh": "亚丁绿",
+        "name_en": "yadinglv",
+        "name_zh": "亚丁绿",
         "rgb": {
             "red": 66,
             "green": 134,
@@ -2821,8 +2821,8 @@
         ]
     },
     {
-        "num_en": "yueyingbai",
-        "num_zh": "月影白",
+        "name_en": "yueyingbai",
+        "name_zh": "月影白",
         "rgb": {
             "red": 192,
             "green": 196,
@@ -2834,8 +2834,8 @@
         ]
     },
     {
-        "num_en": "haiwanglv",
-        "num_zh": "海王绿",
+        "name_en": "haiwanglv",
+        "name_zh": "海王绿",
         "rgb": {
             "red": 36,
             "green": 128,
@@ -2847,8 +2847,8 @@
         ]
     },
     {
-        "num_en": "shenhailv",
-        "num_zh": "深海绿",
+        "name_en": "shenhailv",
+        "name_zh": "深海绿",
         "rgb": {
             "red": 26,
             "green": 59,
@@ -2860,8 +2860,8 @@
         ]
     },
     {
-        "num_en": "lvhui",
-        "num_zh": "绿灰",
+        "name_en": "lvhui",
+        "name_zh": "绿灰",
         "rgb": {
             "red": 49,
             "green": 74,
@@ -2873,8 +2873,8 @@
         ]
     },
     {
-        "num_en": "qingfanlv",
-        "num_zh": "青矾绿",
+        "name_en": "qingfanlv",
+        "name_zh": "青矾绿",
         "rgb": {
             "red": 44,
             "green": 150,
@@ -2886,8 +2886,8 @@
         ]
     },
     {
-        "num_en": "canglv",
-        "num_zh": "苍绿",
+        "name_en": "canglv",
+        "name_zh": "苍绿",
         "rgb": {
             "red": 34,
             "green": 62,
@@ -2899,8 +2899,8 @@
         ]
     },
     {
-        "num_en": "feiquanlv",
-        "num_zh": "飞泉绿",
+        "name_en": "feiquanlv",
+        "name_zh": "飞泉绿",
         "rgb": {
             "red": 73,
             "green": 117,
@@ -2912,8 +2912,8 @@
         ]
     },
     {
-        "num_en": "mangconglv",
-        "num_zh": "莽丛绿",
+        "name_en": "mangconglv",
+        "name_zh": "莽丛绿",
         "rgb": {
             "red": 20,
             "green": 30,
@@ -2925,8 +2925,8 @@
         ]
     },
     {
-        "num_en": "wuzhilv",
-        "num_zh": "梧枝绿",
+        "name_en": "wuzhilv",
+        "name_zh": "梧枝绿",
         "rgb": {
             "red": 105,
             "green": 167,
@@ -2938,8 +2938,8 @@
         ]
     },
     {
-        "num_en": "tonglv",
-        "num_zh": "铜绿",
+        "name_en": "tonglv",
+        "name_zh": "铜绿",
         "rgb": {
             "red": 43,
             "green": 174,
@@ -2951,8 +2951,8 @@
         ]
     },
     {
-        "num_en": "caoyuanyuanlv",
-        "num_zh": "草原远绿",
+        "name_en": "caoyuanyuanlv",
+        "name_zh": "草原远绿",
         "rgb": {
             "red": 154,
             "green": 190,
@@ -2964,8 +2964,8 @@
         ]
     },
     {
-        "num_en": "walv",
-        "num_zh": "蛙绿",
+        "name_en": "walv",
+        "name_zh": "蛙绿",
         "rgb": {
             "red": 69,
             "green": 183,
@@ -2977,8 +2977,8 @@
         ]
     },
     {
-        "num_en": "langhualv",
-        "num_zh": "浪花绿",
+        "name_en": "langhualv",
+        "name_zh": "浪花绿",
         "rgb": {
             "red": 146,
             "green": 179,
@@ -2990,8 +2990,8 @@
         ]
     },
     {
-        "num_en": "ganlanlv",
-        "num_zh": "苷蓝绿",
+        "name_en": "ganlanlv",
+        "name_zh": "苷蓝绿",
         "rgb": {
             "red": 31,
             "green": 38,
@@ -3003,8 +3003,8 @@
         ]
     },
     {
-        "num_en": "fenlv",
-        "num_zh": "粉绿",
+        "name_en": "fenlv",
+        "name_zh": "粉绿",
         "rgb": {
             "red": 131,
             "green": 203,
@@ -3016,8 +3016,8 @@
         ]
     },
     {
-        "num_en": "danlvhui",
-        "num_zh": "淡绿灰",
+        "name_en": "danlvhui",
+        "name_zh": "淡绿灰",
         "rgb": {
             "red": 112,
             "green": 136,
@@ -3029,8 +3029,8 @@
         ]
     },
     {
-        "num_en": "maimiaolv",
-        "num_zh": "麦苗绿",
+        "name_en": "maimiaolv",
+        "name_zh": "麦苗绿",
         "rgb": {
             "red": 85,
             "green": 187,
@@ -3042,8 +3042,8 @@
         ]
     },
     {
-        "num_en": "cuilv",
-        "num_zh": "翠绿",
+        "name_en": "cuilv",
+        "name_zh": "翠绿",
         "rgb": {
             "red": 32,
             "green": 161,
@@ -3055,8 +3055,8 @@
         ]
     },
     {
-        "num_en": "conglv",
-        "num_zh": "葱绿",
+        "name_en": "conglv",
+        "name_zh": "葱绿",
         "rgb": {
             "red": 64,
             "green": 160,
@@ -3068,8 +3068,8 @@
         ]
     },
     {
-        "num_en": "heyelv",
-        "num_zh": "荷叶绿",
+        "name_en": "heyelv",
+        "name_zh": "荷叶绿",
         "rgb": {
             "red": 26,
             "green": 104,
@@ -3081,8 +3081,8 @@
         ]
     },
     {
-        "num_en": "danlv",
-        "num_zh": "淡绿",
+        "name_en": "danlv",
+        "name_zh": "淡绿",
         "rgb": {
             "red": 97,
             "green": 172,
@@ -3094,8 +3094,8 @@
         ]
     },
     {
-        "num_en": "tianyuanlv",
-        "num_zh": "田园绿",
+        "name_en": "tianyuanlv",
+        "name_zh": "田园绿",
         "rgb": {
             "red": 104,
             "green": 184,
@@ -3107,8 +3107,8 @@
         ]
     },
     {
-        "num_en": "yuzanlv",
-        "num_zh": "玉簪绿",
+        "name_en": "yuzanlv",
+        "name_zh": "玉簪绿",
         "rgb": {
             "red": 164,
             "green": 202,
@@ -3120,8 +3120,8 @@
         ]
     },
     {
-        "num_en": "chanlv",
-        "num_zh": "蟾绿",
+        "name_en": "chanlv",
+        "name_zh": "蟾绿",
         "rgb": {
             "red": 60,
             "green": 149,
@@ -3133,8 +3133,8 @@
         ]
     },
     {
-        "num_en": "koushaolv",
-        "num_zh": "蔻梢绿",
+        "name_en": "koushaolv",
+        "name_zh": "蔻梢绿",
         "rgb": {
             "red": 93,
             "green": 190,
@@ -3146,8 +3146,8 @@
         ]
     },
     {
-        "num_en": "bohelv",
-        "num_zh": "薄荷绿",
+        "name_en": "bohelv",
+        "name_zh": "薄荷绿",
         "rgb": {
             "red": 32,
             "green": 127,
@@ -3159,8 +3159,8 @@
         ]
     },
     {
-        "num_en": "yuebai",
-        "num_zh": "月白",
+        "name_en": "yuebai",
+        "name_zh": "月白",
         "rgb": {
             "red": 238,
             "green": 247,
@@ -3172,8 +3172,8 @@
         ]
     },
     {
-        "num_en": "danbaishilv",
-        "num_zh": "蛋白石绿",
+        "name_en": "danbaishilv",
+        "name_zh": "蛋白石绿",
         "rgb": {
             "red": 87,
             "green": 149,
@@ -3185,8 +3185,8 @@
         ]
     },
     {
-        "num_en": "zhuhuanglv",
-        "num_zh": "竹篁绿",
+        "name_en": "zhuhuanglv",
+        "name_zh": "竹篁绿",
         "rgb": {
             "red": 185,
             "green": 222,
@@ -3198,8 +3198,8 @@
         ]
     },
     {
-        "num_en": "kongquelv",
-        "num_zh": "孔雀绿",
+        "name_en": "kongquelv",
+        "name_zh": "孔雀绿",
         "rgb": {
             "red": 34,
             "green": 148,
@@ -3211,8 +3211,8 @@
         ]
     },
     {
-        "num_en": "gongdianlv",
-        "num_zh": "宫殿绿",
+        "name_en": "gongdianlv",
+        "name_zh": "宫殿绿",
         "rgb": {
             "red": 32,
             "green": 137,
@@ -3224,8 +3224,8 @@
         ]
     },
     {
-        "num_en": "yunshanlv",
-        "num_zh": "云杉绿",
+        "name_en": "yunshanlv",
+        "name_zh": "云杉绿",
         "rgb": {
             "red": 21,
             "green": 35,
@@ -3237,8 +3237,8 @@
         ]
     },
     {
-        "num_en": "maolv",
-        "num_zh": "毛绿",
+        "name_en": "maolv",
+        "name_zh": "毛绿",
         "rgb": {
             "red": 102,
             "green": 193,
@@ -3250,8 +3250,8 @@
         ]
     },
     {
-        "num_en": "bingshanlan",
-        "num_zh": "冰山蓝",
+        "name_en": "bingshanlan",
+        "name_zh": "冰山蓝",
         "rgb": {
             "red": 164,
             "green": 172,
@@ -3263,8 +3263,8 @@
         ]
     },
     {
-        "num_en": "minghui",
-        "num_zh": "明灰",
+        "name_en": "minghui",
+        "name_zh": "明灰",
         "rgb": {
             "red": 138,
             "green": 152,
@@ -3276,8 +3276,8 @@
         ]
     },
     {
-        "num_en": "minglv",
-        "num_zh": "明绿",
+        "name_en": "minglv",
+        "name_zh": "明绿",
         "rgb": {
             "red": 158,
             "green": 204,
@@ -3289,8 +3289,8 @@
         ]
     },
     {
-        "num_en": "songshuanglv",
-        "num_zh": "松霜绿",
+        "name_en": "songshuanglv",
+        "name_zh": "松霜绿",
         "rgb": {
             "red": 131,
             "green": 167,
@@ -3302,8 +3302,8 @@
         ]
     },
     {
-        "num_en": "baiqucailv",
-        "num_zh": "白屈菜绿",
+        "name_en": "baiqucailv",
+        "name_zh": "白屈菜绿",
         "rgb": {
             "red": 72,
             "green": 91,
@@ -3315,8 +3315,8 @@
         ]
     },
     {
-        "num_en": "langyanhui",
-        "num_zh": "狼烟灰",
+        "name_en": "langyanhui",
+        "name_zh": "狼烟灰",
         "rgb": {
             "red": 93,
             "green": 101,
@@ -3328,8 +3328,8 @@
         ]
     },
     {
-        "num_en": "wasonglv",
-        "num_zh": "瓦松绿",
+        "name_en": "wasonglv",
+        "name_zh": "瓦松绿",
         "rgb": {
             "red": 110,
             "green": 139,
@@ -3341,8 +3341,8 @@
         ]
     },
     {
-        "num_en": "hujishenglv",
-        "num_zh": "槲寄生绿",
+        "name_en": "hujishenglv",
+        "name_zh": "槲寄生绿",
         "rgb": {
             "red": 43,
             "green": 49,
@@ -3354,8 +3354,8 @@
         ]
     },
     {
-        "num_en": "dancuilv",
-        "num_zh": "淡翠绿",
+        "name_en": "dancuilv",
+        "name_zh": "淡翠绿",
         "rgb": {
             "red": 198,
             "green": 223,
@@ -3367,8 +3367,8 @@
         ]
     },
     {
-        "num_en": "yusuilv",
-        "num_zh": "玉髓绿",
+        "name_en": "yusuilv",
+        "name_zh": "玉髓绿",
         "rgb": {
             "red": 65,
             "green": 179,
@@ -3380,8 +3380,8 @@
         ]
     },
     {
-        "num_en": "xianlv",
-        "num_zh": "鲜绿",
+        "name_en": "xianlv",
+        "name_zh": "鲜绿",
         "rgb": {
             "red": 67,
             "green": 178,
@@ -3393,8 +3393,8 @@
         ]
     },
     {
-        "num_en": "youlv",
-        "num_zh": "油绿",
+        "name_en": "youlv",
+        "name_zh": "油绿",
         "rgb": {
             "red": 37,
             "green": 61,
@@ -3406,8 +3406,8 @@
         ]
     },
     {
-        "num_en": "baoshilv",
-        "num_zh": "宝石绿",
+        "name_en": "baoshilv",
+        "name_zh": "宝石绿",
         "rgb": {
             "red": 65,
             "green": 174,
@@ -3419,8 +3419,8 @@
         ]
     },
     {
-        "num_en": "jialingshuilv",
-        "num_zh": "嘉陵水绿",
+        "name_en": "jialingshuilv",
+        "name_zh": "嘉陵水绿",
         "rgb": {
             "red": 173,
             "green": 213,
@@ -3432,8 +3432,8 @@
         ]
     },
     {
-        "num_en": "tianluolv",
-        "num_zh": "田螺绿",
+        "name_en": "tianluolv",
+        "name_zh": "田螺绿",
         "rgb": {
             "red": 94,
             "green": 102,
@@ -3445,8 +3445,8 @@
         ]
     },
     {
-        "num_en": "shuilv",
-        "num_zh": "水绿",
+        "name_en": "shuilv",
+        "name_zh": "水绿",
         "rgb": {
             "red": 140,
             "green": 194,
@@ -3458,8 +3458,8 @@
         ]
     },
     {
-        "num_en": "yingwulv",
-        "num_zh": "鹦鹉绿",
+        "name_en": "yingwulv",
+        "name_zh": "鹦鹉绿",
         "rgb": {
             "red": 91,
             "green": 174,
@@ -3471,8 +3471,8 @@
         ]
     },
     {
-        "num_en": "aibeilv",
-        "num_zh": "艾背绿",
+        "name_en": "aibeilv",
+        "name_zh": "艾背绿",
         "rgb": {
             "red": 223,
             "green": 236,
@@ -3484,8 +3484,8 @@
         ]
     },
     {
-        "num_en": "ailv",
-        "num_zh": "艾绿",
+        "name_en": "ailv",
+        "name_zh": "艾绿",
         "rgb": {
             "red": 202,
             "green": 211,
@@ -3497,8 +3497,8 @@
         ]
     },
     {
-        "num_en": "niehui",
-        "num_zh": "镍灰",
+        "name_en": "niehui",
+        "name_zh": "镍灰",
         "rgb": {
             "red": 159,
             "green": 163,
@@ -3510,8 +3510,8 @@
         ]
     },
     {
-        "num_en": "ganlanshilv",
-        "num_zh": "橄榄石绿",
+        "name_en": "ganlanshilv",
+        "name_zh": "橄榄石绿",
         "rgb": {
             "red": 178,
             "green": 207,
@@ -3523,8 +3523,8 @@
         ]
     },
     {
-        "num_en": "yalv",
-        "num_zh": "芽绿",
+        "name_en": "yalv",
+        "name_zh": "芽绿",
         "rgb": {
             "red": 150,
             "green": 194,
@@ -3536,8 +3536,8 @@
         ]
     },
     {
-        "num_en": "nenjulv",
-        "num_zh": "嫩菊绿",
+        "name_en": "nenjulv",
+        "name_zh": "嫩菊绿",
         "rgb": {
             "red": 240,
             "green": 245,
@@ -3549,8 +3549,8 @@
         ]
     },
     {
-        "num_en": "luweilv",
-        "num_zh": "芦苇绿",
+        "name_en": "luweilv",
+        "name_zh": "芦苇绿",
         "rgb": {
             "red": 183,
             "green": 208,
@@ -3562,8 +3562,8 @@
         ]
     },
     {
-        "num_en": "yaohuang",
-        "num_zh": "姚黄",
+        "name_en": "yaohuang",
+        "name_zh": "姚黄",
         "rgb": {
             "red": 208,
             "green": 222,
@@ -3575,8 +3575,8 @@
         ]
     },
     {
-        "num_en": "enyoulv",
-        "num_zh": "蒽油绿",
+        "name_en": "enyoulv",
+        "name_zh": "蒽油绿",
         "rgb": {
             "red": 55,
             "green": 56,
@@ -3588,8 +3588,8 @@
         ]
     },
     {
-        "num_en": "pingguolv",
-        "num_zh": "苹果绿",
+        "name_en": "pingguolv",
+        "name_zh": "苹果绿",
         "rgb": {
             "red": 186,
             "green": 207,
@@ -3601,8 +3601,8 @@
         ]
     },
     {
-        "num_en": "haimeilv",
-        "num_zh": "海沬绿",
+        "name_en": "haimeilv",
+        "name_zh": "海沬绿",
         "rgb": {
             "red": 226,
             "green": 231,
@@ -3614,8 +3614,8 @@
         ]
     },
     {
-        "num_en": "ganlanhuanglv",
-        "num_zh": "橄榄黄绿",
+        "name_en": "ganlanhuanglv",
+        "name_zh": "橄榄黄绿",
         "rgb": {
             "red": 190,
             "green": 201,
@@ -3627,8 +3627,8 @@
         ]
     },
     {
-        "num_en": "huaihuahuanglv",
-        "num_zh": "槐花黄绿",
+        "name_en": "huaihuahuanglv",
+        "name_zh": "槐花黄绿",
         "rgb": {
             "red": 210,
             "green": 217,
@@ -3640,8 +3640,8 @@
         ]
     },
     {
-        "num_en": "diehuang",
-        "num_zh": "蝶黄",
+        "name_en": "diehuang",
+        "name_zh": "蝶黄",
         "rgb": {
             "red": 226,
             "green": 216,
@@ -3653,8 +3653,8 @@
         ]
     },
     {
-        "num_en": "xiangyabai",
-        "num_zh": "象牙白",
+        "name_en": "xiangyabai",
+        "name_zh": "象牙白",
         "rgb": {
             "red": 255,
             "green": 254,
@@ -3666,8 +3666,8 @@
         ]
     },
     {
-        "num_en": "ganlanlv",
-        "num_zh": "橄榄绿",
+        "name_en": "ganlanlv",
+        "name_zh": "橄榄绿",
         "rgb": {
             "red": 94,
             "green": 83,
@@ -3679,8 +3679,8 @@
         ]
     },
     {
-        "num_en": "xuebai",
-        "num_zh": "雪白",
+        "name_en": "xuebai",
+        "name_zh": "雪白",
         "rgb": {
             "red": 255,
             "green": 254,
@@ -3692,8 +3692,8 @@
         ]
     },
     {
-        "num_en": "danhuilv",
-        "num_zh": "淡灰绿",
+        "name_en": "danhuilv",
+        "name_zh": "淡灰绿",
         "rgb": {
             "red": 173,
             "green": 158,
@@ -3705,8 +3705,8 @@
         ]
     },
     {
-        "num_en": "foshouhuang",
-        "num_zh": "佛手黄",
+        "name_en": "foshouhuang",
+        "name_zh": "佛手黄",
         "rgb": {
             "red": 254,
             "green": 215,
@@ -3718,8 +3718,8 @@
         ]
     },
     {
-        "num_en": "rubai",
-        "num_zh": "乳白",
+        "name_en": "rubai",
+        "name_zh": "乳白",
         "rgb": {
             "red": 249,
             "green": 244,
@@ -3731,8 +3731,8 @@
         ]
     },
     {
-        "num_en": "xiangjiaohuang",
-        "num_zh": "香蕉黄",
+        "name_en": "xiangjiaohuang",
+        "name_zh": "香蕉黄",
         "rgb": {
             "red": 228,
             "green": 191,
@@ -3744,8 +3744,8 @@
         ]
     },
     {
-        "num_en": "xinhelv",
-        "num_zh": "新禾绿",
+        "name_en": "xinhelv",
+        "name_zh": "新禾绿",
         "rgb": {
             "red": 210,
             "green": 177,
@@ -3757,8 +3757,8 @@
         ]
     },
     {
-        "num_en": "youcaihuahuang",
-        "num_zh": "油菜花黄",
+        "name_en": "youcaihuahuang",
+        "name_zh": "油菜花黄",
         "rgb": {
             "red": 251,
             "green": 218,
@@ -3770,8 +3770,8 @@
         ]
     },
     {
-        "num_en": "qiukuihuang",
-        "num_zh": "秋葵黄",
+        "name_en": "qiukuihuang",
+        "name_zh": "秋葵黄",
         "rgb": {
             "red": 238,
             "green": 208,
@@ -3783,8 +3783,8 @@
         ]
     },
     {
-        "num_en": "youhuang",
-        "num_zh": "柚黄",
+        "name_en": "youhuang",
+        "name_zh": "柚黄",
         "rgb": {
             "red": 241,
             "green": 202,
@@ -3796,8 +3796,8 @@
         ]
     },
     {
-        "num_en": "caohuang",
-        "num_zh": "草黄",
+        "name_en": "caohuang",
+        "name_zh": "草黄",
         "rgb": {
             "red": 210,
             "green": 180,
@@ -3809,8 +3809,8 @@
         ]
     },
     {
-        "num_en": "liuhuahuang",
-        "num_zh": "硫华黄",
+        "name_en": "liuhuahuang",
+        "name_zh": "硫华黄",
         "rgb": {
             "red": 242,
             "green": 206,
@@ -3822,8 +3822,8 @@
         ]
     },
     {
-        "num_en": "jianghuang",
-        "num_zh": "姜黄",
+        "name_en": "jianghuang",
+        "name_zh": "姜黄",
         "rgb": {
             "red": 226,
             "green": 192,
@@ -3835,8 +3835,8 @@
         ]
     },
     {
-        "num_en": "tanshuilv",
-        "num_zh": "潭水绿",
+        "name_en": "tanshuilv",
+        "name_zh": "潭水绿",
         "rgb": {
             "red": 100,
             "green": 88,
@@ -3848,8 +3848,8 @@
         ]
     },
     {
-        "num_en": "jinguahuang",
-        "num_zh": "金瓜黄",
+        "name_en": "jinguahuang",
+        "name_zh": "金瓜黄",
         "rgb": {
             "red": 252,
             "green": 210,
@@ -3861,8 +3861,8 @@
         ]
     },
     {
-        "num_en": "maiganhuang",
-        "num_zh": "麦秆黄",
+        "name_en": "maiganhuang",
+        "name_zh": "麦秆黄",
         "rgb": {
             "red": 248,
             "green": 223,
@@ -3874,8 +3874,8 @@
         ]
     },
     {
-        "num_en": "haohuang",
-        "num_zh": "蒿黄",
+        "name_en": "haohuang",
+        "name_zh": "蒿黄",
         "rgb": {
             "red": 223,
             "green": 194,
@@ -3887,8 +3887,8 @@
         ]
     },
     {
-        "num_en": "molihuang",
-        "num_zh": "茉莉黄",
+        "name_en": "molihuang",
+        "name_zh": "茉莉黄",
         "rgb": {
             "red": 248,
             "green": 223,
@@ -3900,8 +3900,8 @@
         ]
     },
     {
-        "num_en": "tenghuang",
-        "num_zh": "藤黄",
+        "name_en": "tenghuang",
+        "name_zh": "藤黄",
         "rgb": {
             "red": 255,
             "green": 209,
@@ -3913,8 +3913,8 @@
         ]
     },
     {
-        "num_en": "mangguohuang",
-        "num_zh": "芒果黄",
+        "name_en": "mangguohuang",
+        "name_zh": "芒果黄",
         "rgb": {
             "red": 221,
             "green": 200,
@@ -3926,8 +3926,8 @@
         ]
     },
     {
-        "num_en": "haishenhui",
-        "num_zh": "海参灰",
+        "name_en": "haishenhui",
+        "name_zh": "海参灰",
         "rgb": {
             "red": 255,
             "green": 254,
@@ -3939,8 +3939,8 @@
         ]
     },
     {
-        "num_en": "biluochunlv",
-        "num_zh": "碧螺春绿",
+        "name_en": "biluochunlv",
+        "name_zh": "碧螺春绿",
         "rgb": {
             "red": 134,
             "green": 112,
@@ -3952,8 +3952,8 @@
         ]
     },
     {
-        "num_en": "tailv",
-        "num_zh": "苔绿",
+        "name_en": "tailv",
+        "name_zh": "苔绿",
         "rgb": {
             "red": 136,
             "green": 115,
@@ -3965,8 +3965,8 @@
         ]
     },
     {
-        "num_en": "ningmenghuang",
-        "num_zh": "柠檬黄",
+        "name_en": "ningmenghuang",
+        "name_zh": "柠檬黄",
         "rgb": {
             "red": 252,
             "green": 211,
@@ -3978,8 +3978,8 @@
         ]
     },
     {
-        "num_en": "caohuilv",
-        "num_zh": "草灰绿",
+        "name_en": "caohuilv",
+        "name_zh": "草灰绿",
         "rgb": {
             "red": 142,
             "green": 128,
@@ -3991,8 +3991,8 @@
         ]
     },
     {
-        "num_en": "xiangrikuihuang",
-        "num_zh": "向日葵黄",
+        "name_en": "xiangrikuihuang",
+        "name_zh": "向日葵黄",
         "rgb": {
             "red": 254,
             "green": 204,
@@ -4004,8 +4004,8 @@
         ]
     },
     {
-        "num_en": "suxinhuang",
-        "num_zh": "素馨黄",
+        "name_en": "suxinhuang",
+        "name_zh": "素馨黄",
         "rgb": {
             "red": 252,
             "green": 203,
@@ -4017,8 +4017,8 @@
         ]
     },
     {
-        "num_en": "ruyahuang",
-        "num_zh": "乳鸭黄",
+        "name_en": "ruyahuang",
+        "name_zh": "乳鸭黄",
         "rgb": {
             "red": 255,
             "green": 201,
@@ -4030,8 +4030,8 @@
         ]
     },
     {
-        "num_en": "yuehui",
-        "num_zh": "月灰",
+        "name_en": "yuehui",
+        "name_zh": "月灰",
         "rgb": {
             "red": 183,
             "green": 174,
@@ -4043,8 +4043,8 @@
         ]
     },
     {
-        "num_en": "kuishanhuang",
-        "num_zh": "葵扇黄",
+        "name_en": "kuishanhuang",
+        "name_zh": "葵扇黄",
         "rgb": {
             "red": 248,
             "green": 216,
@@ -4056,8 +4056,8 @@
         ]
     },
     {
-        "num_en": "dadouhuang",
-        "num_zh": "大豆黄",
+        "name_en": "dadouhuang",
+        "name_zh": "大豆黄",
         "rgb": {
             "red": 251,
             "green": 205,
@@ -4069,8 +4069,8 @@
         ]
     },
     {
-        "num_en": "jinzhanhuang",
-        "num_zh": "金盏黄",
+        "name_en": "jinzhanhuang",
+        "name_zh": "金盏黄",
         "rgb": {
             "red": 252,
             "green": 195,
@@ -4082,8 +4082,8 @@
         ]
     },
     {
-        "num_en": "juleibai",
-        "num_zh": "菊蕾白",
+        "name_en": "juleibai",
+        "name_zh": "菊蕾白",
         "rgb": {
             "red": 233,
             "green": 221,
@@ -4095,8 +4095,8 @@
         ]
     },
     {
-        "num_en": "huanglianhuang",
-        "num_zh": "黄连黄",
+        "name_en": "huanglianhuang",
+        "name_zh": "黄连黄",
         "rgb": {
             "red": 252,
             "green": 197,
@@ -4108,8 +4108,8 @@
         ]
     },
     {
-        "num_en": "xingrenhuang",
-        "num_zh": "杏仁黄",
+        "name_en": "xingrenhuang",
+        "name_zh": "杏仁黄",
         "rgb": {
             "red": 247,
             "green": 232,
@@ -4121,8 +4121,8 @@
         ]
     },
     {
-        "num_en": "guhuang",
-        "num_zh": "谷黄",
+        "name_en": "guhuang",
+        "name_zh": "谷黄",
         "rgb": {
             "red": 232,
             "green": 176,
@@ -4134,8 +4134,8 @@
         ]
     },
     {
-        "num_en": "muguahuang",
-        "num_zh": "木瓜黄",
+        "name_en": "muguahuang",
+        "name_zh": "木瓜黄",
         "rgb": {
             "red": 249,
             "green": 193,
@@ -4147,8 +4147,8 @@
         ]
     },
     {
-        "num_en": "danjianhuang",
-        "num_zh": "淡茧黄",
+        "name_en": "danjianhuang",
+        "name_zh": "淡茧黄",
         "rgb": {
             "red": 249,
             "green": 215,
@@ -4160,8 +4160,8 @@
         ]
     },
     {
-        "num_en": "yalihuang",
-        "num_zh": "雅梨黄",
+        "name_en": "yalihuang",
+        "name_zh": "雅梨黄",
         "rgb": {
             "red": 251,
             "green": 200,
@@ -4173,8 +4173,8 @@
         ]
     },
     {
-        "num_en": "yinbai",
-        "num_zh": "银白",
+        "name_en": "yinbai",
+        "name_zh": "银白",
         "rgb": {
             "red": 241,
             "green": 240,
@@ -4186,8 +4186,8 @@
         ]
     },
     {
-        "num_en": "zonglvlv",
-        "num_zh": "棕榈绿",
+        "name_en": "zonglvlv",
+        "name_zh": "棕榈绿",
         "rgb": {
             "red": 91,
             "green": 73,
@@ -4199,8 +4199,8 @@
         ]
     },
     {
-        "num_en": "yingwuguanhuang",
-        "num_zh": "鹦鹉冠黄",
+        "name_en": "yingwuguanhuang",
+        "name_zh": "鹦鹉冠黄",
         "rgb": {
             "red": 246,
             "green": 196,
@@ -4212,8 +4212,8 @@
         ]
     },
     {
-        "num_en": "kulv",
-        "num_zh": "枯绿",
+        "name_en": "kulv",
+        "name_zh": "枯绿",
         "rgb": {
             "red": 183,
             "green": 141,
@@ -4225,8 +4225,8 @@
         ]
     },
     {
-        "num_en": "qianlaohuang",
-        "num_zh": "浅烙黄",
+        "name_en": "qianlaohuang",
+        "name_zh": "浅烙黄",
         "rgb": {
             "red": 249,
             "green": 189,
@@ -4238,8 +4238,8 @@
         ]
     },
     {
-        "num_en": "danmihuang",
-        "num_zh": "淡密黄",
+        "name_en": "danmihuang",
+        "name_zh": "淡密黄",
         "rgb": {
             "red": 249,
             "green": 211,
@@ -4251,8 +4251,8 @@
         ]
     },
     {
-        "num_en": "jiehuang",
-        "num_zh": "芥黄",
+        "name_en": "jiehuang",
+        "name_zh": "芥黄",
         "rgb": {
             "red": 217,
             "green": 164,
@@ -4264,8 +4264,8 @@
         ]
     },
     {
-        "num_en": "zhizihuang",
-        "num_zh": "栀子黄",
+        "name_en": "zhizihuang",
+        "name_zh": "栀子黄",
         "rgb": {
             "red": 235,
             "green": 177,
@@ -4277,8 +4277,8 @@
         ]
     },
     {
-        "num_en": "anhaishuilv",
-        "num_zh": "暗海水绿",
+        "name_en": "anhaishuilv",
+        "name_zh": "暗海水绿",
         "rgb": {
             "red": 88,
             "green": 71,
@@ -4290,8 +4290,8 @@
         ]
     },
     {
-        "num_en": "miehuang",
-        "num_zh": "篾黄",
+        "name_en": "miehuang",
+        "name_zh": "篾黄",
         "rgb": {
             "red": 247,
             "green": 222,
@@ -4303,8 +4303,8 @@
         ]
     },
     {
-        "num_en": "bangroubai",
-        "num_zh": "蚌肉白",
+        "name_en": "bangroubai",
+        "name_zh": "蚌肉白",
         "rgb": {
             "red": 249,
             "green": 241,
@@ -4316,8 +4316,8 @@
         ]
     },
     {
-        "num_en": "chaomihuang",
-        "num_zh": "炒米黄",
+        "name_en": "chaomihuang",
+        "name_zh": "炒米黄",
         "rgb": {
             "red": 244,
             "green": 206,
@@ -4329,8 +4329,8 @@
         ]
     },
     {
-        "num_en": "hupohuang",
-        "num_zh": "琥珀黄",
+        "name_en": "hupohuang",
+        "name_zh": "琥珀黄",
         "rgb": {
             "red": 254,
             "green": 186,
@@ -4342,8 +4342,8 @@
         ]
     },
     {
-        "num_en": "huilv",
-        "num_zh": "灰绿",
+        "name_en": "huilv",
+        "name_zh": "灰绿",
         "rgb": {
             "red": 138,
             "green": 105,
@@ -4355,8 +4355,8 @@
         ]
     },
     {
-        "num_en": "zongyelv",
-        "num_zh": "粽叶绿",
+        "name_en": "zongyelv",
+        "name_zh": "粽叶绿",
         "rgb": {
             "red": 135,
             "green": 104,
@@ -4368,8 +4368,8 @@
         ]
     },
     {
-        "num_en": "chenhui",
-        "num_zh": "尘灰",
+        "name_en": "chenhui",
+        "name_zh": "尘灰",
         "rgb": {
             "red": 182,
             "green": 164,
@@ -4381,8 +4381,8 @@
         ]
     },
     {
-        "num_en": "youhuang",
-        "num_zh": "鼬黄",
+        "name_en": "youhuang",
+        "name_zh": "鼬黄",
         "rgb": {
             "red": 252,
             "green": 183,
@@ -4394,8 +4394,8 @@
         ]
     },
     {
-        "num_en": "xiangyahuang",
-        "num_zh": "象牙黄",
+        "name_en": "xiangyahuang",
+        "name_zh": "象牙黄",
         "rgb": {
             "red": 240,
             "green": 214,
@@ -4407,8 +4407,8 @@
         ]
     },
     {
-        "num_en": "jiaoqing",
-        "num_zh": "鲛青",
+        "name_en": "jiaoqing",
+        "name_zh": "鲛青",
         "rgb": {
             "red": 135,
             "green": 114,
@@ -4420,8 +4420,8 @@
         ]
     },
     {
-        "num_en": "douzhihuang",
-        "num_zh": "豆汁黄",
+        "name_en": "douzhihuang",
+        "name_zh": "豆汁黄",
         "rgb": {
             "red": 248,
             "green": 232,
@@ -4433,8 +4433,8 @@
         ]
     },
     {
-        "num_en": "tuhuang",
-        "num_zh": "土黄",
+        "name_en": "tuhuang",
+        "name_zh": "土黄",
         "rgb": {
             "red": 214,
             "green": 160,
@@ -4446,8 +4446,8 @@
         ]
     },
     {
-        "num_en": "xiangshuimeiguihuang",
-        "num_zh": "香水玫瑰黄",
+        "name_en": "xiangshuimeiguihuang",
+        "name_zh": "香水玫瑰黄",
         "rgb": {
             "red": 247,
             "green": 218,
@@ -4459,8 +4459,8 @@
         ]
     },
     {
-        "num_en": "hupihuang",
-        "num_zh": "虎皮黄",
+        "name_en": "hupihuang",
+        "name_zh": "虎皮黄",
         "rgb": {
             "red": 234,
             "green": 173,
@@ -4472,8 +4472,8 @@
         ]
     },
     {
-        "num_en": "jidanhuang",
-        "num_zh": "鸡蛋黄",
+        "name_en": "jidanhuang",
+        "name_zh": "鸡蛋黄",
         "rgb": {
             "red": 251,
             "green": 182,
@@ -4485,8 +4485,8 @@
         ]
     },
     {
-        "num_en": "yinshuhui",
-        "num_zh": "银鼠灰",
+        "name_en": "yinshuhui",
+        "name_zh": "银鼠灰",
         "rgb": {
             "red": 181,
             "green": 170,
@@ -4498,8 +4498,8 @@
         ]
     },
     {
-        "num_en": "yudubai",
-        "num_zh": "鱼肚白",
+        "name_en": "yudubai",
+        "name_zh": "鱼肚白",
         "rgb": {
             "red": 247,
             "green": 244,
@@ -4511,8 +4511,8 @@
         ]
     },
     {
-        "num_en": "chushuxinghuang",
-        "num_zh": "初熟杏黄",
+        "name_en": "chushuxinghuang",
+        "name_zh": "初熟杏黄",
         "rgb": {
             "red": 248,
             "green": 188,
@@ -4524,8 +4524,8 @@
         ]
     },
     {
-        "num_en": "shanjihuang",
-        "num_zh": "山鸡黄",
+        "name_en": "shanjihuang",
+        "name_zh": "山鸡黄",
         "rgb": {
             "red": 183,
             "green": 139,
@@ -4537,8 +4537,8 @@
         ]
     },
     {
-        "num_en": "lianzibai",
-        "num_zh": "莲子白",
+        "name_en": "lianzibai",
+        "name_zh": "莲子白",
         "rgb": {
             "red": 229,
             "green": 211,
@@ -4550,8 +4550,8 @@
         ]
     },
     {
-        "num_en": "xiekehui",
-        "num_zh": "蟹壳灰",
+        "name_en": "xiekehui",
+        "name_zh": "蟹壳灰",
         "rgb": {
             "red": 105,
             "green": 94,
@@ -4563,8 +4563,8 @@
         ]
     },
     {
-        "num_en": "shashihuang",
-        "num_zh": "沙石黄",
+        "name_en": "shashihuang",
+        "name_zh": "沙石黄",
         "rgb": {
             "red": 229,
             "green": 183,
@@ -4576,8 +4576,8 @@
         ]
     },
     {
-        "num_en": "gancaohuang",
-        "num_zh": "甘草黄",
+        "name_en": "gancaohuang",
+        "name_zh": "甘草黄",
         "rgb": {
             "red": 243,
             "green": 191,
@@ -4589,8 +4589,8 @@
         ]
     },
     {
-        "num_en": "yanyuhui",
-        "num_zh": "燕羽灰",
+        "name_en": "yanyuhui",
+        "name_zh": "燕羽灰",
         "rgb": {
             "red": 104,
             "green": 94,
@@ -4602,8 +4602,8 @@
         ]
     },
     {
-        "num_en": "ezhanghuang",
-        "num_zh": "鹅掌黄",
+        "name_en": "ezhanghuang",
+        "name_zh": "鹅掌黄",
         "rgb": {
             "red": 251,
             "green": 185,
@@ -4615,8 +4615,8 @@
         ]
     },
     {
-        "num_en": "maiyatanghuang",
-        "num_zh": "麦芽糖黄",
+        "name_en": "maiyatanghuang",
+        "name_zh": "麦芽糖黄",
         "rgb": {
             "red": 249,
             "green": 210,
@@ -4628,8 +4628,8 @@
         ]
     },
     {
-        "num_en": "qiantuose",
-        "num_zh": "浅驼色",
+        "name_en": "qiantuose",
+        "name_zh": "浅驼色",
         "rgb": {
             "red": 226,
             "green": 193,
@@ -4641,8 +4641,8 @@
         ]
     },
     {
-        "num_en": "bailingniaohui",
-        "num_zh": "百灵鸟灰",
+        "name_en": "bailingniaohui",
+        "name_zh": "百灵鸟灰",
         "rgb": {
             "red": 180,
             "green": 169,
@@ -4654,8 +4654,8 @@
         ]
     },
     {
-        "num_en": "laohuang",
-        "num_zh": "酪黄",
+        "name_en": "laohuang",
+        "name_zh": "酪黄",
         "rgb": {
             "red": 246,
             "green": 222,
@@ -4667,8 +4667,8 @@
         ]
     },
     {
-        "num_en": "liroubai",
-        "num_zh": "荔肉白",
+        "name_en": "liroubai",
+        "name_zh": "荔肉白",
         "rgb": {
             "red": 242,
             "green": 230,
@@ -4680,8 +4680,8 @@
         ]
     },
     {
-        "num_en": "danrouse",
-        "num_zh": "淡肉色",
+        "name_en": "danrouse",
+        "name_zh": "淡肉色",
         "rgb": {
             "red": 248,
             "green": 224,
@@ -4693,8 +4693,8 @@
         ]
     },
     {
-        "num_en": "hetunhui",
-        "num_zh": "河豚灰",
+        "name_en": "hetunhui",
+        "name_zh": "河豚灰",
         "rgb": {
             "red": 57,
             "green": 55,
@@ -4706,8 +4706,8 @@
         ]
     },
     {
-        "num_en": "yililv",
-        "num_zh": "蜴蜊绿",
+        "name_en": "yililv",
+        "name_zh": "蜴蜊绿",
         "rgb": {
             "red": 131,
             "green": 94,
@@ -4719,8 +4719,8 @@
         ]
     },
     {
-        "num_en": "hanbaiyu",
-        "num_zh": "汉白玉",
+        "name_en": "hanbaiyu",
+        "name_zh": "汉白玉",
         "rgb": {
             "red": 248,
             "green": 244,
@@ -4732,8 +4732,8 @@
         ]
     },
     {
-        "num_en": "chengpihuang",
-        "num_zh": "橙皮黄",
+        "name_en": "chengpihuang",
+        "name_zh": "橙皮黄",
         "rgb": {
             "red": 252,
             "green": 161,
@@ -4745,8 +4745,8 @@
         ]
     },
     {
-        "num_en": "laiyanglihuang",
-        "num_zh": "莱阳梨黄",
+        "name_en": "laiyanglihuang",
+        "name_zh": "莱阳梨黄",
         "rgb": {
             "red": 129,
             "green": 95,
@@ -4758,8 +4758,8 @@
         ]
     },
     {
-        "num_en": "pipahuang",
-        "num_zh": "枇杷黄",
+        "name_en": "pipahuang",
+        "name_zh": "枇杷黄",
         "rgb": {
             "red": 252,
             "green": 161,
@@ -4771,8 +4771,8 @@
         ]
     },
     {
-        "num_en": "jinyehuang",
-        "num_zh": "金叶黄",
+        "name_en": "jinyehuang",
+        "name_zh": "金叶黄",
         "rgb": {
             "red": 255,
             "green": 166,
@@ -4784,8 +4784,8 @@
         ]
     },
     {
-        "num_en": "canghuang",
-        "num_zh": "苍黄",
+        "name_en": "canghuang",
+        "name_zh": "苍黄",
         "rgb": {
             "red": 128,
             "green": 99,
@@ -4797,8 +4797,8 @@
         ]
     },
     {
-        "num_en": "fenbai",
-        "num_zh": "粉白",
+        "name_en": "fenbai",
+        "name_zh": "粉白",
         "rgb": {
             "red": 251,
             "green": 242,
@@ -4810,8 +4810,8 @@
         ]
     },
     {
-        "num_en": "danjucheng",
-        "num_zh": "淡橘橙",
+        "name_en": "danjucheng",
+        "name_zh": "淡橘橙",
         "rgb": {
             "red": 251,
             "green": 164,
@@ -4823,8 +4823,8 @@
         ]
     },
     {
-        "num_en": "zhenzhuhui",
-        "num_zh": "珍珠灰",
+        "name_en": "zhenzhuhui",
+        "name_zh": "珍珠灰",
         "rgb": {
             "red": 228,
             "green": 223,
@@ -4836,8 +4836,8 @@
         ]
     },
     {
-        "num_en": "guibeihuang",
-        "num_zh": "龟背黄",
+        "name_en": "guibeihuang",
+        "name_zh": "龟背黄",
         "rgb": {
             "red": 130,
             "green": 107,
@@ -4849,8 +4849,8 @@
         ]
     },
     {
-        "num_en": "qianhui",
-        "num_zh": "浅灰",
+        "name_en": "qianhui",
+        "name_zh": "浅灰",
         "rgb": {
             "red": 218,
             "green": 212,
@@ -4862,8 +4862,8 @@
         ]
     },
     {
-        "num_en": "qianhui",
-        "num_zh": "铅灰",
+        "name_en": "qianhui",
+        "name_zh": "铅灰",
         "rgb": {
             "red": 187,
             "green": 181,
@@ -4875,8 +4875,8 @@
         ]
     },
     {
-        "num_en": "zhonghui",
-        "num_zh": "中灰",
+        "name_en": "zhonghui",
+        "name_zh": "中灰",
         "rgb": {
             "red": 187,
             "green": 181,
@@ -4888,8 +4888,8 @@
         ]
     },
     {
-        "num_en": "xionghuang",
-        "num_zh": "雄黄",
+        "name_en": "xionghuang",
+        "name_zh": "雄黄",
         "rgb": {
             "red": 255,
             "green": 153,
@@ -4901,8 +4901,8 @@
         ]
     },
     {
-        "num_en": "mihuang",
-        "num_zh": "蜜黄",
+        "name_en": "mihuang",
+        "name_zh": "蜜黄",
         "rgb": {
             "red": 251,
             "green": 185,
@@ -4914,8 +4914,8 @@
         ]
     },
     {
-        "num_en": "fengfanhuang",
-        "num_zh": "风帆黄",
+        "name_en": "fengfanhuang",
+        "name_zh": "风帆黄",
         "rgb": {
             "red": 220,
             "green": 145,
@@ -4927,8 +4927,8 @@
         ]
     },
     {
-        "num_en": "guipidanzong",
-        "num_zh": "桂皮淡棕",
+        "name_en": "guipidanzong",
+        "name_zh": "桂皮淡棕",
         "rgb": {
             "red": 192,
             "green": 147,
@@ -4940,8 +4940,8 @@
         ]
     },
     {
-        "num_en": "jinyinghuang",
-        "num_zh": "金莺黄",
+        "name_en": "jinyinghuang",
+        "name_zh": "金莺黄",
         "rgb": {
             "red": 244,
             "green": 168,
@@ -4953,8 +4953,8 @@
         ]
     },
     {
-        "num_en": "rouse",
-        "num_zh": "肉色",
+        "name_en": "rouse",
+        "name_zh": "肉色",
         "rgb": {
             "red": 247,
             "green": 193,
@@ -4966,8 +4966,8 @@
         ]
     },
     {
-        "num_en": "diaoyezong",
-        "num_zh": "凋叶棕",
+        "name_en": "diaoyezong",
+        "name_zh": "凋叶棕",
         "rgb": {
             "red": 231,
             "green": 162,
@@ -4979,8 +4979,8 @@
         ]
     },
     {
-        "num_en": "gutonglv",
-        "num_zh": "古铜绿",
+        "name_en": "gutonglv",
+        "name_zh": "古铜绿",
         "rgb": {
             "red": 83,
             "green": 60,
@@ -4992,8 +4992,8 @@
         ]
     },
     {
-        "num_en": "luoyingdanfen",
-        "num_zh": "落英淡粉",
+        "name_en": "luoyingdanfen",
+        "name_zh": "落英淡粉",
         "rgb": {
             "red": 249,
             "green": 232,
@@ -5005,8 +5005,8 @@
         ]
     },
     {
-        "num_en": "ruanmuhuang",
-        "num_zh": "软木黄",
+        "name_en": "ruanmuhuang",
+        "name_zh": "软木黄",
         "rgb": {
             "red": 222,
             "green": 158,
@@ -5018,8 +5018,8 @@
         ]
     },
     {
-        "num_en": "guarangfen",
-        "num_zh": "瓜瓤粉",
+        "name_en": "guarangfen",
+        "name_zh": "瓜瓤粉",
         "rgb": {
             "red": 249,
             "green": 203,
@@ -5031,8 +5031,8 @@
         ]
     },
     {
-        "num_en": "liuehuang",
-        "num_zh": "榴萼黄",
+        "name_en": "liuehuang",
+        "name_zh": "榴萼黄",
         "rgb": {
             "red": 249,
             "green": 166,
@@ -5044,8 +5044,8 @@
         ]
     },
     {
-        "num_en": "daimaohuang",
-        "num_zh": "玳瑁黄",
+        "name_en": "daimaohuang",
+        "name_zh": "玳瑁黄",
         "rgb": {
             "red": 218,
             "green": 164,
@@ -5057,8 +5057,8 @@
         ]
     },
     {
-        "num_en": "jiaochalv",
-        "num_zh": "焦茶绿",
+        "name_en": "jiaochalv",
+        "name_zh": "焦茶绿",
         "rgb": {
             "red": 85,
             "green": 59,
@@ -5070,8 +5070,8 @@
         ]
     },
     {
-        "num_en": "xiekelv",
-        "num_zh": "蟹壳绿",
+        "name_en": "xiekelv",
+        "name_zh": "蟹壳绿",
         "rgb": {
             "red": 81,
             "green": 60,
@@ -5083,8 +5083,8 @@
         ]
     },
     {
-        "num_en": "shanjihe",
-        "num_zh": "山鸡褐",
+        "name_en": "shanjihe",
+        "name_zh": "山鸡褐",
         "rgb": {
             "red": 152,
             "green": 101,
@@ -5096,8 +5096,8 @@
         ]
     },
     {
-        "num_en": "houmaohui",
-        "num_zh": "猴毛灰",
+        "name_en": "houmaohui",
+        "name_zh": "猴毛灰",
         "rgb": {
             "red": 151,
             "green": 132,
@@ -5109,8 +5109,8 @@
         ]
     },
     {
-        "num_en": "lujiaozong",
-        "num_zh": "鹿角棕",
+        "name_en": "lujiaozong",
+        "name_zh": "鹿角棕",
         "rgb": {
             "red": 227,
             "green": 189,
@@ -5122,8 +5122,8 @@
         ]
     },
     {
-        "num_en": "dansongyan",
-        "num_zh": "淡松烟",
+        "name_en": "dansongyan",
+        "name_zh": "淡松烟",
         "rgb": {
             "red": 77,
             "green": 64,
@@ -5135,8 +5135,8 @@
         ]
     },
     {
-        "num_en": "wanshoujuhuang",
-        "num_zh": "万寿菊黄",
+        "name_en": "wanshoujuhuang",
+        "name_zh": "万寿菊黄",
         "rgb": {
             "red": 251,
             "green": 139,
@@ -5148,8 +5148,8 @@
         ]
     },
     {
-        "num_en": "dankehuang",
-        "num_zh": "蛋壳黄",
+        "name_en": "dankehuang",
+        "name_zh": "蛋壳黄",
         "rgb": {
             "red": 248,
             "green": 195,
@@ -5161,8 +5161,8 @@
         ]
     },
     {
-        "num_en": "xinghuang",
-        "num_zh": "杏黄",
+        "name_en": "xinghuang",
+        "name_zh": "杏黄",
         "rgb": {
             "red": 242,
             "green": 142,
@@ -5174,8 +5174,8 @@
         ]
     },
     {
-        "num_en": "ganlanhui",
-        "num_zh": "橄榄灰",
+        "name_en": "ganlanhui",
+        "name_zh": "橄榄灰",
         "rgb": {
             "red": 80,
             "green": 62,
@@ -5187,8 +5187,8 @@
         ]
     },
     {
-        "num_en": "hehui",
-        "num_zh": "鹤灰",
+        "name_en": "hehui",
+        "name_zh": "鹤灰",
         "rgb": {
             "red": 74,
             "green": 64,
@@ -5200,8 +5200,8 @@
         ]
     },
     {
-        "num_en": "manaohui",
-        "num_zh": "玛瑙灰",
+        "name_en": "manaohui",
+        "name_zh": "玛瑙灰",
         "rgb": {
             "red": 207,
             "green": 204,
@@ -5213,8 +5213,8 @@
         ]
     },
     {
-        "num_en": "danyinhui",
-        "num_zh": "淡银灰",
+        "name_en": "danyinhui",
+        "name_zh": "淡银灰",
         "rgb": {
             "red": 193,
             "green": 178,
@@ -5226,8 +5226,8 @@
         ]
     },
     {
-        "num_en": "wahui",
-        "num_zh": "瓦灰",
+        "name_en": "wahui",
+        "name_zh": "瓦灰",
         "rgb": {
             "red": 134,
             "green": 126,
@@ -5239,8 +5239,8 @@
         ]
     },
     {
-        "num_en": "yehui",
-        "num_zh": "夜灰",
+        "name_en": "yehui",
+        "name_zh": "夜灰",
         "rgb": {
             "red": 132,
             "green": 124,
@@ -5252,8 +5252,8 @@
         ]
     },
     {
-        "num_en": "beiguahuang",
-        "num_zh": "北瓜黄",
+        "name_en": "beiguahuang",
+        "name_zh": "北瓜黄",
         "rgb": {
             "red": 252,
             "green": 140,
@@ -5265,8 +5265,8 @@
         ]
     },
     {
-        "num_en": "hehuabai",
-        "num_zh": "荷花白",
+        "name_en": "hehuabai",
+        "name_zh": "荷花白",
         "rgb": {
             "red": 251,
             "green": 236,
@@ -5278,8 +5278,8 @@
         ]
     },
     {
-        "num_en": "songshuhui",
-        "num_zh": "松鼠灰",
+        "name_en": "songshuhui",
+        "name_zh": "松鼠灰",
         "rgb": {
             "red": 79,
             "green": 64,
@@ -5291,8 +5291,8 @@
         ]
     },
     {
-        "num_en": "danmifen",
-        "num_zh": "淡米粉",
+        "name_en": "danmifen",
+        "name_zh": "淡米粉",
         "rgb": {
             "red": 251,
             "green": 238,
@@ -5304,8 +5304,8 @@
         ]
     },
     {
-        "num_en": "shenhui",
-        "num_zh": "深灰",
+        "name_en": "shenhui",
+        "name_zh": "深灰",
         "rgb": {
             "red": 129,
             "green": 119,
@@ -5317,8 +5317,8 @@
         ]
     },
     {
-        "num_en": "haiouhui",
-        "num_zh": "海鸥灰",
+        "name_en": "haiouhui",
+        "name_zh": "海鸥灰",
         "rgb": {
             "red": 154,
             "green": 136,
@@ -5330,8 +5330,8 @@
         ]
     },
     {
-        "num_en": "chahe",
-        "num_zh": "茶褐",
+        "name_en": "chahe",
+        "name_zh": "茶褐",
         "rgb": {
             "red": 93,
             "green": 61,
@@ -5343,8 +5343,8 @@
         ]
     },
     {
-        "num_en": "tuose",
-        "num_zh": "驼色",
+        "name_en": "tuose",
+        "name_zh": "驼色",
         "rgb": {
             "red": 102,
             "green": 70,
@@ -5356,8 +5356,8 @@
         ]
     },
     {
-        "num_en": "yinhui",
-        "num_zh": "银灰",
+        "name_en": "yinhui",
+        "name_zh": "银灰",
         "rgb": {
             "red": 145,
             "green": 128,
@@ -5369,8 +5369,8 @@
         ]
     },
     {
-        "num_en": "lupihe",
-        "num_zh": "鹿皮褐",
+        "name_en": "lupihe",
+        "name_zh": "鹿皮褐",
         "rgb": {
             "red": 217,
             "green": 145,
@@ -5382,8 +5382,8 @@
         ]
     },
     {
-        "num_en": "binglangzong",
-        "num_zh": "槟榔综",
+        "name_en": "binglangzong",
+        "name_zh": "槟榔综",
         "rgb": {
             "red": 193,
             "green": 101,
@@ -5395,8 +5395,8 @@
         ]
     },
     {
-        "num_en": "xiaohui",
-        "num_zh": "晓灰",
+        "name_en": "xiaohui",
+        "name_zh": "晓灰",
         "rgb": {
             "red": 212,
             "green": 196,
@@ -5408,8 +5408,8 @@
         ]
     },
     {
-        "num_en": "danzhe",
-        "num_zh": "淡赭",
+        "name_en": "danzhe",
+        "name_zh": "淡赭",
         "rgb": {
             "red": 190,
             "green": 126,
@@ -5421,8 +5421,8 @@
         ]
     },
     {
-        "num_en": "gutonghe",
-        "num_zh": "古铜褐",
+        "name_en": "gutonghe",
+        "name_zh": "古铜褐",
         "rgb": {
             "red": 92,
             "green": 55,
@@ -5434,8 +5434,8 @@
         ]
     },
     {
-        "num_en": "jizong",
-        "num_zh": "麂棕",
+        "name_en": "jizong",
+        "name_zh": "麂棕",
         "rgb": {
             "red": 222,
             "green": 118,
@@ -5447,8 +5447,8 @@
         ]
     },
     {
-        "num_en": "zuiguarou",
-        "num_zh": "醉瓜肉",
+        "name_en": "zuiguarou",
+        "name_zh": "醉瓜肉",
         "rgb": {
             "red": 219,
             "green": 133,
@@ -5460,8 +5460,8 @@
         ]
     },
     {
-        "num_en": "yanhui",
-        "num_zh": "雁灰",
+        "name_en": "yanhui",
+        "name_zh": "雁灰",
         "rgb": {
             "red": 128,
             "green": 118,
@@ -5473,8 +5473,8 @@
         ]
     },
     {
-        "num_en": "guiyuhong",
-        "num_zh": "鲑鱼红",
+        "name_en": "guiyuhong",
+        "name_zh": "鲑鱼红",
         "rgb": {
             "red": 240,
             "green": 156,
@@ -5486,8 +5486,8 @@
         ]
     },
     {
-        "num_en": "jucheng",
-        "num_zh": "橘橙",
+        "name_en": "jucheng",
+        "name_zh": "橘橙",
         "rgb": {
             "red": 249,
             "green": 125,
@@ -5499,8 +5499,8 @@
         ]
     },
     {
-        "num_en": "jinhuang",
-        "num_zh": "金黄",
+        "name_en": "jinhuang",
+        "name_zh": "金黄",
         "rgb": {
             "red": 242,
             "green": 107,
@@ -5512,8 +5512,8 @@
         ]
     },
     {
-        "num_en": "meiguifen",
-        "num_zh": "玫瑰粉",
+        "name_en": "meiguifen",
+        "name_zh": "玫瑰粉",
         "rgb": {
             "red": 248,
             "green": 179,
@@ -5525,8 +5525,8 @@
         ]
     },
     {
-        "num_en": "meirenjiaocheng",
-        "num_zh": "美人焦橙",
+        "name_en": "meirenjiaocheng",
+        "name_zh": "美人焦橙",
         "rgb": {
             "red": 250,
             "green": 126,
@@ -5538,8 +5538,8 @@
         ]
     },
     {
-        "num_en": "mise",
-        "num_zh": "米色",
+        "name_en": "mise",
+        "name_zh": "米色",
         "rgb": {
             "red": 249,
             "green": 233,
@@ -5551,8 +5551,8 @@
         ]
     },
     {
-        "num_en": "zhuwanghui",
-        "num_zh": "蛛网灰",
+        "name_en": "zhuwanghui",
+        "name_zh": "蛛网灰",
         "rgb": {
             "red": 183,
             "green": 160,
@@ -5564,8 +5564,8 @@
         ]
     },
     {
-        "num_en": "dankafei",
-        "num_zh": "淡咖啡",
+        "name_en": "dankafei",
+        "name_zh": "淡咖啡",
         "rgb": {
             "red": 148,
             "green": 88,
@@ -5577,8 +5577,8 @@
         ]
     },
     {
-        "num_en": "hailuocheng",
-        "num_zh": "海螺橙",
+        "name_en": "hailuocheng",
+        "name_zh": "海螺橙",
         "rgb": {
             "red": 240,
             "green": 148,
@@ -5590,8 +5590,8 @@
         ]
     },
     {
-        "num_en": "yanshizong",
-        "num_zh": "岩石棕",
+        "name_en": "yanshizong",
+        "name_zh": "岩石棕",
         "rgb": {
             "red": 150,
             "green": 77,
@@ -5603,8 +5603,8 @@
         ]
     },
     {
-        "num_en": "mangguozong",
-        "num_zh": "芒果棕",
+        "name_en": "mangguozong",
+        "name_zh": "芒果棕",
         "rgb": {
             "red": 149,
             "green": 68,
@@ -5616,8 +5616,8 @@
         ]
     },
     {
-        "num_en": "taocihong",
-        "num_zh": "陶瓷红",
+        "name_en": "taocihong",
+        "name_zh": "陶瓷红",
         "rgb": {
             "red": 225,
             "green": 103,
@@ -5629,8 +5629,8 @@
         ]
     },
     {
-        "num_en": "boluohong",
-        "num_zh": "菠萝红",
+        "name_en": "boluohong",
+        "name_zh": "菠萝红",
         "rgb": {
             "red": 252,
             "green": 121,
@@ -5642,8 +5642,8 @@
         ]
     },
     {
-        "num_en": "yujinhong",
-        "num_zh": "余烬红",
+        "name_en": "yujinhong",
+        "name_zh": "余烬红",
         "rgb": {
             "red": 207,
             "green": 117,
@@ -5655,8 +5655,8 @@
         ]
     },
     {
-        "num_en": "jinlianhuacheng",
-        "num_zh": "金莲花橙",
+        "name_en": "jinlianhuacheng",
+        "name_zh": "金莲花橙",
         "rgb": {
             "red": 248,
             "green": 107,
@@ -5668,8 +5668,8 @@
         ]
     },
     {
-        "num_en": "huozhuanhong",
-        "num_zh": "火砖红",
+        "name_en": "huozhuanhong",
+        "name_zh": "火砖红",
         "rgb": {
             "red": 205,
             "green": 98,
@@ -5681,8 +5681,8 @@
         ]
     },
     {
-        "num_en": "chutaofenhong",
-        "num_zh": "初桃粉红",
+        "name_en": "chutaofenhong",
+        "name_zh": "初桃粉红",
         "rgb": {
             "red": 246,
             "green": 220,
@@ -5694,8 +5694,8 @@
         ]
     },
     {
-        "num_en": "tiezong",
-        "num_zh": "铁棕",
+        "name_en": "tiezong",
+        "name_zh": "铁棕",
         "rgb": {
             "red": 216,
             "green": 89,
@@ -5707,8 +5707,8 @@
         ]
     },
     {
-        "num_en": "jieqiaodanfenhong",
-        "num_zh": "介壳淡粉红",
+        "name_en": "jieqiaodanfenhong",
+        "name_zh": "介壳淡粉红",
         "rgb": {
             "red": 247,
             "green": 207,
@@ -5720,8 +5720,8 @@
         ]
     },
     {
-        "num_en": "xiekehong",
-        "num_zh": "蟹壳红",
+        "name_en": "xiekehong",
+        "name_zh": "蟹壳红",
         "rgb": {
             "red": 242,
             "green": 118,
@@ -5733,8 +5733,8 @@
         ]
     },
     {
-        "num_en": "jintuo",
-        "num_zh": "金驼",
+        "name_en": "jintuo",
+        "name_zh": "金驼",
         "rgb": {
             "red": 228,
             "green": 104,
@@ -5746,8 +5746,8 @@
         ]
     },
     {
-        "num_en": "yanhanhong",
-        "num_zh": "燕颔红",
+        "name_en": "yanhanhong",
+        "name_zh": "燕颔红",
         "rgb": {
             "red": 252,
             "green": 99,
@@ -5759,8 +5759,8 @@
         ]
     },
     {
-        "num_en": "dankekezong",
-        "num_zh": "淡可可棕",
+        "name_en": "dankekezong",
+        "name_zh": "淡可可棕",
         "rgb": {
             "red": 183,
             "green": 81,
@@ -5772,8 +5772,8 @@
         ]
     },
     {
-        "num_en": "chenxihong",
-        "num_zh": "晨曦红",
+        "name_en": "chenxihong",
+        "name_zh": "晨曦红",
         "rgb": {
             "red": 234,
             "green": 137,
@@ -5785,8 +5785,8 @@
         ]
     },
     {
-        "num_en": "yufenhong",
-        "num_zh": "玉粉红",
+        "name_en": "yufenhong",
+        "name_zh": "玉粉红",
         "rgb": {
             "red": 232,
             "green": 180,
@@ -5798,8 +5798,8 @@
         ]
     },
     {
-        "num_en": "yeqiangweihong",
-        "num_zh": "野蔷薇红",
+        "name_en": "yeqiangweihong",
+        "name_zh": "野蔷薇红",
         "rgb": {
             "red": 251,
             "green": 153,
@@ -5811,8 +5811,8 @@
         ]
     },
     {
-        "num_en": "ouhe",
-        "num_zh": "藕荷",
+        "name_en": "ouhe",
+        "name_zh": "藕荷",
         "rgb": {
             "red": 237,
             "green": 195,
@@ -5824,8 +5824,8 @@
         ]
     },
     {
-        "num_en": "changshihui",
-        "num_zh": "长石灰",
+        "name_en": "changshihui",
+        "name_zh": "长石灰",
         "rgb": {
             "red": 54,
             "green": 52,
@@ -5837,8 +5837,8 @@
         ]
     },
     {
-        "num_en": "zhonghonghui",
-        "num_zh": "中红灰",
+        "name_en": "zhonghonghui",
+        "name_zh": "中红灰",
         "rgb": {
             "red": 139,
             "green": 97,
@@ -5850,8 +5850,8 @@
         ]
     },
     {
-        "num_en": "huonizong",
-        "num_zh": "火泥棕",
+        "name_en": "huonizong",
+        "name_zh": "火泥棕",
         "rgb": {
             "red": 170,
             "green": 106,
@@ -5863,8 +5863,8 @@
         ]
     },
     {
-        "num_en": "ganhong",
-        "num_zh": "绀红",
+        "name_en": "ganhong",
+        "name_zh": "绀红",
         "rgb": {
             "red": 166,
             "green": 82,
@@ -5876,8 +5876,8 @@
         ]
     },
     {
-        "num_en": "meijianghong",
-        "num_zh": "莓酱红",
+        "name_en": "meijianghong",
+        "name_zh": "莓酱红",
         "rgb": {
             "red": 250,
             "green": 93,
@@ -5889,8 +5889,8 @@
         ]
     },
     {
-        "num_en": "dingxiangzong",
-        "num_zh": "丁香棕",
+        "name_en": "dingxiangzong",
+        "name_zh": "丁香棕",
         "rgb": {
             "red": 113,
             "green": 54,
@@ -5902,8 +5902,8 @@
         ]
     },
     {
-        "num_en": "danmeiguihui",
-        "num_zh": "淡玫瑰灰",
+        "name_en": "danmeiguihui",
+        "name_zh": "淡玫瑰灰",
         "rgb": {
             "red": 184,
             "green": 148,
@@ -5915,8 +5915,8 @@
         ]
     },
     {
-        "num_en": "guaranghong",
-        "num_zh": "瓜瓤红",
+        "name_en": "guaranghong",
+        "name_zh": "瓜瓤红",
         "rgb": {
             "red": 246,
             "green": 140,
@@ -5928,8 +5928,8 @@
         ]
     },
     {
-        "num_en": "dancanghuahong",
-        "num_zh": "淡藏花红",
+        "name_en": "dancanghuahong",
+        "name_zh": "淡藏花红",
         "rgb": {
             "red": 246,
             "green": 173,
@@ -5941,8 +5941,8 @@
         ]
     },
     {
-        "num_en": "sunpizong",
-        "num_zh": "筍皮棕",
+        "name_en": "sunpizong",
+        "name_zh": "筍皮棕",
         "rgb": {
             "red": 115,
             "green": 46,
@@ -5954,8 +5954,8 @@
         ]
     },
     {
-        "num_en": "runhong",
-        "num_zh": "润红",
+        "name_en": "runhong",
+        "name_zh": "润红",
         "rgb": {
             "red": 247,
             "green": 205,
@@ -5967,8 +5967,8 @@
         ]
     },
     {
-        "num_en": "longjingyuhong",
-        "num_zh": "龙睛鱼红",
+        "name_en": "longjingyuhong",
+        "name_zh": "龙睛鱼红",
         "rgb": {
             "red": 239,
             "green": 99,
@@ -5980,8 +5980,8 @@
         ]
     },
     {
-        "num_en": "dantuhuang",
-        "num_zh": "淡土黄",
+        "name_en": "dantuhuang",
+        "name_zh": "淡土黄",
         "rgb": {
             "red": 140,
             "green": 75,
@@ -5993,8 +5993,8 @@
         ]
     },
     {
-        "num_en": "zhumuhui",
-        "num_zh": "珠母灰",
+        "name_en": "zhumuhui",
+        "name_zh": "珠母灰",
         "rgb": {
             "red": 100,
             "green": 72,
@@ -6006,8 +6006,8 @@
         ]
     },
     {
-        "num_en": "furonghong",
-        "num_zh": "芙蓉红",
+        "name_en": "furonghong",
+        "name_zh": "芙蓉红",
         "rgb": {
             "red": 249,
             "green": 114,
@@ -6019,8 +6019,8 @@
         ]
     },
     {
-        "num_en": "luoxiahong",
-        "num_zh": "落霞红",
+        "name_en": "luoxiahong",
+        "name_zh": "落霞红",
         "rgb": {
             "red": 207,
             "green": 72,
@@ -6032,8 +6032,8 @@
         ]
     },
     {
-        "num_en": "faluohong",
-        "num_zh": "法螺红",
+        "name_en": "faluohong",
+        "name_zh": "法螺红",
         "rgb": {
             "red": 238,
             "green": 128,
@@ -6045,8 +6045,8 @@
         ]
     },
     {
-        "num_en": "caozhuhong",
-        "num_zh": "草珠红",
+        "name_en": "caozhuhong",
+        "name_zh": "草珠红",
         "rgb": {
             "red": 248,
             "green": 235,
@@ -6058,8 +6058,8 @@
         ]
     },
     {
-        "num_en": "kafei",
-        "num_zh": "咖啡",
+        "name_en": "kafei",
+        "name_zh": "咖啡",
         "rgb": {
             "red": 117,
             "green": 49,
@@ -6071,8 +6071,8 @@
         ]
     },
     {
-        "num_en": "zhonghuituo",
-        "num_zh": "中灰驼",
+        "name_en": "zhonghuituo",
+        "name_zh": "中灰驼",
         "rgb": {
             "red": 96,
             "green": 61,
@@ -6084,8 +6084,8 @@
         ]
     },
     {
-        "num_en": "yekezong",
-        "num_zh": "椰壳棕",
+        "name_en": "yekezong",
+        "name_zh": "椰壳棕",
         "rgb": {
             "red": 136,
             "green": 58,
@@ -6097,8 +6097,8 @@
         ]
     },
     {
-        "num_en": "xiemaohong",
-        "num_zh": "蟹蝥红",
+        "name_en": "xiemaohong",
+        "name_zh": "蟹蝥红",
         "rgb": {
             "red": 177,
             "green": 75,
@@ -6110,8 +6110,8 @@
         ]
     },
     {
-        "num_en": "dandousha",
-        "num_zh": "淡豆沙",
+        "name_en": "dandousha",
+        "name_zh": "淡豆沙",
         "rgb": {
             "red": 135,
             "green": 61,
@@ -6123,8 +6123,8 @@
         ]
     },
     {
-        "num_en": "dantaohong",
-        "num_zh": "淡桃红",
+        "name_en": "dantaohong",
+        "name_zh": "淡桃红",
         "rgb": {
             "red": 246,
             "green": 206,
@@ -6136,8 +6136,8 @@
         ]
     },
     {
-        "num_en": "dantiehui",
-        "num_zh": "淡铁灰",
+        "name_en": "dantiehui",
+        "name_zh": "淡铁灰",
         "rgb": {
             "red": 91,
             "green": 66,
@@ -6149,8 +6149,8 @@
         ]
     },
     {
-        "num_en": "shibanhui",
-        "num_zh": "石板灰",
+        "name_en": "shibanhui",
+        "name_zh": "石板灰",
         "rgb": {
             "red": 98,
             "green": 73,
@@ -6162,8 +6162,8 @@
         ]
     },
     {
-        "num_en": "danlizong",
-        "num_zh": "淡栗棕",
+        "name_en": "danlizong",
+        "name_zh": "淡栗棕",
         "rgb": {
             "red": 103,
             "green": 52,
@@ -6175,8 +6175,8 @@
         ]
     },
     {
-        "num_en": "yinzhu",
-        "num_zh": "银朱",
+        "name_en": "yinzhu",
+        "name_zh": "银朱",
         "rgb": {
             "red": 244,
             "green": 62,
@@ -6188,8 +6188,8 @@
         ]
     },
     {
-        "num_en": "caomeihong",
-        "num_zh": "草莓红",
+        "name_en": "caomeihong",
+        "name_zh": "草莓红",
         "rgb": {
             "red": 239,
             "green": 111,
@@ -6201,8 +6201,8 @@
         ]
     },
     {
-        "num_en": "yangshuixianhong",
-        "num_zh": "洋水仙红",
+        "name_en": "yangshuixianhong",
+        "name_zh": "洋水仙红",
         "rgb": {
             "red": 244,
             "green": 199,
@@ -6214,8 +6214,8 @@
         ]
     },
     {
-        "num_en": "zhuhong",
-        "num_zh": "朱红",
+        "name_en": "zhuhong",
+        "name_zh": "朱红",
         "rgb": {
             "red": 237,
             "green": 81,
@@ -6227,8 +6227,8 @@
         ]
     },
     {
-        "num_en": "liuhuahong",
-        "num_zh": "榴花红",
+        "name_en": "liuhuahong",
+        "name_zh": "榴花红",
         "rgb": {
             "red": 243,
             "green": 71,
@@ -6240,8 +6240,8 @@
         ]
     },
     {
-        "num_en": "shihong",
-        "num_zh": "柿红",
+        "name_en": "shihong",
+        "name_zh": "柿红",
         "rgb": {
             "red": 242,
             "green": 72,
@@ -6253,8 +6253,8 @@
         ]
     },
     {
-        "num_en": "kekezong",
-        "num_zh": "可可棕",
+        "name_en": "kekezong",
+        "name_zh": "可可棕",
         "rgb": {
             "red": 101,
             "green": 43,
@@ -6266,8 +6266,8 @@
         ]
     },
     {
-        "num_en": "danyingsuhong",
-        "num_zh": "淡罂粟红",
+        "name_en": "danyingsuhong",
+        "name_zh": "淡罂粟红",
         "rgb": {
             "red": 238,
             "green": 160,
@@ -6279,8 +6279,8 @@
         ]
     },
     {
-        "num_en": "dahong",
-        "num_zh": "大红",
+        "name_en": "dahong",
+        "name_zh": "大红",
         "rgb": {
             "red": 240,
             "green": 75,
@@ -6292,8 +6292,8 @@
         ]
     },
     {
-        "num_en": "zhayezong",
-        "num_zh": "柞叶棕",
+        "name_en": "zhayezong",
+        "name_zh": "柞叶棕",
         "rgb": {
             "red": 105,
             "green": 42,
@@ -6305,8 +6305,8 @@
         ]
     },
     {
-        "num_en": "qingtinghong",
-        "num_zh": "蜻蜓红",
+        "name_en": "qingtinghong",
+        "name_zh": "蜻蜓红",
         "rgb": {
             "red": 241,
             "green": 68,
@@ -6318,8 +6318,8 @@
         ]
     },
     {
-        "num_en": "xiangshuzong",
-        "num_zh": "橡树棕",
+        "name_en": "xiangshuzong",
+        "name_zh": "橡树棕",
         "rgb": {
             "red": 119,
             "green": 61,
@@ -6331,8 +6331,8 @@
         ]
     },
     {
-        "num_en": "jiahong",
-        "num_zh": "颊红",
+        "name_en": "jiahong",
+        "name_zh": "颊红",
         "rgb": {
             "red": 238,
             "green": 170,
@@ -6344,8 +6344,8 @@
         ]
     },
     {
-        "num_en": "taohong",
-        "num_zh": "桃红",
+        "name_en": "taohong",
+        "name_zh": "桃红",
         "rgb": {
             "red": 240,
             "green": 173,
@@ -6357,8 +6357,8 @@
         ]
     },
     {
-        "num_en": "huoyanzong",
-        "num_zh": "火岩棕",
+        "name_en": "huoyanzong",
+        "name_zh": "火岩棕",
         "rgb": {
             "red": 134,
             "green": 48,
@@ -6370,8 +6370,8 @@
         ]
     },
     {
-        "num_en": "dantengluozi",
-        "num_zh": "淡藤萝紫",
+        "name_en": "dantengluozi",
+        "name_zh": "淡藤萝紫",
         "rgb": {
             "red": 242,
             "green": 231,
@@ -6383,8 +6383,8 @@
         ]
     },
     {
-        "num_en": "zheshi",
-        "num_zh": "赭石",
+        "name_en": "zheshi",
+        "name_zh": "赭石",
         "rgb": {
             "red": 134,
             "green": 38,
@@ -6396,8 +6396,8 @@
         ]
     },
     {
-        "num_en": "tieshuihong",
-        "num_zh": "铁水红",
+        "name_en": "tieshuihong",
+        "name_zh": "铁水红",
         "rgb": {
             "red": 245,
             "green": 57,
@@ -6409,8 +6409,8 @@
         ]
     },
     {
-        "num_en": "yanzhihong",
-        "num_zh": "胭脂红",
+        "name_en": "yanzhihong",
+        "name_zh": "胭脂红",
         "rgb": {
             "red": 240,
             "green": 63,
@@ -6422,8 +6422,8 @@
         ]
     },
     {
-        "num_en": "jiguanghong",
-        "num_zh": "极光红",
+        "name_en": "jiguanghong",
+        "name_zh": "极光红",
         "rgb": {
             "red": 243,
             "green": 59,
@@ -6435,8 +6435,8 @@
         ]
     },
     {
-        "num_en": "honggonghong",
-        "num_zh": "红汞红",
+        "name_en": "honggonghong",
+        "name_zh": "红汞红",
         "rgb": {
             "red": 242,
             "green": 62,
@@ -6448,8 +6448,8 @@
         ]
     },
     {
-        "num_en": "luobohong",
-        "num_zh": "萝卜红",
+        "name_en": "luobohong",
+        "name_zh": "萝卜红",
         "rgb": {
             "red": 241,
             "green": 60,
@@ -6461,8 +6461,8 @@
         ]
     },
     {
-        "num_en": "quhong",
-        "num_zh": "曲红",
+        "name_en": "quhong",
+        "name_zh": "曲红",
         "rgb": {
             "red": 240,
             "green": 90,
@@ -6474,8 +6474,8 @@
         ]
     },
     {
-        "num_en": "guqiaohong",
-        "num_zh": "谷鞘红",
+        "name_en": "guqiaohong",
+        "name_zh": "谷鞘红",
         "rgb": {
             "red": 241,
             "green": 118,
@@ -6487,8 +6487,8 @@
         ]
     },
     {
-        "num_en": "pingguohong",
-        "num_zh": "苹果红",
+        "name_en": "pingguohong",
+        "name_zh": "苹果红",
         "rgb": {
             "red": 241,
             "green": 86,
@@ -6500,8 +6500,8 @@
         ]
     },
     {
-        "num_en": "guihong",
-        "num_zh": "桂红",
+        "name_en": "guihong",
+        "name_zh": "桂红",
         "rgb": {
             "red": 242,
             "green": 90,
@@ -6513,8 +6513,8 @@
         ]
     },
     {
-        "num_en": "fenhong",
-        "num_zh": "粉红",
+        "name_en": "fenhong",
+        "name_zh": "粉红",
         "rgb": {
             "red": 242,
             "green": 185,
@@ -6526,8 +6526,8 @@
         ]
     },
     {
-        "num_en": "antuozong",
-        "num_zh": "暗驼棕",
+        "name_en": "antuozong",
+        "name_zh": "暗驼棕",
         "rgb": {
             "red": 89,
             "green": 38,
@@ -6539,8 +6539,8 @@
         ]
     },
     {
-        "num_en": "xiyanghong",
-        "num_zh": "夕阳红",
+        "name_en": "xiyanghong",
+        "name_zh": "夕阳红",
         "rgb": {
             "red": 222,
             "green": 42,
@@ -6552,8 +6552,8 @@
         ]
     },
     {
-        "num_en": "yingtaohong",
-        "num_zh": "樱桃红",
+        "name_en": "yingtaohong",
+        "name_zh": "樱桃红",
         "rgb": {
             "red": 237,
             "green": 51,
@@ -6565,8 +6565,8 @@
         ]
     },
     {
-        "num_en": "shanhuhong",
-        "num_zh": "珊瑚红",
+        "name_en": "shanhuhong",
+        "name_zh": "珊瑚红",
         "rgb": {
             "red": 240,
             "green": 74,
@@ -6578,8 +6578,8 @@
         ]
     },
     {
-        "num_en": "huoshanzong",
-        "num_zh": "火山棕",
+        "name_en": "huoshanzong",
+        "name_zh": "火山棕",
         "rgb": {
             "red": 72,
             "green": 37,
@@ -6591,8 +6591,8 @@
         ]
     },
     {
-        "num_en": "lizong",
-        "num_zh": "栗棕",
+        "name_en": "lizong",
+        "name_zh": "栗棕",
         "rgb": {
             "red": 92,
             "green": 30,
@@ -6604,8 +6604,8 @@
         ]
     },
     {
-        "num_en": "hedinghong",
-        "num_zh": "鹤顶红",
+        "name_en": "hedinghong",
+        "name_zh": "鹤顶红",
         "rgb": {
             "red": 212,
             "green": 37,
@@ -6617,8 +6617,8 @@
         ]
     },
     {
-        "num_en": "shehong",
-        "num_zh": "舌红",
+        "name_en": "shehong",
+        "name_zh": "舌红",
         "rgb": {
             "red": 241,
             "green": 151,
@@ -6630,8 +6630,8 @@
         ]
     },
     {
-        "num_en": "exueshihong",
-        "num_zh": "鹅血石红",
+        "name_en": "exueshihong",
+        "name_zh": "鹅血石红",
         "rgb": {
             "red": 171,
             "green": 55,
@@ -6643,8 +6643,8 @@
         ]
     },
     {
-        "num_en": "jiangzong",
-        "num_zh": "酱棕",
+        "name_en": "jiangzong",
+        "name_zh": "酱棕",
         "rgb": {
             "red": 90,
             "green": 31,
@@ -6656,8 +6656,8 @@
         ]
     },
     {
-        "num_en": "yusaihong",
-        "num_zh": "鱼鳃红",
+        "name_en": "yusaihong",
+        "name_zh": "鱼鳃红",
         "rgb": {
             "red": 237,
             "green": 59,
@@ -6669,8 +6669,8 @@
         ]
     },
     {
-        "num_en": "lusuihui",
-        "num_zh": "芦穗灰",
+        "name_en": "lusuihui",
+        "name_zh": "芦穗灰",
         "rgb": {
             "red": 189,
             "green": 174,
@@ -6682,8 +6682,8 @@
         ]
     },
     {
-        "num_en": "lichunhong",
-        "num_zh": "丽春红",
+        "name_en": "lichunhong",
+        "name_zh": "丽春红",
         "rgb": {
             "red": 235,
             "green": 38,
@@ -6695,8 +6695,8 @@
         ]
     },
     {
-        "num_en": "fupenzihong",
-        "num_zh": "覆盆子红",
+        "name_en": "fupenzihong",
+        "name_zh": "覆盆子红",
         "rgb": {
             "red": 172,
             "green": 31,
@@ -6708,8 +6708,8 @@
         ]
     },
     {
-        "num_en": "haibaohui",
-        "num_zh": "海报灰",
+        "name_en": "haibaohui",
+        "name_zh": "海报灰",
         "rgb": {
             "red": 72,
             "green": 51,
@@ -6721,8 +6721,8 @@
         ]
     },
     {
-        "num_en": "dousha",
-        "num_zh": "豆沙",
+        "name_en": "dousha",
+        "name_zh": "豆沙",
         "rgb": {
             "red": 72,
             "green": 30,
@@ -6734,8 +6734,8 @@
         ]
     },
     {
-        "num_en": "liuzihong",
-        "num_zh": "榴子红",
+        "name_en": "liuzihong",
+        "name_zh": "榴子红",
         "rgb": {
             "red": 241,
             "green": 144,
@@ -6747,8 +6747,8 @@
         ]
     },
     {
-        "num_en": "qiuhaitanghong",
-        "num_zh": "秋海棠红",
+        "name_en": "qiuhaitanghong",
+        "name_zh": "秋海棠红",
         "rgb": {
             "red": 236,
             "green": 43,
@@ -6760,8 +6760,8 @@
         ]
     },
     {
-        "num_en": "wuhuaguohong",
-        "num_zh": "无花果红",
+        "name_en": "wuhuaguohong",
+        "name_zh": "无花果红",
         "rgb": {
             "red": 239,
             "green": 175,
@@ -6773,8 +6773,8 @@
         ]
     },
     {
-        "num_en": "danfei",
-        "num_zh": "淡绯",
+        "name_en": "danfei",
+        "name_zh": "淡绯",
         "rgb": {
             "red": 242,
             "green": 202,
@@ -6786,8 +6786,8 @@
         ]
     },
     {
-        "num_en": "meiguihui",
-        "num_zh": "玫瑰灰",
+        "name_en": "meiguihui",
+        "name_zh": "玫瑰灰",
         "rgb": {
             "red": 75,
             "green": 46,
@@ -6799,8 +6799,8 @@
         ]
     },
     {
-        "num_en": "danshuhong",
-        "num_zh": "淡菽红",
+        "name_en": "danshuhong",
+        "name_zh": "淡菽红",
         "rgb": {
             "red": 237,
             "green": 72,
@@ -6812,8 +6812,8 @@
         ]
     },
     {
-        "num_en": "goushuhong",
-        "num_zh": "枸枢红",
+        "name_en": "goushuhong",
+        "name_zh": "枸枢红",
         "rgb": {
             "red": 237,
             "green": 51,
@@ -6825,8 +6825,8 @@
         ]
     },
     {
-        "num_en": "diaozi",
-        "num_zh": "貂紫",
+        "name_en": "diaozi",
+        "name_zh": "貂紫",
         "rgb": {
             "red": 93,
             "green": 49,
