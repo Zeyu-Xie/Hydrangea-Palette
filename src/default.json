@@ -1,0 +1,1443 @@
+[
+    {
+        "name_en": "maroon",
+        "name_zh": "/",
+        "rgb": {
+            "red": 128,
+            "green": 0,
+            "blue": 0
+        },
+        "hex": "800000",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkred",
+        "name_zh": "/",
+        "rgb": {
+            "red": 139,
+            "green": 0,
+            "blue": 0
+        },
+        "hex": "8B0000",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "brown",
+        "name_zh": "/",
+        "rgb": {
+            "red": 165,
+            "green": 42,
+            "blue": 42
+        },
+        "hex": "A52A2A",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "firebrick",
+        "name_zh": "/",
+        "rgb": {
+            "red": 178,
+            "green": 34,
+            "blue": 34
+        },
+        "hex": "B22222",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "crimson",
+        "name_zh": "/",
+        "rgb": {
+            "red": 220,
+            "green": 20,
+            "blue": 60
+        },
+        "hex": "DC143C",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "red",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 0,
+            "blue": 0
+        },
+        "hex": "FF0000",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumvioletred",
+        "name_zh": "/",
+        "rgb": {
+            "red": 199,
+            "green": 21,
+            "blue": 133
+        },
+        "hex": "C71585",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "palevioletred",
+        "name_zh": "/",
+        "rgb": {
+            "red": 216,
+            "green": 112,
+            "blue": 147
+        },
+        "hex": "D87093",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "deeppink",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 20,
+            "blue": 147
+        },
+        "hex": "FF1493",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "fuchsia(magenta)",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 0,
+            "blue": 255
+        },
+        "hex": "FF00FF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "hotpink",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 105,
+            "blue": 180
+        },
+        "hex": "FF69B4",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "pink",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 192,
+            "blue": 203
+        },
+        "hex": "FFC0CB",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightpink",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 182,
+            "blue": 193
+        },
+        "hex": "FFB6C1",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mistyrose",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 228,
+            "blue": 225
+        },
+        "hex": "FFE4E1",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lavenderblush",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 240,
+            "blue": 245
+        },
+        "hex": "FFF0F5",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "indigo",
+        "name_zh": "/",
+        "rgb": {
+            "red": 75,
+            "green": 0,
+            "blue": 130
+        },
+        "hex": "4B0082",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "purple",
+        "name_zh": "/",
+        "rgb": {
+            "red": 128,
+            "green": 0,
+            "blue": 128
+        },
+        "hex": "800080",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkmagenta",
+        "name_zh": "/",
+        "rgb": {
+            "red": 139,
+            "green": 0,
+            "blue": 139
+        },
+        "hex": "8B008B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkorchid",
+        "name_zh": "/",
+        "rgb": {
+            "red": 153,
+            "green": 50,
+            "blue": 204
+        },
+        "hex": "9932CC",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "blueviolet",
+        "name_zh": "/",
+        "rgb": {
+            "red": 138,
+            "green": 43,
+            "blue": 226
+        },
+        "hex": "8A2BE2",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkviolet",
+        "name_zh": "/",
+        "rgb": {
+            "red": 148,
+            "green": 0,
+            "blue": 211
+        },
+        "hex": "9400D3",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "slateblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 106,
+            "green": 90,
+            "blue": 205
+        },
+        "hex": "6A5ACD",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumpurple",
+        "name_zh": "/",
+        "rgb": {
+            "red": 147,
+            "green": 112,
+            "blue": 219
+        },
+        "hex": "9370DB",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumslateblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 123,
+            "green": 104,
+            "blue": 238
+        },
+        "hex": "7B68EE",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumorchid",
+        "name_zh": "/",
+        "rgb": {
+            "red": 186,
+            "green": 85,
+            "blue": 211
+        },
+        "hex": "BA55D3",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "violet",
+        "name_zh": "/",
+        "rgb": {
+            "red": 238,
+            "green": 130,
+            "blue": 238
+        },
+        "hex": "EE82EE",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "plum",
+        "name_zh": "/",
+        "rgb": {
+            "red": 221,
+            "green": 160,
+            "blue": 221
+        },
+        "hex": "DDA0DD",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "thistle",
+        "name_zh": "/",
+        "rgb": {
+            "red": 216,
+            "green": 191,
+            "blue": 216
+        },
+        "hex": "D8BFD8",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lavender",
+        "name_zh": "/",
+        "rgb": {
+            "red": 230,
+            "green": 230,
+            "blue": 250
+        },
+        "hex": "E6E6FA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "saddlebrown",
+        "name_zh": "/",
+        "rgb": {
+            "red": 139,
+            "green": 69,
+            "blue": 19
+        },
+        "hex": "8B4513",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "sienna",
+        "name_zh": "/",
+        "rgb": {
+            "red": 160,
+            "green": 82,
+            "blue": 45
+        },
+        "hex": "A0522D",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "chocolate",
+        "name_zh": "/",
+        "rgb": {
+            "red": 210,
+            "green": 105,
+            "blue": 30
+        },
+        "hex": "D2691E",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "indianred",
+        "name_zh": "/",
+        "rgb": {
+            "red": 205,
+            "green": 92,
+            "blue": 92
+        },
+        "hex": "CD5C5C",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "rosybrown",
+        "name_zh": "/",
+        "rgb": {
+            "red": 188,
+            "green": 143,
+            "blue": 143
+        },
+        "hex": "BC8F8F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightcorol",
+        "name_zh": "/",
+        "rgb": {
+            "red": 240,
+            "green": 128,
+            "blue": 128
+        },
+        "hex": "F08080",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "salmon",
+        "name_zh": "/",
+        "rgb": {
+            "red": 250,
+            "green": 128,
+            "blue": 114
+        },
+        "hex": "FA8072",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightsalmon",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 160,
+            "blue": 122
+        },
+        "hex": "FFA07A",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "orangered",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 69,
+            "blue": 0
+        },
+        "hex": "FF4500",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "tomato",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 99,
+            "blue": 71
+        },
+        "hex": "FF6347",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "coral",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 127,
+            "blue": 80
+        },
+        "hex": "FF7F50",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkorange",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 140,
+            "blue": 0
+        },
+        "hex": "FF8C00",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "sandybrown",
+        "name_zh": "/",
+        "rgb": {
+            "red": 244,
+            "green": 164,
+            "blue": 96
+        },
+        "hex": "F4A460",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "peru",
+        "name_zh": "/",
+        "rgb": {
+            "red": 205,
+            "green": 133,
+            "blue": 63
+        },
+        "hex": "CD853F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "tan",
+        "name_zh": "/",
+        "rgb": {
+            "red": 210,
+            "green": 180,
+            "blue": 140
+        },
+        "hex": "D2B48C",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "burlywood",
+        "name_zh": "/",
+        "rgb": {
+            "red": 222,
+            "green": 184,
+            "blue": 135
+        },
+        "hex": "DEB887",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "wheat",
+        "name_zh": "/",
+        "rgb": {
+            "red": 245,
+            "green": 222,
+            "blue": 179
+        },
+        "hex": "F5DEB3",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "moccasin",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 228,
+            "blue": 181
+        },
+        "hex": "FFE4B5",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "navajowhite",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 222,
+            "blue": 173
+        },
+        "hex": "FFDEAD",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "peachpuff",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 218,
+            "blue": 185
+        },
+        "hex": "FFDAB9",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "bisque",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 228,
+            "blue": 196
+        },
+        "hex": "FFE4C4",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "antuquewhite",
+        "name_zh": "/",
+        "rgb": {
+            "red": 250,
+            "green": 235,
+            "blue": 215
+        },
+        "hex": "FAEBD7",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "papayawhip",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 239,
+            "blue": 213
+        },
+        "hex": "FFEFD5",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "cornsilk",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 248,
+            "blue": 220
+        },
+        "hex": "FFF8DC",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "oldlace",
+        "name_zh": "/",
+        "rgb": {
+            "red": 253,
+            "green": 245,
+            "blue": 230
+        },
+        "hex": "FDF5E6",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "linen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 250,
+            "green": 240,
+            "blue": 230
+        },
+        "hex": "FAF0E6",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "seashell",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 245,
+            "blue": 238
+        },
+        "hex": "FFF5EE",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "snow",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 250,
+            "blue": 250
+        },
+        "hex": "FFFAFA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "floralwhite",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 250,
+            "blue": 240
+        },
+        "hex": "FFFAF0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "ivory",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 255,
+            "blue": 240
+        },
+        "hex": "FFFFF0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mintcream",
+        "name_zh": "/",
+        "rgb": {
+            "red": 245,
+            "green": 255,
+            "blue": 250
+        },
+        "hex": "F5FFFA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkgoldenrod",
+        "name_zh": "/",
+        "rgb": {
+            "red": 184,
+            "green": 134,
+            "blue": 11
+        },
+        "hex": "B8860B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "goldenrod",
+        "name_zh": "/",
+        "rgb": {
+            "red": 218,
+            "green": 165,
+            "blue": 32
+        },
+        "hex": "DAA520",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "gold",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 215,
+            "blue": 0
+        },
+        "hex": "FFD700",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "yellow",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 255,
+            "blue": 0
+        },
+        "hex": "FFFF00",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkkhaki",
+        "name_zh": "/",
+        "rgb": {
+            "red": 189,
+            "green": 183,
+            "blue": 107
+        },
+        "hex": "BDB76B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "khaki",
+        "name_zh": "/",
+        "rgb": {
+            "red": 240,
+            "green": 230,
+            "blue": 140
+        },
+        "hex": "F0E68C",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "palegoldenrod",
+        "name_zh": "/",
+        "rgb": {
+            "red": 238,
+            "green": 232,
+            "blue": 170
+        },
+        "hex": "EEE8AA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "beige",
+        "name_zh": "/",
+        "rgb": {
+            "red": 245,
+            "green": 245,
+            "blue": 220
+        },
+        "hex": "F5F5DC",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lemonchiffon",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 250,
+            "blue": 205
+        },
+        "hex": "FFFACD",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightgoldenrodyellow",
+        "name_zh": "/",
+        "rgb": {
+            "red": 250,
+            "green": 250,
+            "blue": 210
+        },
+        "hex": "FAFAD2",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightyellow",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 255,
+            "blue": 224
+        },
+        "hex": "FFFFE0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkslategray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 47,
+            "green": 79,
+            "blue": 79
+        },
+        "hex": "2F4F4F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkolivegreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 85,
+            "green": 107,
+            "blue": 47
+        },
+        "hex": "556B2F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "olive",
+        "name_zh": "/",
+        "rgb": {
+            "red": 128,
+            "green": 128,
+            "blue": 0
+        },
+        "hex": "808000",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 100,
+            "blue": 0
+        },
+        "hex": "006400",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "forestgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 34,
+            "green": 139,
+            "blue": 34
+        },
+        "hex": "228B22",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "seagreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 46,
+            "green": 139,
+            "blue": 87
+        },
+        "hex": "2E8B57",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "green(teal)",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 128,
+            "blue": 128
+        },
+        "hex": "008080",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightseagreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 32,
+            "green": 178,
+            "blue": 170
+        },
+        "hex": "20B2AA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "madiumaquamarine",
+        "name_zh": "/",
+        "rgb": {
+            "red": 102,
+            "green": 205,
+            "blue": 170
+        },
+        "hex": "66CDAA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumseagreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 60,
+            "green": 179,
+            "blue": 113
+        },
+        "hex": "3CB371",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkseagreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 143,
+            "green": 188,
+            "blue": 143
+        },
+        "hex": "8FBC8F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "yellowgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 154,
+            "green": 205,
+            "blue": 50
+        },
+        "hex": "9ACD32",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "limegreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 50,
+            "green": 205,
+            "blue": 50
+        },
+        "hex": "32CD32",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lime",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 255,
+            "blue": 0
+        },
+        "hex": "00FF00",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "chartreuse",
+        "name_zh": "/",
+        "rgb": {
+            "red": 127,
+            "green": 255,
+            "blue": 0
+        },
+        "hex": "7FFF00",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lawngreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 124,
+            "green": 252,
+            "blue": 0
+        },
+        "hex": "7CFC00",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "greenyellow",
+        "name_zh": "/",
+        "rgb": {
+            "red": 173,
+            "green": 255,
+            "blue": 47
+        },
+        "hex": "ADFF2F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumspringgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 250,
+            "blue": 154
+        },
+        "hex": "00FA9A",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "springgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 255,
+            "blue": 127
+        },
+        "hex": "00FF7F",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightgreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 144,
+            "green": 238,
+            "blue": 144
+        },
+        "hex": "90EE90",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "palegreen",
+        "name_zh": "/",
+        "rgb": {
+            "red": 152,
+            "green": 248,
+            "blue": 152
+        },
+        "hex": "98F898",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "aquamarine",
+        "name_zh": "/",
+        "rgb": {
+            "red": 127,
+            "green": 255,
+            "blue": 212
+        },
+        "hex": "7FFFD4",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "honeydew",
+        "name_zh": "/",
+        "rgb": {
+            "red": 240,
+            "green": 255,
+            "blue": 240
+        },
+        "hex": "F0FFF0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "midnightblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 25,
+            "green": 25,
+            "blue": 112
+        },
+        "hex": "191970",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "navy",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 0,
+            "blue": 128
+        },
+        "hex": "000080",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 0,
+            "blue": 139
+        },
+        "hex": "00008B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkslateblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 72,
+            "green": 61,
+            "blue": 139
+        },
+        "hex": "483D8B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 0,
+            "blue": 205
+        },
+        "hex": "0000CD",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "royalblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 65,
+            "green": 105,
+            "blue": 225
+        },
+        "hex": "4169E1",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "dodgerblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 30,
+            "green": 144,
+            "blue": 255
+        },
+        "hex": "1E90FF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "cornflowerblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 100,
+            "green": 149,
+            "blue": 237
+        },
+        "hex": "6495ED",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "deepskyblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 191,
+            "blue": 255
+        },
+        "hex": "00BFFF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightskyblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 135,
+            "green": 206,
+            "blue": 250
+        },
+        "hex": "87CEFA",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightsteelblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 176,
+            "green": 196,
+            "blue": 222
+        },
+        "hex": "B0C4DE",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 173,
+            "green": 216,
+            "blue": 230
+        },
+        "hex": "ADD8E6",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "steelblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 70,
+            "green": 130,
+            "blue": 180
+        },
+        "hex": "4682B4",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkcyan",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 139,
+            "blue": 139
+        },
+        "hex": "008B8B",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "cadetblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 95,
+            "green": 158,
+            "blue": 160
+        },
+        "hex": "5F9EA0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "darkturquoise",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 206,
+            "blue": 209
+        },
+        "hex": "00CED1",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "mediumturquoise",
+        "name_zh": "/",
+        "rgb": {
+            "red": 72,
+            "green": 209,
+            "blue": 204
+        },
+        "hex": "48D1CC",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "turquoise",
+        "name_zh": "/",
+        "rgb": {
+            "red": 64,
+            "green": 224,
+            "blue": 208
+        },
+        "hex": "40E0D0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "skyblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 135,
+            "green": 206,
+            "blue": 203
+        },
+        "hex": "87CECB",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "powderblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 176,
+            "green": 224,
+            "blue": 230
+        },
+        "hex": "B0E0E6",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "paleturquoise",
+        "name_zh": "/",
+        "rgb": {
+            "red": 175,
+            "green": 238,
+            "blue": 238
+        },
+        "hex": "AFEEEE",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightcyan",
+        "name_zh": "/",
+        "rgb": {
+            "red": 224,
+            "green": 255,
+            "blue": 255
+        },
+        "hex": "E0FFFF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "azure",
+        "name_zh": "/",
+        "rgb": {
+            "red": 240,
+            "green": 255,
+            "blue": 255
+        },
+        "hex": "F0FFFF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "aliceblue",
+        "name_zh": "/",
+        "rgb": {
+            "red": 240,
+            "green": 248,
+            "blue": 255
+        },
+        "hex": "F0F8FF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "aqua(cyan)",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 255,
+            "blue": 255
+        },
+        "hex": "00FFFF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "black",
+        "name_zh": "/",
+        "rgb": {
+            "red": 0,
+            "green": 0,
+            "blue": 0
+        },
+        "hex": "000000",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "dimgray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 105,
+            "green": 105,
+            "blue": 105
+        },
+        "hex": "696969",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "gray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 128,
+            "green": 128,
+            "blue": 128
+        },
+        "hex": "808080",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "slategray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 112,
+            "green": 128,
+            "blue": 144
+        },
+        "hex": "708090",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightslategray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 119,
+            "green": 136,
+            "blue": 153
+        },
+        "hex": "778899",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "dakgray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 169,
+            "green": 169,
+            "blue": 169
+        },
+        "hex": "A9A9A9",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "silver",
+        "name_zh": "/",
+        "rgb": {
+            "red": 192,
+            "green": 192,
+            "blue": 192
+        },
+        "hex": "C0C0C0",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "lightgray",
+        "name_zh": "/",
+        "rgb": {
+            "red": 211,
+            "green": 211,
+            "blue": 211
+        },
+        "hex": "D3D3D3",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "gainsboro",
+        "name_zh": "/",
+        "rgb": {
+            "red": 220,
+            "green": 220,
+            "blue": 220
+        },
+        "hex": "DCDCDC",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "whitesmoke",
+        "name_zh": "/",
+        "rgb": {
+            "red": 245,
+            "green": 245,
+            "blue": 245
+        },
+        "hex": "F5F5F5",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "ghostwhite",
+        "name_zh": "/",
+        "rgb": {
+            "red": 248,
+            "green": 248,
+            "blue": 255
+        },
+        "hex": "F8F8FF",
+        "label": "DEFAULT"
+    },
+    {
+        "name_en": "white",
+        "name_zh": "/",
+        "rgb": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+        },
+        "hex": "FFFFFF",
+        "label": "DEFAULT"
+    }
+]
