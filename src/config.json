@@ -1,5 +1,6 @@
 {
     "urls": {
-        "zhongguose": "http://zhongguose.com"
+        "zhongguose": "http://zhongguose.com",
+        "others": "#"
     }
 }

@@ -1,4 +1,5 @@
 const initState = {
+    displaySource: "zhongguose",
     displayColor: "anyuzi"
 }
 
@@ -8,6 +9,11 @@ const reducer = (state = initState, action) => {
             return {
                 ...state,
                 displayColor: action.displayColor
+            }
+        case "SWITCH_DISPLAY_SOURCE":
+            return {
+                ...state,
+                displaySource: action.displaySource
             }
         default:
             return state

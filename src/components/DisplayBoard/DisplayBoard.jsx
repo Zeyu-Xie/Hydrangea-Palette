@@ -1,6 +1,7 @@
 import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "../../zhongguose.json"
+import others from "../../others.json"
 import "./DisplayBoard.css"
 import config from "../../config.json"
 
@@ -19,7 +20,7 @@ class DisplayBoard extends React.Component {
     }
 
     componentDidUpdate(prevProps, prevState) {
-        if (prevProps.displayColor !== this.props.displayColor) {
+        if (prevProps !== this.props) {
             this.getColorInfo()
         }
     }
@@ -46,7 +47,7 @@ class DisplayBoard extends React.Component {
                             this.state.color.hex && <p id="hex">- {this.state.color.hex}</p>
                         }
                         {
-                            this.state.color.label && <cite id="label">- <a href={config.urls.zhongguose}>{this.state.color.label}</a></cite>
+                            this.state.color.label && <cite id="label">- <a href={this.getUrl()}>{this.state.color.label}</a></cite>
                         }
                     </blockquote>
                 </div>
@@ -55,18 +56,47 @@ class DisplayBoard extends React.Component {
     }
 
     getColorInfo = () => {
-        const color = zhongguose.find((item) => {
-            return item["name_en"] === this.props.displayColor
-        })
-        this.setState({
-            color: color ? color : {}
-        })
+        switch (this.props.displaySource) {
+            case "zhongguose": {
+                const color = zhongguose.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+                })
+                return;
+            }
+            case "others": {
+                const color = others.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+                })
+                return;
+            }
+            default:
+                return;
+        }
+    }
+
+    getUrl = () => {
+        switch (this.props.displaySource) {
+            case "zhongguose": {
+                return config.urls.zhongguose
+            }
+            case "others": {
+                return config.urls.others
+            }
+            default:
+                return "#"
+        }
     }
 
 }
-
 const mapStateToProps = (state) => {
     return {
+        displaySource: state.displaySource,
         displayColor: state.displayColor
     }
 }

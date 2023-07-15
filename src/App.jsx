@@ -4,6 +4,7 @@ import zhongguose from "./zhongguose.json"
 import DisplayBoard from "./components/DisplayBoard/DisplayBoard"
 import ChartView from "./components/ChartView/ChartView"
 import "./App.css"
+import Navbar from "./components/Navbar/Navbar"
 
 class App extends React.Component {
 
@@ -28,6 +29,7 @@ class App extends React.Component {
     render() {
         return (
             <div id="App" className="container-fluid" style={{ backgroundColor: "#" + this.state.color.hex }}>
+                <Navbar />
                 <div className="row">
                     <div className="d-flex container-fluid col-12 col-md-5 justify-content-center">
                         <DisplayBoard />
