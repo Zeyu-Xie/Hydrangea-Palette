@@ -1,6 +1,7 @@
 import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "../../zhongguose.json"
+import css_default from "../../default.json"
 import others from "../../others.json"
 import "./DisplayBoard.css"
 import config from "../../config.json"
@@ -13,15 +14,18 @@ class DisplayBoard extends React.Component {
             color: {}
         }
         this.getColorInfo = this.getColorInfo.bind(this)
+        this.getUrl = this.getUrl.bind(this)
     }
 
     componentDidMount() {
         this.getColorInfo()
+        this.getUrl()
     }
 
     componentDidUpdate(prevProps, prevState) {
         if (prevProps !== this.props) {
             this.getColorInfo()
+            this.getUrl()
         }
     }
 
@@ -66,6 +70,17 @@ class DisplayBoard extends React.Component {
                 })
                 return;
             }
+            case "css_default": {
+                const color = css_default.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+
+                })
+                return;
+            }
+
             case "others": {
                 const color = others.find((item) => {
                     return item["name_en"] === this.props.displayColor
@@ -84,6 +99,9 @@ class DisplayBoard extends React.Component {
         switch (this.props.displaySource) {
             case "zhongguose": {
                 return config.urls.zhongguose
+            }
+            case "css_default": {
+                return config.urls.css_default
             }
             case "others": {
                 return config.urls.others

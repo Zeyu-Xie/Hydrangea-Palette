@@ -1,6 +1,8 @@
 import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "./zhongguose.json"
+import css_default from "./default.json"
+import others from "./others.json"
 import DisplayBoard from "./components/DisplayBoard/DisplayBoard"
 import ChartView from "./components/ChartView/ChartView"
 import "./App.css"
@@ -21,7 +23,7 @@ class App extends React.Component {
     }
 
     componentDidUpdate(prevProps, prevState) {
-        if (prevProps.displayColor !== this.props.displayColor) {
+        if (prevProps !== this.props) {
             this.getColorInfo()
         }
     }
@@ -43,18 +45,46 @@ class App extends React.Component {
     }
 
     getColorInfo = () => {
-        const color = zhongguose.find((item) => {
-            return item["name_en"] === this.props.displayColor
-        })
-        this.setState({
-            color: color ? color : {}
-        })
+        switch (this.props.displaySource) {
+            case "zhongguose": {
+                const color = zhongguose.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+                })
+                return
+            }
+            case "css_default": {
+                const color = css_default.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+                })
+                return
+            }
+            case "others": {
+                const color = others.find((item) => {
+                    return item["name_en"] === this.props.displayColor
+                })
+                this.setState({
+                    color: color ? color : {}
+                })
+                return
+            }
+            default: {
+                return
+            }
+        }
+
     }
 }
 
 const mapStateToProps = (state) => {
     return {
-        displayColor: state.displayColor
+        displayColor: state.displayColor,
+        displaySource: state.displaySource
     }
 }
 

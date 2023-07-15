@@ -13,7 +13,8 @@ const reducer = (state = initState, action) => {
         case "SWITCH_DISPLAY_SOURCE":
             return {
                 ...state,
-                displaySource: action.displaySource
+                displaySource: action.displaySource,
+                displayColor: action.displayColor
             }
         default:
             return state

@@ -1,6 +1,7 @@
 {
     "urls": {
         "zhongguose": "http://zhongguose.com",
+        "css_default": "#",
         "others": "#"
     }
 }
