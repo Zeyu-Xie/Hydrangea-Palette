@@ -18,9 +18,6 @@ class Navbar extends React.Component {
                     <li><a className="dropdown-item" href="#" onClick={() => {
                         this.props.switchDisplaySource("css_default")
                     }}>css_default</a></li>
-                    <li><a className="dropdown-item" href="#" onClick={() => {
-                        this.props.switchDisplaySource("others")
-                    }}>others</a></li>
                 </ul>
             </div>
         )

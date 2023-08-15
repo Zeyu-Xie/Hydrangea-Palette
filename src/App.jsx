@@ -2,7 +2,6 @@ import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "./zhongguose.json"
 import css_default from "./default.json"
-import others from "./others.json"
 import DisplayBoard from "./components/DisplayBoard/DisplayBoard"
 import ChartView from "./components/ChartView/ChartView"
 import "./App.css"
@@ -57,15 +56,6 @@ class App extends React.Component {
             }
             case "css_default": {
                 const color = css_default.find((item) => {
-                    return item["name_en"] === this.props.displayColor
-                })
-                this.setState({
-                    color: color ? color : {}
-                })
-                return
-            }
-            case "others": {
-                const color = others.find((item) => {
                     return item["name_en"] === this.props.displayColor
                 })
                 this.setState({

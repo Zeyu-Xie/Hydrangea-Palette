@@ -1,6 +1,5 @@
 import zhongguose from "../../zhongguose.json"
 import css_default from "../../default.json"
-import others from "../../others.json"
 
 function switchDisplaySource(dispatch) {
     return {
@@ -13,10 +12,6 @@ function switchDisplaySource(dispatch) {
                 }
                 case "css_default": {
                     displaySourceFile = css_default
-                    break
-                }
-                case "others": {
-                    displaySourceFile = others
                     break
                 }
                 default:

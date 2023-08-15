@@ -2,7 +2,6 @@ import React from "react"
 import { connect } from "react-redux"
 import zhongguose from "../../zhongguose.json"
 import css_default from "../../default.json"
-import others from "../../others.json"
 import "./DisplayBoard.css"
 import config from "../../config.json"
 
@@ -50,9 +49,6 @@ class DisplayBoard extends React.Component {
                         {
                             this.state.color.hex && <p id="hex">- {this.state.color.hex}</p>
                         }
-                        {
-                            this.state.color.label && <cite id="label">- <a href={this.getUrl()}>{this.state.color.label}</a></cite>
-                        }
                     </blockquote>
                 </div>
             </div>
@@ -77,16 +73,6 @@ class DisplayBoard extends React.Component {
                 this.setState({
                     color: color ? color : {}
 
-                })
-                return;
-            }
-
-            case "others": {
-                const color = others.find((item) => {
-                    return item["name_en"] === this.props.displayColor
-                })
-                this.setState({
-                    color: color ? color : {}
                 })
                 return;
             }
