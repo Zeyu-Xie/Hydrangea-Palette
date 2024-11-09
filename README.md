@@ -1,2 +1,3 @@
-# Palette
-Colors for artists.
+# Hydrangea-Palette
+
+A website for displaying various colors for artists.
